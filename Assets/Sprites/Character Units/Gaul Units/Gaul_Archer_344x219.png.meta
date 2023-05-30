@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: 3e2de1143adfc6b4abb929cc10d100a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1691895789605475693
+    second: Gaul_Archer_344x219_0
+  - first:
+      213: -8978951411174049406
+    second: Gaul_Archer_344x219_1
+  - first:
+      213: 7810843459753130592
+    second: Gaul_Archer_344x219_2
+  - first:
+      213: 3461453763189675497
+    second: Gaul_Archer_344x219_3
+  - first:
+      213: 975753896258482514
+    second: Gaul_Archer_344x219_4
+  - first:
+      213: 7213040512136985480
+    second: Gaul_Archer_344x219_5
+  - first:
+      213: 2488749297094816359
+    second: Gaul_Archer_344x219_6
+  - first:
+      213: 5980450477586304094
+    second: Gaul_Archer_344x219_7
+  - first:
+      213: -7965053795508192454
+    second: Gaul_Archer_344x219_8
+  - first:
+      213: 1115934582850619296
+    second: Gaul_Archer_344x219_9
+  - first:
+      213: -6918932958704502703
+    second: Gaul_Archer_344x219_10
+  - first:
+      213: -5110908861851920341
+    second: Gaul_Archer_344x219_11
+  - first:
+      213: -1849715758772520380
+    second: Gaul_Archer_344x219_12
+  - first:
+      213: -6248615038573542026
+    second: Gaul_Archer_344x219_13
+  - first:
+      213: -1153723899170597623
+    second: Gaul_Archer_344x219_14
+  - first:
+      213: -1348255295742381126
+    second: Gaul_Archer_344x219_15
+  - first:
+      213: -522815149070630364
+    second: Gaul_Archer_344x219_16
+  - first:
+      213: 5200991913838765935
+    second: Gaul_Archer_344x219_17
+  - first:
+      213: -5440029396562522400
+    second: Gaul_Archer_344x219_18
+  - first:
+      213: -4879905371391235058
+    second: Gaul_Archer_344x219_19
+  - first:
+      213: -6447439078168091262
+    second: Gaul_Archer_344x219_20
+  - first:
+      213: 2569637273420138018
+    second: Gaul_Archer_344x219_21
+  - first:
+      213: 4559482441824814098
+    second: Gaul_Archer_344x219_22
+  - first:
+      213: -1392571704536025596
+    second: Gaul_Archer_344x219_23
+  - first:
+      213: 642657102918220260
+    second: Gaul_Archer_344x219_24
+  - first:
+      213: 671312673143746723
+    second: Gaul_Archer_344x219_25
+  - first:
+      213: -389485260121162829
+    second: Gaul_Archer_344x219_26
+  - first:
+      213: -8347364404423839692
+    second: Gaul_Archer_344x219_27
+  - first:
+      213: 6329257664943039845
+    second: Gaul_Archer_344x219_28
+  - first:
+      213: -3197547261510500228
+    second: Gaul_Archer_344x219_29
+  - first:
+      213: -4808253831430051480
+    second: Gaul_Archer_344x219_30
+  - first:
+      213: -921169175150067158
+    second: Gaul_Archer_344x219_31
+  - first:
+      213: -1265937715580663885
+    second: Gaul_Archer_344x219_32
+  - first:
+      213: 602439431256330885
+    second: Gaul_Archer_344x219_33
+  - first:
+      213: -4527754160414213112
+    second: Gaul_Archer_344x219_34
+  - first:
+      213: -66888708847346634
+    second: Gaul_Archer_344x219_35
+  - first:
+      213: -7773478997992969733
+    second: Gaul_Archer_344x219_36
+  - first:
+      213: -4359935596227036504
+    second: Gaul_Archer_344x219_37
+  - first:
+      213: 5073709430838369543
+    second: Gaul_Archer_344x219_38
+  - first:
+      213: -325302935978263035
+    second: Gaul_Archer_344x219_39
+  - first:
+      213: -814672183288349963
+    second: Gaul_Archer_344x219_40
+  - first:
+      213: 6041263128180170991
+    second: Gaul_Archer_344x219_41
+  - first:
+      213: -350634524588817809
+    second: Gaul_Archer_344x219_42
+  - first:
+      213: -8036683996709895286
+    second: Gaul_Archer_344x219_43
+  - first:
+      213: -3471949771776768194
+    second: Gaul_Archer_344x219_44
+  - first:
+      213: -4732357394612062439
+    second: Gaul_Archer_344x219_45
+  - first:
+      213: 1524094552567779084
+    second: Gaul_Archer_344x219_46
+  - first:
+      213: 872344670299135139
+    second: Gaul_Archer_344x219_47
+  - first:
+      213: 6911152684577778681
+    second: Gaul_Archer_344x219_48
+  - first:
+      213: 4631225629115502910
+    second: Gaul_Archer_344x219_49
+  - first:
+      213: -3243537218105036785
+    second: Gaul_Archer_344x219_50
+  - first:
+      213: -974138383519163859
+    second: Gaul_Archer_344x219_51
+  - first:
+      213: -1608488192945602136
+    second: Gaul_Archer_344x219_52
+  - first:
+      213: 8631153903798441227
+    second: Gaul_Archer_344x219_53
+  - first:
+      213: 319920820936891720
+    second: Gaul_Archer_344x219_54
+  - first:
+      213: -2758830393396422261
+    second: Gaul_Archer_344x219_55
+  - first:
+      213: -3887312897777368941
+    second: Gaul_Archer_344x219_56
+  - first:
+      213: 5387640088926686498
+    second: Gaul_Archer_344x219_57
+  - first:
+      213: -252872844760821883
+    second: Gaul_Archer_344x219_58
+  - first:
+      213: -362570982574293928
+    second: Gaul_Archer_344x219_59
+  - first:
+      213: 9144306894069275177
+    second: Gaul_Archer_344x219_60
+  - first:
+      213: 3630500571068517551
+    second: Gaul_Archer_344x219_61
+  - first:
+      213: -1592629084714333863
+    second: Gaul_Archer_344x219_62
+  - first:
+      213: -819218713210299922
+    second: Gaul_Archer_344x219_63
+  - first:
+      213: -8431592182832321571
+    second: Gaul_Archer_344x219_64
+  - first:
+      213: 2886309830471576246
+    second: Gaul_Archer_344x219_65
+  - first:
+      213: 4934750444891602259
+    second: Gaul_Archer_344x219_66
+  - first:
+      213: 1312176546399829079
+    second: Gaul_Archer_344x219_67
+  - first:
+      213: 238884170893632898
+    second: Gaul_Archer_344x219_68
+  - first:
+      213: -8750178467785360336
+    second: Gaul_Archer_344x219_69
+  - first:
+      213: 5286814089705093769
+    second: Gaul_Archer_344x219_70
+  - first:
+      213: -3914291073443194800
+    second: Gaul_Archer_344x219_71
+  - first:
+      213: -3644493682558090480
+    second: Gaul_Archer_344x219_72
+  - first:
+      213: -6666723269265158240
+    second: Gaul_Archer_344x219_73
+  - first:
+      213: -3063822237408858841
+    second: Gaul_Archer_344x219_74
+  - first:
+      213: -4701265229800851277
+    second: Gaul_Archer_344x219_75
+  - first:
+      213: 4170972742982935363
+    second: Gaul_Archer_344x219_76
+  - first:
+      213: 3988516612527392419
+    second: Gaul_Archer_344x219_77
+  - first:
+      213: -7324611300065460758
+    second: Gaul_Archer_344x219_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a269f4ebd2588e0800000000000000
+      internalID: -1691895789605475693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2897a79934b546380800000000000000
+      internalID: -8978951411174049406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab4c63eb0b56c60800000000000000
+      internalID: 7810843459753130592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e51c59abdd890030800000000000000
+      internalID: 3461453763189675497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b0b6bff29a8d00800000000000000
+      internalID: 975753896258482514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_5
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3d64212ed91460800000000000000
+      internalID: 7213040512136985480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_6
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f65cbc40d98220800000000000000
+      internalID: 2488749297094816359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_7
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cc8590604def250800000000000000
+      internalID: 5980450477586304094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_8
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b7bdd06c1767190800000000000000
+      internalID: -7965053795508192454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_9
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7826337989c7f00800000000000000
+      internalID: 1115934582850619296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_10
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158fca3d1230bff90800000000000000
+      internalID: -6918932958704502703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_11
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b289be908776219b0800000000000000
+      internalID: -5110908861851920341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_12
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44afbee415d7456e0800000000000000
+      internalID: -1849715758772520380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_13
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67509af9ab57849a0800000000000000
+      internalID: -6248615038573542026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_14
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905de05f9362dffe0800000000000000
+      internalID: -1153723899170597623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_15
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37cbea3f80a4de0800000000000000
+      internalID: -1348255295742381126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_16
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422c37454669eb8f0800000000000000
+      internalID: -522815149070630364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_17
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e900f692ad2840800000000000000
+      internalID: 5200991913838765935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_18
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee453a16122184b0800000000000000
+      internalID: -5440029396562522400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_19
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c64b86be7174cb0800000000000000
+      internalID: -4879905371391235058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_20
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285a1d281581686a0800000000000000
+      internalID: -6447439078168091262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_21
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2268fc35c7f29a320800000000000000
+      internalID: 2569637273420138018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_22
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144998af19864f30800000000000000
+      internalID: 4559482441824814098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_23
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406bed2b9679cace0800000000000000
+      internalID: -1392571704536025596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e972dbea3d2be800800000000000000
+      internalID: 642657102918220260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a073f7c15bf05900800000000000000
+      internalID: 671312673143746723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb3a313835489af0800000000000000
+      internalID: -389485260121162829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_27
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b397ec44382c80800000000000000
+      internalID: -8347364404423839692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_28
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56529daff4a06d750800000000000000
+      internalID: 6329257664943039845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_29
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70c42df4b700a3d0800000000000000
+      internalID: -3197547261510500228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_30
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86963b39d96a54db0800000000000000
+      internalID: -4808253831430051480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_31
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22042904895733f0800000000000000
+      internalID: -921169175150067158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_32
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b78b0bda5c7e6ee0800000000000000
+      internalID: -1265937715580663885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_33
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d8ba887b4c5800800000000000000
+      internalID: 602439431256330885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_34
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cb636849f2a21c0800000000000000
+      internalID: -4527754160414213112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_35
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c5badd21d521ff0800000000000000
+      internalID: -66888708847346634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_36
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96ba7790e0f1490800000000000000
+      internalID: -7773478997992969733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_37
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa7e47dca56e73c0800000000000000
+      internalID: -4359935596227036504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_38
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9bae78df696640800000000000000
+      internalID: 5073709430838369543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_39
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ebf9804ba4c7bf0800000000000000
+      internalID: -325302935978263035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fab4b237f3b1b4f0800000000000000
+      internalID: -814672183288349963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe028dd9ec0e6d350800000000000000
+      internalID: 6041263128180170991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6245e3f1cb422bf0800000000000000
+      internalID: -350634524588817809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_43
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a834a043c76f77090800000000000000
+      internalID: -8036683996709895286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_44
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e374f37e31821dfc0800000000000000
+      internalID: -3471949771776768194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_45
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91774ffc50a435eb0800000000000000
+      internalID: -4732357394612062439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_46
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f09e9abeba62510800000000000000
+      internalID: 1524094552567779084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_47
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac92e21bd03b1c00800000000000000
+      internalID: 872344670299135139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_48
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbeeb0ffb859ef50800000000000000
+      internalID: 6911152684577778681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_49
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e315d122c2b654040800000000000000
+      internalID: 4631225629115502910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_50
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00371bc514acf2d0800000000000000
+      internalID: -3243537218105036785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_51
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a54482d4a2b72f0800000000000000
+      internalID: -974138383519163859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_52
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1411ab2808da9e0800000000000000
+      internalID: -1608488192945602136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_53
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d1a5eeb408c770800000000000000
+      internalID: 8631153903798441227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_54
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd138aa46907400800000000000000
+      internalID: 319920820936891720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_55
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b891e06cf5aa6b9d0800000000000000
+      internalID: -2758830393396422261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_56
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3908f2de38d7d0ac0800000000000000
+      internalID: -3887312897777368941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_57
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d012ead1eb4ca40800000000000000
+      internalID: 5387640088926686498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_58
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f40bacc7d9d7cf0800000000000000
+      internalID: -252872844760821883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_59
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c7bc1cc93e7faf0800000000000000
+      internalID: -362570982574293928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_60
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a972aebaa17ee70800000000000000
+      internalID: 9144306894069275177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_61
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac446fb801226230800000000000000
+      internalID: 3630500571068517551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_62
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95985aa1948d5e9e0800000000000000
+      internalID: -1592629084714333863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_63
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee95fb5bbec81a4f0800000000000000
+      internalID: -819218713210299922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba15b0597fcfa80800000000000000
+      internalID: -8431592182832321571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_65
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bae9fc9f7b3e0820800000000000000
+      internalID: 2886309830471576246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_66
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35df6fa5261cb7440800000000000000
+      internalID: 4934750444891602259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_67
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cb2c2ed99c53210800000000000000
+      internalID: 1312176546399829079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_68
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285249443efa05300800000000000000
+      internalID: 238884170893632898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_69
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cb1624b0f119680800000000000000
+      internalID: -8750178467785360336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_70
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af66267698e5940800000000000000
+      internalID: 5286814089705093769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_71
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0589febe105ada9c0800000000000000
+      internalID: -3914291073443194800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_72
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01348f81e482c6dc0800000000000000
+      internalID: -3644493682558090480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_73
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af8e97228a0b73a0800000000000000
+      internalID: -6666723269265158240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_74
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d6d4c68ed1b75d0800000000000000
+      internalID: -3063822237408858841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_75
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b833de8e20c1ceb0800000000000000
+      internalID: -4701265229800851277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_76
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a5596c9542e930800000000000000
+      internalID: 4170972742982935363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_77
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6807e1abe0a5730800000000000000
+      internalID: 3988516612527392419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Archer_344x219_78
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed39cd74d0c95a90800000000000000
+      internalID: -7324611300065460758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_Archer_344x219_0: -1691895789605475693
+      Gaul_Archer_344x219_1: -8978951411174049406
+      Gaul_Archer_344x219_10: -6918932958704502703
+      Gaul_Archer_344x219_11: -5110908861851920341
+      Gaul_Archer_344x219_12: -1849715758772520380
+      Gaul_Archer_344x219_13: -6248615038573542026
+      Gaul_Archer_344x219_14: -1153723899170597623
+      Gaul_Archer_344x219_15: -1348255295742381126
+      Gaul_Archer_344x219_16: -522815149070630364
+      Gaul_Archer_344x219_17: 5200991913838765935
+      Gaul_Archer_344x219_18: -5440029396562522400
+      Gaul_Archer_344x219_19: -4879905371391235058
+      Gaul_Archer_344x219_2: 7810843459753130592
+      Gaul_Archer_344x219_20: -6447439078168091262
+      Gaul_Archer_344x219_21: 2569637273420138018
+      Gaul_Archer_344x219_22: 4559482441824814098
+      Gaul_Archer_344x219_23: -1392571704536025596
+      Gaul_Archer_344x219_24: 642657102918220260
+      Gaul_Archer_344x219_25: 671312673143746723
+      Gaul_Archer_344x219_26: -389485260121162829
+      Gaul_Archer_344x219_27: -8347364404423839692
+      Gaul_Archer_344x219_28: 6329257664943039845
+      Gaul_Archer_344x219_29: -3197547261510500228
+      Gaul_Archer_344x219_3: 3461453763189675497
+      Gaul_Archer_344x219_30: -4808253831430051480
+      Gaul_Archer_344x219_31: -921169175150067158
+      Gaul_Archer_344x219_32: -1265937715580663885
+      Gaul_Archer_344x219_33: 602439431256330885
+      Gaul_Archer_344x219_34: -4527754160414213112
+      Gaul_Archer_344x219_35: -66888708847346634
+      Gaul_Archer_344x219_36: -7773478997992969733
+      Gaul_Archer_344x219_37: -4359935596227036504
+      Gaul_Archer_344x219_38: 5073709430838369543
+      Gaul_Archer_344x219_39: -325302935978263035
+      Gaul_Archer_344x219_4: 975753896258482514
+      Gaul_Archer_344x219_40: -814672183288349963
+      Gaul_Archer_344x219_41: 6041263128180170991
+      Gaul_Archer_344x219_42: -350634524588817809
+      Gaul_Archer_344x219_43: -8036683996709895286
+      Gaul_Archer_344x219_44: -3471949771776768194
+      Gaul_Archer_344x219_45: -4732357394612062439
+      Gaul_Archer_344x219_46: 1524094552567779084
+      Gaul_Archer_344x219_47: 872344670299135139
+      Gaul_Archer_344x219_48: 6911152684577778681
+      Gaul_Archer_344x219_49: 4631225629115502910
+      Gaul_Archer_344x219_5: 7213040512136985480
+      Gaul_Archer_344x219_50: -3243537218105036785
+      Gaul_Archer_344x219_51: -974138383519163859
+      Gaul_Archer_344x219_52: -1608488192945602136
+      Gaul_Archer_344x219_53: 8631153903798441227
+      Gaul_Archer_344x219_54: 319920820936891720
+      Gaul_Archer_344x219_55: -2758830393396422261
+      Gaul_Archer_344x219_56: -3887312897777368941
+      Gaul_Archer_344x219_57: 5387640088926686498
+      Gaul_Archer_344x219_58: -252872844760821883
+      Gaul_Archer_344x219_59: -362570982574293928
+      Gaul_Archer_344x219_6: 2488749297094816359
+      Gaul_Archer_344x219_60: 9144306894069275177
+      Gaul_Archer_344x219_61: 3630500571068517551
+      Gaul_Archer_344x219_62: -1592629084714333863
+      Gaul_Archer_344x219_63: -819218713210299922
+      Gaul_Archer_344x219_64: -8431592182832321571
+      Gaul_Archer_344x219_65: 2886309830471576246
+      Gaul_Archer_344x219_66: 4934750444891602259
+      Gaul_Archer_344x219_67: 1312176546399829079
+      Gaul_Archer_344x219_68: 238884170893632898
+      Gaul_Archer_344x219_69: -8750178467785360336
+      Gaul_Archer_344x219_7: 5980450477586304094
+      Gaul_Archer_344x219_70: 5286814089705093769
+      Gaul_Archer_344x219_71: -3914291073443194800
+      Gaul_Archer_344x219_72: -3644493682558090480
+      Gaul_Archer_344x219_73: -6666723269265158240
+      Gaul_Archer_344x219_74: -3063822237408858841
+      Gaul_Archer_344x219_75: -4701265229800851277
+      Gaul_Archer_344x219_76: 4170972742982935363
+      Gaul_Archer_344x219_77: 3988516612527392419
+      Gaul_Archer_344x219_78: -7324611300065460758
+      Gaul_Archer_344x219_8: -7965053795508192454
+      Gaul_Archer_344x219_9: 1115934582850619296
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

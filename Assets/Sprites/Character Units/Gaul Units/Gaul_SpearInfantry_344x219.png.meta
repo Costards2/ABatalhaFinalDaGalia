@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: 2a10a2371eaab794491b2040e440afeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3719564283465408693
+    second: Gaul_SpearInfantry_344x219_0
+  - first:
+      213: -2001437242401647266
+    second: Gaul_SpearInfantry_344x219_1
+  - first:
+      213: 199638434063218147
+    second: Gaul_SpearInfantry_344x219_2
+  - first:
+      213: -2201879478154246452
+    second: Gaul_SpearInfantry_344x219_3
+  - first:
+      213: 2894428836463524618
+    second: Gaul_SpearInfantry_344x219_4
+  - first:
+      213: -55711512415846798
+    second: Gaul_SpearInfantry_344x219_5
+  - first:
+      213: -4256382962534910841
+    second: Gaul_SpearInfantry_344x219_6
+  - first:
+      213: -6966953758134149209
+    second: Gaul_SpearInfantry_344x219_7
+  - first:
+      213: 2321872557349865478
+    second: Gaul_SpearInfantry_344x219_8
+  - first:
+      213: 4123084887344719670
+    second: Gaul_SpearInfantry_344x219_9
+  - first:
+      213: -7852736527423372242
+    second: Gaul_SpearInfantry_344x219_10
+  - first:
+      213: 5866885309433307435
+    second: Gaul_SpearInfantry_344x219_11
+  - first:
+      213: -5890933854212118365
+    second: Gaul_SpearInfantry_344x219_12
+  - first:
+      213: 3815885537106417968
+    second: Gaul_SpearInfantry_344x219_13
+  - first:
+      213: 6717699078950732048
+    second: Gaul_SpearInfantry_344x219_14
+  - first:
+      213: 4552029535099449
+    second: Gaul_SpearInfantry_344x219_15
+  - first:
+      213: 1294546578131934574
+    second: Gaul_SpearInfantry_344x219_16
+  - first:
+      213: -7582243091654702154
+    second: Gaul_SpearInfantry_344x219_17
+  - first:
+      213: 2514115258739010433
+    second: Gaul_SpearInfantry_344x219_18
+  - first:
+      213: 5762678605323349128
+    second: Gaul_SpearInfantry_344x219_19
+  - first:
+      213: -3419109682570072388
+    second: Gaul_SpearInfantry_344x219_20
+  - first:
+      213: 7985632673294774829
+    second: Gaul_SpearInfantry_344x219_21
+  - first:
+      213: 4701300589935904114
+    second: Gaul_SpearInfantry_344x219_22
+  - first:
+      213: -2335746856952412883
+    second: Gaul_SpearInfantry_344x219_23
+  - first:
+      213: 5050819670959418296
+    second: Gaul_SpearInfantry_344x219_24
+  - first:
+      213: -5223564801568033823
+    second: Gaul_SpearInfantry_344x219_25
+  - first:
+      213: 8476112987958327387
+    second: Gaul_SpearInfantry_344x219_26
+  - first:
+      213: -4603395655769876453
+    second: Gaul_SpearInfantry_344x219_27
+  - first:
+      213: 8477556444644291557
+    second: Gaul_SpearInfantry_344x219_28
+  - first:
+      213: 4003786530930270197
+    second: Gaul_SpearInfantry_344x219_29
+  - first:
+      213: 8944267223464435104
+    second: Gaul_SpearInfantry_344x219_30
+  - first:
+      213: -892461095434481649
+    second: Gaul_SpearInfantry_344x219_31
+  - first:
+      213: -8414071005744692174
+    second: Gaul_SpearInfantry_344x219_32
+  - first:
+      213: 4923342457857422577
+    second: Gaul_SpearInfantry_344x219_33
+  - first:
+      213: -680070924603460821
+    second: Gaul_SpearInfantry_344x219_34
+  - first:
+      213: -7677821856941380473
+    second: Gaul_SpearInfantry_344x219_35
+  - first:
+      213: -5823879220843666708
+    second: Gaul_SpearInfantry_344x219_36
+  - first:
+      213: 7352615198623842920
+    second: Gaul_SpearInfantry_344x219_37
+  - first:
+      213: -1825028584016019557
+    second: Gaul_SpearInfantry_344x219_38
+  - first:
+      213: -5550622041858355997
+    second: Gaul_SpearInfantry_344x219_39
+  - first:
+      213: -9842301977464176
+    second: Gaul_SpearInfantry_344x219_40
+  - first:
+      213: -3726697664840146843
+    second: Gaul_SpearInfantry_344x219_41
+  - first:
+      213: -6065740300186223832
+    second: Gaul_SpearInfantry_344x219_42
+  - first:
+      213: -364093325888378114
+    second: Gaul_SpearInfantry_344x219_43
+  - first:
+      213: 9040301395880877383
+    second: Gaul_SpearInfantry_344x219_44
+  - first:
+      213: -4629165598311127902
+    second: Gaul_SpearInfantry_344x219_45
+  - first:
+      213: -5685840779383039634
+    second: Gaul_SpearInfantry_344x219_46
+  - first:
+      213: 879518033096731829
+    second: Gaul_SpearInfantry_344x219_47
+  - first:
+      213: -538854217047865594
+    second: Gaul_SpearInfantry_344x219_48
+  - first:
+      213: 9065858945465232615
+    second: Gaul_SpearInfantry_344x219_49
+  - first:
+      213: -4604162387694521504
+    second: Gaul_SpearInfantry_344x219_50
+  - first:
+      213: 6083890345778399422
+    second: Gaul_SpearInfantry_344x219_51
+  - first:
+      213: -7448831141353141556
+    second: Gaul_SpearInfantry_344x219_52
+  - first:
+      213: -6284269347584131965
+    second: Gaul_SpearInfantry_344x219_53
+  - first:
+      213: 1287644660032540721
+    second: Gaul_SpearInfantry_344x219_54
+  - first:
+      213: 4171775956277319557
+    second: Gaul_SpearInfantry_344x219_55
+  - first:
+      213: 5887431086114020221
+    second: Gaul_SpearInfantry_344x219_56
+  - first:
+      213: 876056544384060755
+    second: Gaul_SpearInfantry_344x219_57
+  - first:
+      213: -5700382440639759446
+    second: Gaul_SpearInfantry_344x219_58
+  - first:
+      213: -7390082030872190796
+    second: Gaul_SpearInfantry_344x219_59
+  - first:
+      213: -5918195546115734356
+    second: Gaul_SpearInfantry_344x219_60
+  - first:
+      213: -890535954503438189
+    second: Gaul_SpearInfantry_344x219_61
+  - first:
+      213: 2363993679303848882
+    second: Gaul_SpearInfantry_344x219_62
+  - first:
+      213: 5170272585243107682
+    second: Gaul_SpearInfantry_344x219_63
+  - first:
+      213: -6988872414218210935
+    second: Gaul_SpearInfantry_344x219_64
+  - first:
+      213: -960371367690750348
+    second: Gaul_SpearInfantry_344x219_65
+  - first:
+      213: -6730450922457976709
+    second: Gaul_SpearInfantry_344x219_66
+  - first:
+      213: -4785716937937888162
+    second: Gaul_SpearInfantry_344x219_67
+  - first:
+      213: -6852456589371214797
+    second: Gaul_SpearInfantry_344x219_68
+  - first:
+      213: 6669003314327522868
+    second: Gaul_SpearInfantry_344x219_69
+  - first:
+      213: -6084575812195344445
+    second: Gaul_SpearInfantry_344x219_70
+  - first:
+      213: -5175526336696191974
+    second: Gaul_SpearInfantry_344x219_71
+  - first:
+      213: -5642727405835784709
+    second: Gaul_SpearInfantry_344x219_72
+  - first:
+      213: 7237770352485163760
+    second: Gaul_SpearInfantry_344x219_73
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0af2b320c8e9330800000000000000
+      internalID: 3719564283465408693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55996e9e677934e0800000000000000
+      internalID: -2001437242401647266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e57ad9191245c200800000000000000
+      internalID: 199638434063218147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c46ad74a5171e0800000000000000
+      internalID: -2201879478154246452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b3e0101b31b2820800000000000000
+      internalID: 2894428836463524618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_5
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ebd84bca21a3ff0800000000000000
+      internalID: -55711512415846798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_6
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784f4123f3a4ee4c0800000000000000
+      internalID: -4256382962534910841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_7
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af57df2878605f90800000000000000
+      internalID: -6966953758134149209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_8
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60801920ac2f83020800000000000000
+      internalID: 2321872557349865478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_9
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637a6f82cd3283930800000000000000
+      internalID: 4123084887344719670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_10
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e240230ebb9750390800000000000000
+      internalID: -7852736527423372242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_11
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21eab6da1d5b6150800000000000000
+      internalID: 5866885309433307435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_12
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82d500fd23f3ea0800000000000000
+      internalID: -5890933854212118365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_13
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03957c6bdafb4f430800000000000000
+      internalID: 3815885537106417968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_14
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011c3dc68bf0a3d50800000000000000
+      internalID: 6717699078950732048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_15
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5277fb0c201000800000000000000
+      internalID: 4552029535099449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_16
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d50c6014727f110800000000000000
+      internalID: 1294546578131934574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_17
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb0341a41676c690800000000000000
+      internalID: -7582243091654702154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_18
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2789e18ee3e220800000000000000
+      internalID: 2514115258739010433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88caa09d8a529ff40800000000000000
+      internalID: 5762678605323349128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeef42ebd1ec80d0800000000000000
+      internalID: -3419109682570072388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22fc7e4b9aa2de60800000000000000
+      internalID: 7985632673294774829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c67d5aff5e3140800000000000000
+      internalID: 4701300589935904114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_23
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25cd12eb92c59fd0800000000000000
+      internalID: -2335746856952412883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_24
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6718fabd181640800000000000000
+      internalID: 5050819670959418296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_25
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3bd451d7b2287b0800000000000000
+      internalID: -5223564801568033823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_26
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b45baad331a570800000000000000
+      internalID: 8476112987958327387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_27
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1892497a047d10c0800000000000000
+      internalID: -4603395655769876453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_28
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3b85e9ba456a570800000000000000
+      internalID: 8477556444644291557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_29
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff979c03ae409730800000000000000
+      internalID: 4003786530930270197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_30
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad54c6a6ab602c70800000000000000
+      internalID: 8944267223464435104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_31
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0095c6bc575d93f0800000000000000
+      internalID: -892461095434481649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_32
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2348cabfff63b3b80800000000000000
+      internalID: -8414071005744692174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_33
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b03461e9335440800000000000000
+      internalID: 4923342457857422577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_34
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2370f4e817ef86f0800000000000000
+      internalID: -680070924603460821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c674033b5e27590800000000000000
+      internalID: -7677821856941380473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2a5d274bc6d2fa0800000000000000
+      internalID: -5823879220843666708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862cc1c319cb90660800000000000000
+      internalID: 7352615198623842920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_38
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f7ac81c223ca6e0800000000000000
+      internalID: -1825028584016019557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_39
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec449059aa38f2b0800000000000000
+      internalID: -5550622041858355997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_40
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927cde7a780ddff0800000000000000
+      internalID: -9842301977464176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_41
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ecedf73c184cc0800000000000000
+      internalID: -3726697664840146843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_42
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf0aba55922dba0800000000000000
+      internalID: -6065740300186223832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa25559c0b72faf0800000000000000
+      internalID: -364093325888378114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_44
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d92f3d83a957d70800000000000000
+      internalID: 9040301395880877383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_45
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4e43a2a66e1cfb0800000000000000
+      internalID: -4629165598311127902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_46
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69917f9fe5d711b0800000000000000
+      internalID: -5685840779383039634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_47
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bce740cdfca43c00800000000000000
+      internalID: 879518033096731829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_48
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607042fc1fa9588f0800000000000000
+      internalID: -538854217047865594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_49
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eca04c8da660dd70800000000000000
+      internalID: 9065858945465232615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_50
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f049c3baba10c0800000000000000
+      internalID: -4604162387694521504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_51
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8cc8029025e6450800000000000000
+      internalID: 6083890345778399422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_52
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca47c3ea8f60a890800000000000000
+      internalID: -7448831141353141556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_53
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3f58e25ac9c8a0800000000000000
+      internalID: -6284269347584131965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_54
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301b2efef1aed110800000000000000
+      internalID: 1287644660032540721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_55
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587dc64112025e930800000000000000
+      internalID: 4171775956277319557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_56
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1b6f316b54b150800000000000000
+      internalID: 5887431086114020221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_57
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d0b2b19c0682c00800000000000000
+      internalID: 876056544384060755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_58
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabfac54f5c24e0b0800000000000000
+      internalID: -5700382440639759446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0add81c87217990800000000000000
+      internalID: -7390082030872190796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4097ab1885edda0800000000000000
+      internalID: -5918195546115734356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_61
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390fb14844e24a3f0800000000000000
+      internalID: -890535954503438189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_62
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3bc22f9b79ec020800000000000000
+      internalID: 2363993679303848882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_63
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2612b53e58f70c740800000000000000
+      internalID: 5170272585243107682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_64
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813ff16199820f90800000000000000
+      internalID: -6988872414218210935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_65
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476365054531ca2f0800000000000000
+      internalID: -960371367690750348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_66
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7031b4ab82a892a0800000000000000
+      internalID: -6730450922457976709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_67
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c54aefcc7b59db0800000000000000
+      internalID: -4785716937937888162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3347ebfa90f27e0a0800000000000000
+      internalID: -6852456589371214797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_69
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e05643e2f0d8c50800000000000000
+      internalID: 6669003314327522868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_70
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9929498e3f8ba0800000000000000
+      internalID: -6084575812195344445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_71
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147b87c736dc28b0800000000000000
+      internalID: -5175526336696191974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_72
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdebc2225101b1b0800000000000000
+      internalID: -5642727405835784709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SpearInfantry_344x219_73
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26bb9c9c9b17460800000000000000
+      internalID: 7237770352485163760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_SpearInfantry_344x219_0: 3719564283465408693
+      Gaul_SpearInfantry_344x219_1: -2001437242401647266
+      Gaul_SpearInfantry_344x219_10: -7852736527423372242
+      Gaul_SpearInfantry_344x219_11: 5866885309433307435
+      Gaul_SpearInfantry_344x219_12: -5890933854212118365
+      Gaul_SpearInfantry_344x219_13: 3815885537106417968
+      Gaul_SpearInfantry_344x219_14: 6717699078950732048
+      Gaul_SpearInfantry_344x219_15: 4552029535099449
+      Gaul_SpearInfantry_344x219_16: 1294546578131934574
+      Gaul_SpearInfantry_344x219_17: -7582243091654702154
+      Gaul_SpearInfantry_344x219_18: 2514115258739010433
+      Gaul_SpearInfantry_344x219_19: 5762678605323349128
+      Gaul_SpearInfantry_344x219_2: 199638434063218147
+      Gaul_SpearInfantry_344x219_20: -3419109682570072388
+      Gaul_SpearInfantry_344x219_21: 7985632673294774829
+      Gaul_SpearInfantry_344x219_22: 4701300589935904114
+      Gaul_SpearInfantry_344x219_23: -2335746856952412883
+      Gaul_SpearInfantry_344x219_24: 5050819670959418296
+      Gaul_SpearInfantry_344x219_25: -5223564801568033823
+      Gaul_SpearInfantry_344x219_26: 8476112987958327387
+      Gaul_SpearInfantry_344x219_27: -4603395655769876453
+      Gaul_SpearInfantry_344x219_28: 8477556444644291557
+      Gaul_SpearInfantry_344x219_29: 4003786530930270197
+      Gaul_SpearInfantry_344x219_3: -2201879478154246452
+      Gaul_SpearInfantry_344x219_30: 8944267223464435104
+      Gaul_SpearInfantry_344x219_31: -892461095434481649
+      Gaul_SpearInfantry_344x219_32: -8414071005744692174
+      Gaul_SpearInfantry_344x219_33: 4923342457857422577
+      Gaul_SpearInfantry_344x219_34: -680070924603460821
+      Gaul_SpearInfantry_344x219_35: -7677821856941380473
+      Gaul_SpearInfantry_344x219_36: -5823879220843666708
+      Gaul_SpearInfantry_344x219_37: 7352615198623842920
+      Gaul_SpearInfantry_344x219_38: -1825028584016019557
+      Gaul_SpearInfantry_344x219_39: -5550622041858355997
+      Gaul_SpearInfantry_344x219_4: 2894428836463524618
+      Gaul_SpearInfantry_344x219_40: -9842301977464176
+      Gaul_SpearInfantry_344x219_41: -3726697664840146843
+      Gaul_SpearInfantry_344x219_42: -6065740300186223832
+      Gaul_SpearInfantry_344x219_43: -364093325888378114
+      Gaul_SpearInfantry_344x219_44: 9040301395880877383
+      Gaul_SpearInfantry_344x219_45: -4629165598311127902
+      Gaul_SpearInfantry_344x219_46: -5685840779383039634
+      Gaul_SpearInfantry_344x219_47: 879518033096731829
+      Gaul_SpearInfantry_344x219_48: -538854217047865594
+      Gaul_SpearInfantry_344x219_49: 9065858945465232615
+      Gaul_SpearInfantry_344x219_5: -55711512415846798
+      Gaul_SpearInfantry_344x219_50: -4604162387694521504
+      Gaul_SpearInfantry_344x219_51: 6083890345778399422
+      Gaul_SpearInfantry_344x219_52: -7448831141353141556
+      Gaul_SpearInfantry_344x219_53: -6284269347584131965
+      Gaul_SpearInfantry_344x219_54: 1287644660032540721
+      Gaul_SpearInfantry_344x219_55: 4171775956277319557
+      Gaul_SpearInfantry_344x219_56: 5887431086114020221
+      Gaul_SpearInfantry_344x219_57: 876056544384060755
+      Gaul_SpearInfantry_344x219_58: -5700382440639759446
+      Gaul_SpearInfantry_344x219_59: -7390082030872190796
+      Gaul_SpearInfantry_344x219_6: -4256382962534910841
+      Gaul_SpearInfantry_344x219_60: -5918195546115734356
+      Gaul_SpearInfantry_344x219_61: -890535954503438189
+      Gaul_SpearInfantry_344x219_62: 2363993679303848882
+      Gaul_SpearInfantry_344x219_63: 5170272585243107682
+      Gaul_SpearInfantry_344x219_64: -6988872414218210935
+      Gaul_SpearInfantry_344x219_65: -960371367690750348
+      Gaul_SpearInfantry_344x219_66: -6730450922457976709
+      Gaul_SpearInfantry_344x219_67: -4785716937937888162
+      Gaul_SpearInfantry_344x219_68: -6852456589371214797
+      Gaul_SpearInfantry_344x219_69: 6669003314327522868
+      Gaul_SpearInfantry_344x219_7: -6966953758134149209
+      Gaul_SpearInfantry_344x219_70: -6084575812195344445
+      Gaul_SpearInfantry_344x219_71: -5175526336696191974
+      Gaul_SpearInfantry_344x219_72: -5642727405835784709
+      Gaul_SpearInfantry_344x219_73: 7237770352485163760
+      Gaul_SpearInfantry_344x219_8: 2321872557349865478
+      Gaul_SpearInfantry_344x219_9: 4123084887344719670
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

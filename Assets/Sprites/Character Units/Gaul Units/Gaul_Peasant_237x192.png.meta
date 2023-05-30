@@ -1,0 +1,2898 @@
+fileFormatVersion: 2
+guid: 20ca6f32f6e17b545b255556167db41f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2775886886020186090
+    second: Gaul_Peasant_237x192_0
+  - first:
+      213: 5877794350174183763
+    second: Gaul_Peasant_237x192_1
+  - first:
+      213: 3789424225928809468
+    second: Gaul_Peasant_237x192_2
+  - first:
+      213: 5927938327376040480
+    second: Gaul_Peasant_237x192_3
+  - first:
+      213: -8159337859227358432
+    second: Gaul_Peasant_237x192_4
+  - first:
+      213: 3023076376241168037
+    second: Gaul_Peasant_237x192_5
+  - first:
+      213: 3695906037325862350
+    second: Gaul_Peasant_237x192_6
+  - first:
+      213: -4850066553313968788
+    second: Gaul_Peasant_237x192_7
+  - first:
+      213: 7400398791340499828
+    second: Gaul_Peasant_237x192_8
+  - first:
+      213: 4781443206976995279
+    second: Gaul_Peasant_237x192_9
+  - first:
+      213: 5750626313842458172
+    second: Gaul_Peasant_237x192_10
+  - first:
+      213: 726325624275553902
+    second: Gaul_Peasant_237x192_11
+  - first:
+      213: 1455906306664227063
+    second: Gaul_Peasant_237x192_12
+  - first:
+      213: -1094940254626255492
+    second: Gaul_Peasant_237x192_13
+  - first:
+      213: -4328696187853531978
+    second: Gaul_Peasant_237x192_14
+  - first:
+      213: -5310990214615620719
+    second: Gaul_Peasant_237x192_15
+  - first:
+      213: -3089029508602194393
+    second: Gaul_Peasant_237x192_16
+  - first:
+      213: 3160329351410294411
+    second: Gaul_Peasant_237x192_17
+  - first:
+      213: 5798539969504413277
+    second: Gaul_Peasant_237x192_18
+  - first:
+      213: -8166308430815706572
+    second: Gaul_Peasant_237x192_19
+  - first:
+      213: 5908977024931327271
+    second: Gaul_Peasant_237x192_20
+  - first:
+      213: -5758341748804007727
+    second: Gaul_Peasant_237x192_21
+  - first:
+      213: -3466085457013207173
+    second: Gaul_Peasant_237x192_22
+  - first:
+      213: -3377548558304998900
+    second: Gaul_Peasant_237x192_23
+  - first:
+      213: 2376526658812712644
+    second: Gaul_Peasant_237x192_24
+  - first:
+      213: 6086863810571295700
+    second: Gaul_Peasant_237x192_25
+  - first:
+      213: 6662157052001813747
+    second: Gaul_Peasant_237x192_26
+  - first:
+      213: 2450693967225699266
+    second: Gaul_Peasant_237x192_27
+  - first:
+      213: 5388651430460250776
+    second: Gaul_Peasant_237x192_28
+  - first:
+      213: -7960048522487687567
+    second: Gaul_Peasant_237x192_29
+  - first:
+      213: 2766679435907523615
+    second: Gaul_Peasant_237x192_30
+  - first:
+      213: 5905391653141677735
+    second: Gaul_Peasant_237x192_31
+  - first:
+      213: 5734587154655962790
+    second: Gaul_Peasant_237x192_32
+  - first:
+      213: -2399366588290874928
+    second: Gaul_Peasant_237x192_33
+  - first:
+      213: -782862026448594481
+    second: Gaul_Peasant_237x192_34
+  - first:
+      213: -7097781824227939373
+    second: Gaul_Peasant_237x192_35
+  - first:
+      213: -1293224137918512673
+    second: Gaul_Peasant_237x192_36
+  - first:
+      213: 4652630318378823578
+    second: Gaul_Peasant_237x192_37
+  - first:
+      213: 4536806094364308966
+    second: Gaul_Peasant_237x192_38
+  - first:
+      213: 6221627927719822280
+    second: Gaul_Peasant_237x192_39
+  - first:
+      213: -2563848156165016412
+    second: Gaul_Peasant_237x192_40
+  - first:
+      213: -5594457968262602194
+    second: Gaul_Peasant_237x192_41
+  - first:
+      213: 4573616054327286986
+    second: Gaul_Peasant_237x192_42
+  - first:
+      213: 3011535492827205280
+    second: Gaul_Peasant_237x192_43
+  - first:
+      213: 7838446415018524601
+    second: Gaul_Peasant_237x192_44
+  - first:
+      213: -1690385803203486393
+    second: Gaul_Peasant_237x192_45
+  - first:
+      213: -2791544260014573417
+    second: Gaul_Peasant_237x192_46
+  - first:
+      213: 2350702362378209519
+    second: Gaul_Peasant_237x192_47
+  - first:
+      213: 3795943220548287886
+    second: Gaul_Peasant_237x192_48
+  - first:
+      213: -9125783248140575151
+    second: Gaul_Peasant_237x192_49
+  - first:
+      213: -1090630340898772516
+    second: Gaul_Peasant_237x192_50
+  - first:
+      213: 7724672781925562235
+    second: Gaul_Peasant_237x192_51
+  - first:
+      213: 6328892263804519488
+    second: Gaul_Peasant_237x192_52
+  - first:
+      213: -4664799277465352870
+    second: Gaul_Peasant_237x192_53
+  - first:
+      213: 5947897522978982832
+    second: Gaul_Peasant_237x192_54
+  - first:
+      213: 3569256954988824201
+    second: Gaul_Peasant_237x192_55
+  - first:
+      213: 2088894846025153297
+    second: Gaul_Peasant_237x192_56
+  - first:
+      213: -8651805843259117708
+    second: Gaul_Peasant_237x192_57
+  - first:
+      213: 3650872755444789283
+    second: Gaul_Peasant_237x192_58
+  - first:
+      213: -6475470792716277471
+    second: Gaul_Peasant_237x192_59
+  - first:
+      213: -3163390071148589372
+    second: Gaul_Peasant_237x192_60
+  - first:
+      213: 5796599816145547891
+    second: Gaul_Peasant_237x192_61
+  - first:
+      213: 2718426694238660970
+    second: Gaul_Peasant_237x192_62
+  - first:
+      213: -1646514570116725041
+    second: Gaul_Peasant_237x192_63
+  - first:
+      213: 1580742464864542987
+    second: Gaul_Peasant_237x192_64
+  - first:
+      213: -8821579264473512998
+    second: Gaul_Peasant_237x192_65
+  - first:
+      213: -7941964576742846657
+    second: Gaul_Peasant_237x192_66
+  - first:
+      213: 2292755830126972175
+    second: Gaul_Peasant_237x192_67
+  - first:
+      213: -2122943212582698428
+    second: Gaul_Peasant_237x192_68
+  - first:
+      213: -2726366878618011888
+    second: Gaul_Peasant_237x192_69
+  - first:
+      213: 5135285196139475724
+    second: Gaul_Peasant_237x192_70
+  - first:
+      213: 1499493844453755885
+    second: Gaul_Peasant_237x192_71
+  - first:
+      213: -1247174774023430969
+    second: Gaul_Peasant_237x192_72
+  - first:
+      213: -7938935341300925830
+    second: Gaul_Peasant_237x192_73
+  - first:
+      213: 3725143207550102000
+    second: Gaul_Peasant_237x192_74
+  - first:
+      213: -8547625912870138283
+    second: Gaul_Peasant_237x192_75
+  - first:
+      213: -2674688682083817372
+    second: Gaul_Peasant_237x192_76
+  - first:
+      213: 6093908974756667755
+    second: Gaul_Peasant_237x192_77
+  - first:
+      213: -431563927809652544
+    second: Gaul_Peasant_237x192_78
+  - first:
+      213: 8383023882697137700
+    second: Gaul_Peasant_237x192_79
+  - first:
+      213: 2610317883032265586
+    second: Gaul_Peasant_237x192_80
+  - first:
+      213: 3122807562486573576
+    second: Gaul_Peasant_237x192_81
+  - first:
+      213: 5946183700964699004
+    second: Gaul_Peasant_237x192_82
+  - first:
+      213: 1419289172891332104
+    second: Gaul_Peasant_237x192_83
+  - first:
+      213: -6202972187187850454
+    second: Gaul_Peasant_237x192_84
+  - first:
+      213: -3292134388960908687
+    second: Gaul_Peasant_237x192_85
+  - first:
+      213: -6489193159597172586
+    second: Gaul_Peasant_237x192_86
+  - first:
+      213: 2733172433283268256
+    second: Gaul_Peasant_237x192_87
+  - first:
+      213: -6457389939228950827
+    second: Gaul_Peasant_237x192_88
+  - first:
+      213: 7528754536149130614
+    second: Gaul_Peasant_237x192_89
+  - first:
+      213: -4929633649224538143
+    second: Gaul_Peasant_237x192_90
+  - first:
+      213: 2953136858996529179
+    second: Gaul_Peasant_237x192_91
+  - first:
+      213: -7897782683227444666
+    second: Gaul_Peasant_237x192_92
+  - first:
+      213: -4080772791994375129
+    second: Gaul_Peasant_237x192_93
+  - first:
+      213: -6035785729538789130
+    second: Gaul_Peasant_237x192_94
+  - first:
+      213: 7630442040221810370
+    second: Gaul_Peasant_237x192_95
+  - first:
+      213: 1622699019757551423
+    second: Gaul_Peasant_237x192_96
+  - first:
+      213: -1020084185789255742
+    second: Gaul_Peasant_237x192_97
+  - first:
+      213: -3786154998168739008
+    second: Gaul_Peasant_237x192_98
+  - first:
+      213: -1252941762159977167
+    second: Gaul_Peasant_237x192_99
+  - first:
+      213: 2452808147416893925
+    second: Gaul_Peasant_237x192_100
+  - first:
+      213: -1634148331720963801
+    second: Gaul_Peasant_237x192_101
+  - first:
+      213: -485024549280867402
+    second: Gaul_Peasant_237x192_102
+  - first:
+      213: 6912408689288117356
+    second: Gaul_Peasant_237x192_103
+  - first:
+      213: -1345618908566096492
+    second: Gaul_Peasant_237x192_104
+  - first:
+      213: 8941856817099482346
+    second: Gaul_Peasant_237x192_105
+  - first:
+      213: -1472832160935578789
+    second: Gaul_Peasant_237x192_106
+  - first:
+      213: -6850606611576160100
+    second: Gaul_Peasant_237x192_107
+  - first:
+      213: -6275595660774924543
+    second: Gaul_Peasant_237x192_108
+  - first:
+      213: -8025620976988700779
+    second: Gaul_Peasant_237x192_109
+  - first:
+      213: -5534580577069128263
+    second: Gaul_Peasant_237x192_110
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6100a1e95911a79d0800000000000000
+      internalID: -2775886886020186090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512ee0d1de129150800000000000000
+      internalID: 5877794350174183763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb0fb9914db69430800000000000000
+      internalID: 3789424225928809468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0221cad4084444250800000000000000
+      internalID: 5927938327376040480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b6b52727534ce80800000000000000
+      internalID: -8159337859227358432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_5
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aedabe72ff14f920800000000000000
+      internalID: 3023076376241168037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_6
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5970e85fe7a4330800000000000000
+      internalID: 3695906037325862350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_7
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db7b0aa2a11bcb0800000000000000
+      internalID: -4850066553313968788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_8
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a412ed7f73b660800000000000000
+      internalID: 7400398791340499828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_9
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf719973491b5240800000000000000
+      internalID: 4781443206976995279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_10
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef7901a245ecf40800000000000000
+      internalID: 5750626313842458172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_11
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e453a9e4d641a00800000000000000
+      internalID: 726325624275553902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_12
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0e8fa721b643410800000000000000
+      internalID: 1455906306664227063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_13
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7de9b0c3adfdc0f0800000000000000
+      internalID: -1094940254626255492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_14
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4176660c16de3c0800000000000000
+      internalID: -4328696187853531978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_15
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a244e9829b46b0800000000000000
+      internalID: -5310990214615620719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726111f37009125d0800000000000000
+      internalID: -3089029508602194393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e1d0c0dcebbdb20800000000000000
+      internalID: 3160329351410294411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56073a516d887050800000000000000
+      internalID: 5798539969504413277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c3f6cfb17bae80800000000000000
+      internalID: -8166308430815706572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72de9fc0c47e00250800000000000000
+      internalID: 5908977024931327271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_21
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d84c3f30b24610b0800000000000000
+      internalID: -5758341748804007727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_22
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f849514adf5efc0800000000000000
+      internalID: -3466085457013207173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_23
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a09923b798021d0800000000000000
+      internalID: -3377548558304998900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_24
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c617c1a76e1bf020800000000000000
+      internalID: 2376526658812712644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_25
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db5849d262e87450800000000000000
+      internalID: 6086863810571295700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_26
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48e6a8a8cb47c50800000000000000
+      internalID: 6662157052001813747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_27
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb3ea9cd2d920220800000000000000
+      internalID: 2450693967225699266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_28
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89adbfafce558ca40800000000000000
+      internalID: 5388651430460250776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_29
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1769f3efa0a388190800000000000000
+      internalID: -7960048522487687567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_30
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1465a8d948356620800000000000000
+      internalID: 2766679435907523615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_31
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a60111ab6a24f150800000000000000
+      internalID: 5905391653141677735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_32
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a669ce42a8559f40800000000000000
+      internalID: 5734587154655962790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_33
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d14bf2ecccb3bed0800000000000000
+      internalID: -2399366588290874928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_34
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9936d7227b225f0800000000000000
+      internalID: -782862026448594481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_35
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db6ba9590d9f7d90800000000000000
+      internalID: -7097781824227939373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_36
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd108649f7b8d0ee0800000000000000
+      internalID: -1293224137918512673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_37
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fae26bf96719040800000000000000
+      internalID: 4652630318378823578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_38
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e579651b19f5fe30800000000000000
+      internalID: 4536806094364308966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_39
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3c36cf2a9a75650800000000000000
+      internalID: 6221627927719822280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a47eb19fa16b6cd0800000000000000
+      internalID: -2563848156165016412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22aada5e1e7c52b0800000000000000
+      internalID: -5594457968262602194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_42
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9331c19fb87f30800000000000000
+      internalID: 4573616054327286986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae427e239f1bc920800000000000000
+      internalID: 3011535492827205280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bffc1e0c71c7cc60800000000000000
+      internalID: 7838446415018524601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_45
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d51ba611b8a88e0800000000000000
+      internalID: -1690385803203486393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_46
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798fc0729417249d0800000000000000
+      internalID: -2791544260014573417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_47
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88932185f5f9020800000000000000
+      internalID: 2350702362378209519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_48
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d35505f36eda430800000000000000
+      internalID: 3795943220548287886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_49
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ede5d7c74ba5180800000000000000
+      internalID: -9125783248140575151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_50
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9277dbb7d4dd0f0800000000000000
+      internalID: -1090630340898772516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_51
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b773dc4d7fc833b60800000000000000
+      internalID: 7724672781925562235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_52
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04449c56bfdb4d750800000000000000
+      internalID: 6328892263804519488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_53
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55cd26b5cd434fb0800000000000000
+      internalID: -4664799277465352870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_54
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb8699a84d2b8250800000000000000
+      internalID: 5947897522978982832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_55
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98683323a4c888130800000000000000
+      internalID: 3569256954988824201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b39768bce3dfc10800000000000000
+      internalID: 2088894846025153297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f24eebc6c9ee780800000000000000
+      internalID: -8651805843259117708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320307c8d618aa230800000000000000
+      internalID: 3650872755444789283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_59
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129aabe5f918226a0800000000000000
+      internalID: -6475470792716277471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_60
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec03b9d716914d0800000000000000
+      internalID: -3163390071148589372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_61
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372337232d8a17050800000000000000
+      internalID: 5796599816145547891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_62
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e802fcaac9b520800000000000000
+      internalID: 2718426694238660970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_63
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc600bad8b76629e0800000000000000
+      internalID: -1646514570116725041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_64
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0160ab85ecefe510800000000000000
+      internalID: 1580742464864542987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_65
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ca1fc564739580800000000000000
+      internalID: -8821579264473512998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_66
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fc188bb4978c190800000000000000
+      internalID: -7941964576742846657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_67
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d8c6ba74181df10800000000000000
+      internalID: 2292755830126972175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_68
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4428eaf556ac982e0800000000000000
+      internalID: -2122943212582698428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_69
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0173590d4cff92ad0800000000000000
+      internalID: -2726366878618011888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_70
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0337309da2344740800000000000000
+      internalID: 5135285196139475724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_71
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb0d85f4b54fc410800000000000000
+      internalID: 1499493844453755885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_72
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc518d962521bee0800000000000000
+      internalID: -1247174774023430969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_73
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab6fe8e5c33d190800000000000000
+      internalID: -7938935341300925830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_74
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ab77b20e52b330800000000000000
+      internalID: 3725143207550102000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_75
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e837ef48bb06980800000000000000
+      internalID: -8547625912870138283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_76
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e2a390d891ead0800000000000000
+      internalID: -2674688682083817372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_77
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61afe5fce9e19450800000000000000
+      internalID: 6093908974756667755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_78
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88809e4e6c20af0800000000000000
+      internalID: -431563927809652544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_79
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e57cf5ecb765470800000000000000
+      internalID: 8383023882697137700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ecf8d846b93420800000000000000
+      internalID: 2610317883032265586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_81
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6ae7cee0765b20800000000000000
+      internalID: 3122807562486573576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be7316296158250800000000000000
+      internalID: 5946183700964699004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_83
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eeeb7abf352b310800000000000000
+      internalID: 1419289172891332104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_84
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a235a0719ad9ae9a0800000000000000
+      internalID: -6202972187187850454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_85
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2329373dff42d0800000000000000
+      internalID: -3292134388960908687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_86
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698d05bd331c1f5a0800000000000000
+      internalID: -6489193159597172586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_87
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3dbbd8dd2ee520800000000000000
+      internalID: 2733172433283268256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_88
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb310201eb266a0800000000000000
+      internalID: -6457389939228950827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_89
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d97409c528b7860800000000000000
+      internalID: 7528754536149130614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_90
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a829705c669bb0800000000000000
+      internalID: -4929633649224538143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_91
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d99da356abf820800000000000000
+      internalID: 2953136858996529179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_92
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a2ffc6e70756290800000000000000
+      internalID: -7897782683227444666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_93
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724a81c34ce2e57c0800000000000000
+      internalID: -4080772791994375129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_94
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f772abd49c3ca0800000000000000
+      internalID: -6035785729538789130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_95
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceb0a69b96c4e960800000000000000
+      internalID: 7630442040221810370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ff50a392cf48610800000000000000
+      internalID: 1622699019757551423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_97
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa90176dee7d1f0800000000000000
+      internalID: -1020084185789255742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_98
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043259dc610e47bc0800000000000000
+      internalID: -3786154998168739008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_99
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd33e0b18ac9ee0800000000000000
+      internalID: -1252941762159977167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_100
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9c7f8b3002a0220800000000000000
+      internalID: 2452808147416893925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_101
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729897910c65259e0800000000000000
+      internalID: -1634148331720963801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_102
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb15c00eb8d449f0800000000000000
+      internalID: -485024549280867402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_103
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c7753541fcdef50800000000000000
+      internalID: 6912408689288117356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_104
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4957ed76bb6635de0800000000000000
+      internalID: -1345618908566096492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_105
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ae9f266bd71c70800000000000000
+      internalID: 8941856817099482346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_106
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f9a9f3f27f8be0800000000000000
+      internalID: -1472832160935578789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_107
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c908f053591cde0a0800000000000000
+      internalID: -6850606611576160100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_108
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f178dfefa98e8a0800000000000000
+      internalID: -6275595660774924543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_109
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f3aa43e344f9090800000000000000
+      internalID: -8025620976988700779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Peasant_237x192_110
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5a403e9483133b0800000000000000
+      internalID: -5534580577069128263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_Peasant_237x192_0: -2775886886020186090
+      Gaul_Peasant_237x192_1: 5877794350174183763
+      Gaul_Peasant_237x192_10: 5750626313842458172
+      Gaul_Peasant_237x192_100: 2452808147416893925
+      Gaul_Peasant_237x192_101: -1634148331720963801
+      Gaul_Peasant_237x192_102: -485024549280867402
+      Gaul_Peasant_237x192_103: 6912408689288117356
+      Gaul_Peasant_237x192_104: -1345618908566096492
+      Gaul_Peasant_237x192_105: 8941856817099482346
+      Gaul_Peasant_237x192_106: -1472832160935578789
+      Gaul_Peasant_237x192_107: -6850606611576160100
+      Gaul_Peasant_237x192_108: -6275595660774924543
+      Gaul_Peasant_237x192_109: -8025620976988700779
+      Gaul_Peasant_237x192_11: 726325624275553902
+      Gaul_Peasant_237x192_110: -5534580577069128263
+      Gaul_Peasant_237x192_12: 1455906306664227063
+      Gaul_Peasant_237x192_13: -1094940254626255492
+      Gaul_Peasant_237x192_14: -4328696187853531978
+      Gaul_Peasant_237x192_15: -5310990214615620719
+      Gaul_Peasant_237x192_16: -3089029508602194393
+      Gaul_Peasant_237x192_17: 3160329351410294411
+      Gaul_Peasant_237x192_18: 5798539969504413277
+      Gaul_Peasant_237x192_19: -8166308430815706572
+      Gaul_Peasant_237x192_2: 3789424225928809468
+      Gaul_Peasant_237x192_20: 5908977024931327271
+      Gaul_Peasant_237x192_21: -5758341748804007727
+      Gaul_Peasant_237x192_22: -3466085457013207173
+      Gaul_Peasant_237x192_23: -3377548558304998900
+      Gaul_Peasant_237x192_24: 2376526658812712644
+      Gaul_Peasant_237x192_25: 6086863810571295700
+      Gaul_Peasant_237x192_26: 6662157052001813747
+      Gaul_Peasant_237x192_27: 2450693967225699266
+      Gaul_Peasant_237x192_28: 5388651430460250776
+      Gaul_Peasant_237x192_29: -7960048522487687567
+      Gaul_Peasant_237x192_3: 5927938327376040480
+      Gaul_Peasant_237x192_30: 2766679435907523615
+      Gaul_Peasant_237x192_31: 5905391653141677735
+      Gaul_Peasant_237x192_32: 5734587154655962790
+      Gaul_Peasant_237x192_33: -2399366588290874928
+      Gaul_Peasant_237x192_34: -782862026448594481
+      Gaul_Peasant_237x192_35: -7097781824227939373
+      Gaul_Peasant_237x192_36: -1293224137918512673
+      Gaul_Peasant_237x192_37: 4652630318378823578
+      Gaul_Peasant_237x192_38: 4536806094364308966
+      Gaul_Peasant_237x192_39: 6221627927719822280
+      Gaul_Peasant_237x192_4: -8159337859227358432
+      Gaul_Peasant_237x192_40: -2563848156165016412
+      Gaul_Peasant_237x192_41: -5594457968262602194
+      Gaul_Peasant_237x192_42: 4573616054327286986
+      Gaul_Peasant_237x192_43: 3011535492827205280
+      Gaul_Peasant_237x192_44: 7838446415018524601
+      Gaul_Peasant_237x192_45: -1690385803203486393
+      Gaul_Peasant_237x192_46: -2791544260014573417
+      Gaul_Peasant_237x192_47: 2350702362378209519
+      Gaul_Peasant_237x192_48: 3795943220548287886
+      Gaul_Peasant_237x192_49: -9125783248140575151
+      Gaul_Peasant_237x192_5: 3023076376241168037
+      Gaul_Peasant_237x192_50: -1090630340898772516
+      Gaul_Peasant_237x192_51: 7724672781925562235
+      Gaul_Peasant_237x192_52: 6328892263804519488
+      Gaul_Peasant_237x192_53: -4664799277465352870
+      Gaul_Peasant_237x192_54: 5947897522978982832
+      Gaul_Peasant_237x192_55: 3569256954988824201
+      Gaul_Peasant_237x192_56: 2088894846025153297
+      Gaul_Peasant_237x192_57: -8651805843259117708
+      Gaul_Peasant_237x192_58: 3650872755444789283
+      Gaul_Peasant_237x192_59: -6475470792716277471
+      Gaul_Peasant_237x192_6: 3695906037325862350
+      Gaul_Peasant_237x192_60: -3163390071148589372
+      Gaul_Peasant_237x192_61: 5796599816145547891
+      Gaul_Peasant_237x192_62: 2718426694238660970
+      Gaul_Peasant_237x192_63: -1646514570116725041
+      Gaul_Peasant_237x192_64: 1580742464864542987
+      Gaul_Peasant_237x192_65: -8821579264473512998
+      Gaul_Peasant_237x192_66: -7941964576742846657
+      Gaul_Peasant_237x192_67: 2292755830126972175
+      Gaul_Peasant_237x192_68: -2122943212582698428
+      Gaul_Peasant_237x192_69: -2726366878618011888
+      Gaul_Peasant_237x192_7: -4850066553313968788
+      Gaul_Peasant_237x192_70: 5135285196139475724
+      Gaul_Peasant_237x192_71: 1499493844453755885
+      Gaul_Peasant_237x192_72: -1247174774023430969
+      Gaul_Peasant_237x192_73: -7938935341300925830
+      Gaul_Peasant_237x192_74: 3725143207550102000
+      Gaul_Peasant_237x192_75: -8547625912870138283
+      Gaul_Peasant_237x192_76: -2674688682083817372
+      Gaul_Peasant_237x192_77: 6093908974756667755
+      Gaul_Peasant_237x192_78: -431563927809652544
+      Gaul_Peasant_237x192_79: 8383023882697137700
+      Gaul_Peasant_237x192_8: 7400398791340499828
+      Gaul_Peasant_237x192_80: 2610317883032265586
+      Gaul_Peasant_237x192_81: 3122807562486573576
+      Gaul_Peasant_237x192_82: 5946183700964699004
+      Gaul_Peasant_237x192_83: 1419289172891332104
+      Gaul_Peasant_237x192_84: -6202972187187850454
+      Gaul_Peasant_237x192_85: -3292134388960908687
+      Gaul_Peasant_237x192_86: -6489193159597172586
+      Gaul_Peasant_237x192_87: 2733172433283268256
+      Gaul_Peasant_237x192_88: -6457389939228950827
+      Gaul_Peasant_237x192_89: 7528754536149130614
+      Gaul_Peasant_237x192_9: 4781443206976995279
+      Gaul_Peasant_237x192_90: -4929633649224538143
+      Gaul_Peasant_237x192_91: 2953136858996529179
+      Gaul_Peasant_237x192_92: -7897782683227444666
+      Gaul_Peasant_237x192_93: -4080772791994375129
+      Gaul_Peasant_237x192_94: -6035785729538789130
+      Gaul_Peasant_237x192_95: 7630442040221810370
+      Gaul_Peasant_237x192_96: 1622699019757551423
+      Gaul_Peasant_237x192_97: -1020084185789255742
+      Gaul_Peasant_237x192_98: -3786154998168739008
+      Gaul_Peasant_237x192_99: -1252941762159977167
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2073 @@
+fileFormatVersion: 2
+guid: e17761333cbe7b6438fd7a30f257ddee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6043662837033603201
+    second: Roman_Cavalry_347x285_0
+  - first:
+      213: 5435500345908024212
+    second: Roman_Cavalry_347x285_1
+  - first:
+      213: 7659188586280372949
+    second: Roman_Cavalry_347x285_2
+  - first:
+      213: -8198645892645217362
+    second: Roman_Cavalry_347x285_3
+  - first:
+      213: -6767527151994794853
+    second: Roman_Cavalry_347x285_4
+  - first:
+      213: -6463660589695228007
+    second: Roman_Cavalry_347x285_5
+  - first:
+      213: -2097241336804048702
+    second: Roman_Cavalry_347x285_6
+  - first:
+      213: 6964353587641414528
+    second: Roman_Cavalry_347x285_7
+  - first:
+      213: -7472472351357889922
+    second: Roman_Cavalry_347x285_8
+  - first:
+      213: -6464476137108981229
+    second: Roman_Cavalry_347x285_9
+  - first:
+      213: -631581658514546496
+    second: Roman_Cavalry_347x285_10
+  - first:
+      213: -4538755003562907893
+    second: Roman_Cavalry_347x285_11
+  - first:
+      213: -998363968387599320
+    second: Roman_Cavalry_347x285_12
+  - first:
+      213: 5945452018708717292
+    second: Roman_Cavalry_347x285_13
+  - first:
+      213: 7532909099786856473
+    second: Roman_Cavalry_347x285_14
+  - first:
+      213: -1976370390723263581
+    second: Roman_Cavalry_347x285_15
+  - first:
+      213: -854814168436511789
+    second: Roman_Cavalry_347x285_16
+  - first:
+      213: 8118533987783130487
+    second: Roman_Cavalry_347x285_17
+  - first:
+      213: -196245130585722712
+    second: Roman_Cavalry_347x285_18
+  - first:
+      213: 4440706242940998074
+    second: Roman_Cavalry_347x285_19
+  - first:
+      213: 3323393695631368361
+    second: Roman_Cavalry_347x285_20
+  - first:
+      213: -9083945186995561574
+    second: Roman_Cavalry_347x285_21
+  - first:
+      213: 7170505534163254946
+    second: Roman_Cavalry_347x285_22
+  - first:
+      213: 3761043390298341251
+    second: Roman_Cavalry_347x285_23
+  - first:
+      213: -8663181804256855782
+    second: Roman_Cavalry_347x285_24
+  - first:
+      213: 8267836013527478514
+    second: Roman_Cavalry_347x285_25
+  - first:
+      213: -4127570687493888233
+    second: Roman_Cavalry_347x285_26
+  - first:
+      213: -4673580038570447126
+    second: Roman_Cavalry_347x285_27
+  - first:
+      213: 3800997881414995218
+    second: Roman_Cavalry_347x285_28
+  - first:
+      213: 6285378893485779122
+    second: Roman_Cavalry_347x285_29
+  - first:
+      213: 1533220415139221057
+    second: Roman_Cavalry_347x285_30
+  - first:
+      213: 187921862695949709
+    second: Roman_Cavalry_347x285_31
+  - first:
+      213: 9060670283595345645
+    second: Roman_Cavalry_347x285_32
+  - first:
+      213: -8957895352446315811
+    second: Roman_Cavalry_347x285_33
+  - first:
+      213: -4166803544152395016
+    second: Roman_Cavalry_347x285_34
+  - first:
+      213: -4989953408314480936
+    second: Roman_Cavalry_347x285_35
+  - first:
+      213: 2378283726262899317
+    second: Roman_Cavalry_347x285_36
+  - first:
+      213: -2918661896839864555
+    second: Roman_Cavalry_347x285_37
+  - first:
+      213: 6981639257431276206
+    second: Roman_Cavalry_347x285_38
+  - first:
+      213: -6850556946711124285
+    second: Roman_Cavalry_347x285_39
+  - first:
+      213: -3248683374059802928
+    second: Roman_Cavalry_347x285_40
+  - first:
+      213: 4410236835817360050
+    second: Roman_Cavalry_347x285_41
+  - first:
+      213: -2032028192230557862
+    second: Roman_Cavalry_347x285_42
+  - first:
+      213: -7106265206758466524
+    second: Roman_Cavalry_347x285_43
+  - first:
+      213: 4152902237959145846
+    second: Roman_Cavalry_347x285_44
+  - first:
+      213: 1466420382752814121
+    second: Roman_Cavalry_347x285_45
+  - first:
+      213: -524432403317867043
+    second: Roman_Cavalry_347x285_46
+  - first:
+      213: -6032516585526803976
+    second: Roman_Cavalry_347x285_47
+  - first:
+      213: 8296822159375421930
+    second: Roman_Cavalry_347x285_48
+  - first:
+      213: -3085485421383356344
+    second: Roman_Cavalry_347x285_49
+  - first:
+      213: 3868618205428965810
+    second: Roman_Cavalry_347x285_50
+  - first:
+      213: 942376507628401265
+    second: Roman_Cavalry_347x285_51
+  - first:
+      213: 609866065936851288
+    second: Roman_Cavalry_347x285_52
+  - first:
+      213: 7433012927410711210
+    second: Roman_Cavalry_347x285_53
+  - first:
+      213: 4901904751564975616
+    second: Roman_Cavalry_347x285_54
+  - first:
+      213: 5829441837100197198
+    second: Roman_Cavalry_347x285_55
+  - first:
+      213: -2310941777138803568
+    second: Roman_Cavalry_347x285_56
+  - first:
+      213: -2592816580081775694
+    second: Roman_Cavalry_347x285_57
+  - first:
+      213: 5274755377815898237
+    second: Roman_Cavalry_347x285_58
+  - first:
+      213: -695873854120769335
+    second: Roman_Cavalry_347x285_59
+  - first:
+      213: 1774125675004592613
+    second: Roman_Cavalry_347x285_60
+  - first:
+      213: 6490755766642831793
+    second: Roman_Cavalry_347x285_61
+  - first:
+      213: 6283489944898712995
+    second: Roman_Cavalry_347x285_62
+  - first:
+      213: -2629893017989136064
+    second: Roman_Cavalry_347x285_63
+  - first:
+      213: -3834605988946614391
+    second: Roman_Cavalry_347x285_64
+  - first:
+      213: -435991622047355246
+    second: Roman_Cavalry_347x285_65
+  - first:
+      213: 3333026909636150394
+    second: Roman_Cavalry_347x285_66
+  - first:
+      213: -5298045601722152799
+    second: Roman_Cavalry_347x285_67
+  - first:
+      213: 2431958386264979263
+    second: Roman_Cavalry_347x285_68
+  - first:
+      213: 8971258198181952519
+    second: Roman_Cavalry_347x285_69
+  - first:
+      213: 5955370695746676054
+    second: Roman_Cavalry_347x285_70
+  - first:
+      213: -1560341557542545239
+    second: Roman_Cavalry_347x285_71
+  - first:
+      213: -7570550785449905991
+    second: Roman_Cavalry_347x285_72
+  - first:
+      213: 2288615623327581108
+    second: Roman_Cavalry_347x285_73
+  - first:
+      213: -8412639152023749822
+    second: Roman_Cavalry_347x285_74
+  - first:
+      213: 5948534157653143663
+    second: Roman_Cavalry_347x285_75
+  - first:
+      213: -4909748606591272570
+    second: Roman_Cavalry_347x285_76
+  - first:
+      213: -8792637825821918216
+    second: Roman_Cavalry_347x285_77
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe160aba8902ca0800000000000000
+      internalID: -6043662837033603201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4935c5e14c6ce6b40800000000000000
+      internalID: 5435500345908024212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac7f86077ea4a60800000000000000
+      internalID: 7659188586280372949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9aa9bffe883e80800000000000000
+      internalID: -8198645892645217362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_4
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c0a8149e9e412a0800000000000000
+      internalID: -6767527151994794853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997268a80f67c46a0800000000000000
+      internalID: -6463660589695228007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_6
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c08787ad1a15e2e0800000000000000
+      internalID: -2097241336804048702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_7
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083759170ba56a060800000000000000
+      internalID: 6964353587641414528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_8
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72926fbcf17c4890800000000000000
+      internalID: -7472472351357889922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_9
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a31ac14319946a0800000000000000
+      internalID: -6464476137108981229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_10
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a69de3db2c37f0800000000000000
+      internalID: -631581658514546496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_11
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072b122f5a1301c0800000000000000
+      internalID: -4538755003562907893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_12
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82435b3a2491522f0800000000000000
+      internalID: -998363968387599320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_13
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee13445c1d728250800000000000000
+      internalID: 5945452018708717292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_14
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186a1a4ae44a8860800000000000000
+      internalID: 7532909099786856473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_15
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30754d9958294e0800000000000000
+      internalID: -1976370390723263581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_16
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbee55fa071324f0800000000000000
+      internalID: -854814168436511789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_17
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dbfb6e5a3daa070800000000000000
+      internalID: 8118533987783130487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_18
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b98ee71cc64df0800000000000000
+      internalID: -196245130585722712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_19
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab19b52dcce80ad30800000000000000
+      internalID: 4440706242940998074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_20
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a061e445f01f1e20800000000000000
+      internalID: 3323393695631368361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_21
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b92023bf75fe180800000000000000
+      internalID: -9083945186995561574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_22
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef5c7dac0c28360800000000000000
+      internalID: 7170505534163254946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_23
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f309f5909e13430800000000000000
+      internalID: 3761043390298341251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1974ac6c0236c780800000000000000
+      internalID: -8663181804256855782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bc77ac014db270800000000000000
+      internalID: 8267836013527478514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_26
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ac9a145ce7b6c0800000000000000
+      internalID: -4127570687493888233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_27
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeee6a377bb142fb0800000000000000
+      internalID: -4673580038570447126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dc0c14f6bdfb430800000000000000
+      internalID: 3800997881414995218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_29
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b825f06dc62a3750800000000000000
+      internalID: 6285378893485779122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_30
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e00ce18d7174510800000000000000
+      internalID: 1533220415139221057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_31
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85958f30f1ab9200800000000000000
+      internalID: 187921862695949709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_32
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee63a01e97fdbd70800000000000000
+      internalID: 9060670283595345645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_33
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2905e43a92fa380800000000000000
+      internalID: -8957895352446315811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_34
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f235f5d04a8c26c0800000000000000
+      internalID: -4166803544152395016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_35
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66aa320df10cab0800000000000000
+      internalID: -4989953408314480936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_36
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721ef6c27c510120800000000000000
+      internalID: 2378283726262899317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_37
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f5463f774de77d0800000000000000
+      internalID: -2918661896839864555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_38
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaafc111ae3c3e060800000000000000
+      internalID: 6981639257431276206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_39
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e2b5b0ceede0a0800000000000000
+      internalID: -6850556946711124285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dea27dfeab5ae2d0800000000000000
+      internalID: -3248683374059802928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8c36290f443d30800000000000000
+      internalID: 4410236835817360050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57b4841029ccc3e0800000000000000
+      internalID: -2032028192230557862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c917fe179716d90800000000000000
+      internalID: -7106265206758466524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_44
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ca78159212a930800000000000000
+      internalID: 4152902237959145846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_45
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924bf559195c95410800000000000000
+      internalID: 1466420382752814121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_46
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb88bf187d8b8f0800000000000000
+      internalID: -524432403317867043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_47
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c50a8022384ca0800000000000000
+      internalID: -6032516585526803976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_48
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae15926abcb342370800000000000000
+      internalID: 8296822159375421930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_49
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407cca5b572e25d0800000000000000
+      internalID: -3085485421383356344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_50
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1e332d2c710b530800000000000000
+      internalID: 3868618205428965810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_51
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1723dd5d07ef31d00800000000000000
+      internalID: 942376507628401265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_52
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512bbca4fda67800800000000000000
+      internalID: 609866065936851288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_53
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa33d20ed572760800000000000000
+      internalID: 7433012927410711210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_54
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e64df6660170440800000000000000
+      internalID: 4901904751564975616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_55
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e456823177656e050800000000000000
+      internalID: 5829441837100197198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_56
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c180592b2edefd0800000000000000
+      internalID: -2310941777138803568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_57
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8b78ce07740cd0800000000000000
+      internalID: -2592816580081775694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_58
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d784ccbb112b33940800000000000000
+      internalID: 5274755377815898237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_59
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c846a4aa62c756f0800000000000000
+      internalID: -695873854120769335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_60
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18c85d6e5fe9810800000000000000
+      internalID: 1774125675004592613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_61
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b17092fafbc31a50800000000000000
+      internalID: 6490755766642831793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_62
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53d6340d0733750800000000000000
+      internalID: 6283489944898712995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_63
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414a71eb3eb08bd0800000000000000
+      internalID: -2629893017989136064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987604f6b2eb8cac0800000000000000
+      internalID: -3834605988946614391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e22d20eeb03f9f0800000000000000
+      internalID: -435991622047355246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_66
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a744eafa05a414e20800000000000000
+      internalID: 3333026909636150394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_67
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8c781789f8976b0800000000000000
+      internalID: -5298045601722152799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_68
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f373bd9644d00c120800000000000000
+      internalID: 2431958386264979263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_69
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c32faaccf408c70800000000000000
+      internalID: 8971258198181952519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_70
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65560c9481ab5a250800000000000000
+      internalID: 5955370695746676054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_71
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a89566de9d885ae0800000000000000
+      internalID: -1560341557542545239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_72
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0343fcb2000f690800000000000000
+      internalID: -7570550785449905991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_73
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b389d7a8cbc2cf10800000000000000
+      internalID: 2288615623327581108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_74
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb418634d404b80800000000000000
+      internalID: -8412639152023749822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_75
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607139bc407d8250800000000000000
+      internalID: 5948534157653143663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_76
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68978afb7a11ddbb0800000000000000
+      internalID: -4909748606591272570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Cavalry_347x285_77
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb8399b764af580800000000000000
+      internalID: -8792637825821918216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_Cavalry_347x285_0: -6043662837033603201
+      Roman_Cavalry_347x285_1: 5435500345908024212
+      Roman_Cavalry_347x285_10: -631581658514546496
+      Roman_Cavalry_347x285_11: -4538755003562907893
+      Roman_Cavalry_347x285_12: -998363968387599320
+      Roman_Cavalry_347x285_13: 5945452018708717292
+      Roman_Cavalry_347x285_14: 7532909099786856473
+      Roman_Cavalry_347x285_15: -1976370390723263581
+      Roman_Cavalry_347x285_16: -854814168436511789
+      Roman_Cavalry_347x285_17: 8118533987783130487
+      Roman_Cavalry_347x285_18: -196245130585722712
+      Roman_Cavalry_347x285_19: 4440706242940998074
+      Roman_Cavalry_347x285_2: 7659188586280372949
+      Roman_Cavalry_347x285_20: 3323393695631368361
+      Roman_Cavalry_347x285_21: -9083945186995561574
+      Roman_Cavalry_347x285_22: 7170505534163254946
+      Roman_Cavalry_347x285_23: 3761043390298341251
+      Roman_Cavalry_347x285_24: -8663181804256855782
+      Roman_Cavalry_347x285_25: 8267836013527478514
+      Roman_Cavalry_347x285_26: -4127570687493888233
+      Roman_Cavalry_347x285_27: -4673580038570447126
+      Roman_Cavalry_347x285_28: 3800997881414995218
+      Roman_Cavalry_347x285_29: 6285378893485779122
+      Roman_Cavalry_347x285_3: -8198645892645217362
+      Roman_Cavalry_347x285_30: 1533220415139221057
+      Roman_Cavalry_347x285_31: 187921862695949709
+      Roman_Cavalry_347x285_32: 9060670283595345645
+      Roman_Cavalry_347x285_33: -8957895352446315811
+      Roman_Cavalry_347x285_34: -4166803544152395016
+      Roman_Cavalry_347x285_35: -4989953408314480936
+      Roman_Cavalry_347x285_36: 2378283726262899317
+      Roman_Cavalry_347x285_37: -2918661896839864555
+      Roman_Cavalry_347x285_38: 6981639257431276206
+      Roman_Cavalry_347x285_39: -6850556946711124285
+      Roman_Cavalry_347x285_4: -6767527151994794853
+      Roman_Cavalry_347x285_40: -3248683374059802928
+      Roman_Cavalry_347x285_41: 4410236835817360050
+      Roman_Cavalry_347x285_42: -2032028192230557862
+      Roman_Cavalry_347x285_43: -7106265206758466524
+      Roman_Cavalry_347x285_44: 4152902237959145846
+      Roman_Cavalry_347x285_45: 1466420382752814121
+      Roman_Cavalry_347x285_46: -524432403317867043
+      Roman_Cavalry_347x285_47: -6032516585526803976
+      Roman_Cavalry_347x285_48: 8296822159375421930
+      Roman_Cavalry_347x285_49: -3085485421383356344
+      Roman_Cavalry_347x285_5: -6463660589695228007
+      Roman_Cavalry_347x285_50: 3868618205428965810
+      Roman_Cavalry_347x285_51: 942376507628401265
+      Roman_Cavalry_347x285_52: 609866065936851288
+      Roman_Cavalry_347x285_53: 7433012927410711210
+      Roman_Cavalry_347x285_54: 4901904751564975616
+      Roman_Cavalry_347x285_55: 5829441837100197198
+      Roman_Cavalry_347x285_56: -2310941777138803568
+      Roman_Cavalry_347x285_57: -2592816580081775694
+      Roman_Cavalry_347x285_58: 5274755377815898237
+      Roman_Cavalry_347x285_59: -695873854120769335
+      Roman_Cavalry_347x285_6: -2097241336804048702
+      Roman_Cavalry_347x285_60: 1774125675004592613
+      Roman_Cavalry_347x285_61: 6490755766642831793
+      Roman_Cavalry_347x285_62: 6283489944898712995
+      Roman_Cavalry_347x285_63: -2629893017989136064
+      Roman_Cavalry_347x285_64: -3834605988946614391
+      Roman_Cavalry_347x285_65: -435991622047355246
+      Roman_Cavalry_347x285_66: 3333026909636150394
+      Roman_Cavalry_347x285_67: -5298045601722152799
+      Roman_Cavalry_347x285_68: 2431958386264979263
+      Roman_Cavalry_347x285_69: 8971258198181952519
+      Roman_Cavalry_347x285_7: 6964353587641414528
+      Roman_Cavalry_347x285_70: 5955370695746676054
+      Roman_Cavalry_347x285_71: -1560341557542545239
+      Roman_Cavalry_347x285_72: -7570550785449905991
+      Roman_Cavalry_347x285_73: 2288615623327581108
+      Roman_Cavalry_347x285_74: -8412639152023749822
+      Roman_Cavalry_347x285_75: 5948534157653143663
+      Roman_Cavalry_347x285_76: -4909748606591272570
+      Roman_Cavalry_347x285_77: -8792637825821918216
+      Roman_Cavalry_347x285_8: -7472472351357889922
+      Roman_Cavalry_347x285_9: -6464476137108981229
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2923 @@
+fileFormatVersion: 2
+guid: afa91c06ed164f448b6b059a9cce3961
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -126425297368687583
+    second: Gaul_CavalryArcher_332x270_0
+  - first:
+      213: -6427098425128880141
+    second: Gaul_CavalryArcher_332x270_1
+  - first:
+      213: 4436448482051703631
+    second: Gaul_CavalryArcher_332x270_2
+  - first:
+      213: 5763791043879276732
+    second: Gaul_CavalryArcher_332x270_3
+  - first:
+      213: -4729471992781741264
+    second: Gaul_CavalryArcher_332x270_4
+  - first:
+      213: 6755568858592866734
+    second: Gaul_CavalryArcher_332x270_5
+  - first:
+      213: 194416003290292422
+    second: Gaul_CavalryArcher_332x270_6
+  - first:
+      213: -1563936824280296972
+    second: Gaul_CavalryArcher_332x270_7
+  - first:
+      213: -2038253018906853005
+    second: Gaul_CavalryArcher_332x270_8
+  - first:
+      213: -9008434496182953661
+    second: Gaul_CavalryArcher_332x270_9
+  - first:
+      213: 8480889509628441625
+    second: Gaul_CavalryArcher_332x270_10
+  - first:
+      213: -746906167994449703
+    second: Gaul_CavalryArcher_332x270_11
+  - first:
+      213: -7323332458055074227
+    second: Gaul_CavalryArcher_332x270_12
+  - first:
+      213: 190894625791546296
+    second: Gaul_CavalryArcher_332x270_13
+  - first:
+      213: -5011607802096609612
+    second: Gaul_CavalryArcher_332x270_14
+  - first:
+      213: 4917292617898403784
+    second: Gaul_CavalryArcher_332x270_15
+  - first:
+      213: 1058309298174099458
+    second: Gaul_CavalryArcher_332x270_16
+  - first:
+      213: -4084231717380245932
+    second: Gaul_CavalryArcher_332x270_17
+  - first:
+      213: 7865152822375332917
+    second: Gaul_CavalryArcher_332x270_18
+  - first:
+      213: 8615040482118285500
+    second: Gaul_CavalryArcher_332x270_19
+  - first:
+      213: -8574126148999967134
+    second: Gaul_CavalryArcher_332x270_20
+  - first:
+      213: -7594061386697053655
+    second: Gaul_CavalryArcher_332x270_21
+  - first:
+      213: -1450012953473648490
+    second: Gaul_CavalryArcher_332x270_22
+  - first:
+      213: -8350356705357527626
+    second: Gaul_CavalryArcher_332x270_23
+  - first:
+      213: 325825178454822670
+    second: Gaul_CavalryArcher_332x270_24
+  - first:
+      213: 383862506618930890
+    second: Gaul_CavalryArcher_332x270_25
+  - first:
+      213: 2867236848550015322
+    second: Gaul_CavalryArcher_332x270_26
+  - first:
+      213: 7039477928715922843
+    second: Gaul_CavalryArcher_332x270_27
+  - first:
+      213: 6975058396121669855
+    second: Gaul_CavalryArcher_332x270_28
+  - first:
+      213: -9188265984032411822
+    second: Gaul_CavalryArcher_332x270_29
+  - first:
+      213: -5046651449619989614
+    second: Gaul_CavalryArcher_332x270_30
+  - first:
+      213: -2473144199013338242
+    second: Gaul_CavalryArcher_332x270_31
+  - first:
+      213: 5586678263826983595
+    second: Gaul_CavalryArcher_332x270_32
+  - first:
+      213: -4896357696852948177
+    second: Gaul_CavalryArcher_332x270_33
+  - first:
+      213: 3216444970397763861
+    second: Gaul_CavalryArcher_332x270_34
+  - first:
+      213: -4708508154072487670
+    second: Gaul_CavalryArcher_332x270_35
+  - first:
+      213: -7114840493686238562
+    second: Gaul_CavalryArcher_332x270_36
+  - first:
+      213: -1392648815843377844
+    second: Gaul_CavalryArcher_332x270_37
+  - first:
+      213: 8385616566698884166
+    second: Gaul_CavalryArcher_332x270_38
+  - first:
+      213: -530690029930635120
+    second: Gaul_CavalryArcher_332x270_39
+  - first:
+      213: 2791260746711188640
+    second: Gaul_CavalryArcher_332x270_40
+  - first:
+      213: 1119633236235894899
+    second: Gaul_CavalryArcher_332x270_41
+  - first:
+      213: 268478056681112994
+    second: Gaul_CavalryArcher_332x270_42
+  - first:
+      213: -4711193255221052278
+    second: Gaul_CavalryArcher_332x270_43
+  - first:
+      213: -4290632451544386029
+    second: Gaul_CavalryArcher_332x270_44
+  - first:
+      213: -379908101833691996
+    second: Gaul_CavalryArcher_332x270_45
+  - first:
+      213: -8179249362815597539
+    second: Gaul_CavalryArcher_332x270_46
+  - first:
+      213: -7036943205593810829
+    second: Gaul_CavalryArcher_332x270_47
+  - first:
+      213: 3661893915660788753
+    second: Gaul_CavalryArcher_332x270_48
+  - first:
+      213: -6704700634351644397
+    second: Gaul_CavalryArcher_332x270_49
+  - first:
+      213: -3869142609305703185
+    second: Gaul_CavalryArcher_332x270_50
+  - first:
+      213: 4302325173251653594
+    second: Gaul_CavalryArcher_332x270_51
+  - first:
+      213: 2403625533053688784
+    second: Gaul_CavalryArcher_332x270_52
+  - first:
+      213: -8613956798761822405
+    second: Gaul_CavalryArcher_332x270_53
+  - first:
+      213: -7245309984264149610
+    second: Gaul_CavalryArcher_332x270_54
+  - first:
+      213: 3463944521014158609
+    second: Gaul_CavalryArcher_332x270_55
+  - first:
+      213: -2635190593934517297
+    second: Gaul_CavalryArcher_332x270_56
+  - first:
+      213: 1326989636040076684
+    second: Gaul_CavalryArcher_332x270_57
+  - first:
+      213: -1298428385152567922
+    second: Gaul_CavalryArcher_332x270_58
+  - first:
+      213: 4312473426073233425
+    second: Gaul_CavalryArcher_332x270_59
+  - first:
+      213: 8413686588984321050
+    second: Gaul_CavalryArcher_332x270_60
+  - first:
+      213: 9101343600730554905
+    second: Gaul_CavalryArcher_332x270_61
+  - first:
+      213: -6249580116264489187
+    second: Gaul_CavalryArcher_332x270_62
+  - first:
+      213: 7171773371931479582
+    second: Gaul_CavalryArcher_332x270_63
+  - first:
+      213: -5993076857723907861
+    second: Gaul_CavalryArcher_332x270_64
+  - first:
+      213: 8127562701546562934
+    second: Gaul_CavalryArcher_332x270_65
+  - first:
+      213: 2399635317309971975
+    second: Gaul_CavalryArcher_332x270_66
+  - first:
+      213: 5842816596320320353
+    second: Gaul_CavalryArcher_332x270_67
+  - first:
+      213: -5840100759542349173
+    second: Gaul_CavalryArcher_332x270_68
+  - first:
+      213: 1632464140739452379
+    second: Gaul_CavalryArcher_332x270_69
+  - first:
+      213: 7969959041895083209
+    second: Gaul_CavalryArcher_332x270_70
+  - first:
+      213: 7857530626089733105
+    second: Gaul_CavalryArcher_332x270_71
+  - first:
+      213: 397886371800152662
+    second: Gaul_CavalryArcher_332x270_72
+  - first:
+      213: 8782213635962852123
+    second: Gaul_CavalryArcher_332x270_73
+  - first:
+      213: 5681208021878336696
+    second: Gaul_CavalryArcher_332x270_74
+  - first:
+      213: 4508908902030736073
+    second: Gaul_CavalryArcher_332x270_75
+  - first:
+      213: 2315912235960035013
+    second: Gaul_CavalryArcher_332x270_76
+  - first:
+      213: 6716291632420557256
+    second: Gaul_CavalryArcher_332x270_77
+  - first:
+      213: -5054830935330092517
+    second: Gaul_CavalryArcher_332x270_78
+  - first:
+      213: 6106404377200064712
+    second: Gaul_CavalryArcher_332x270_79
+  - first:
+      213: 1626353089617766826
+    second: Gaul_CavalryArcher_332x270_80
+  - first:
+      213: -7334533308732392311
+    second: Gaul_CavalryArcher_332x270_81
+  - first:
+      213: 1485295482194645013
+    second: Gaul_CavalryArcher_332x270_82
+  - first:
+      213: -4091518936976434474
+    second: Gaul_CavalryArcher_332x270_83
+  - first:
+      213: -8652725928515888207
+    second: Gaul_CavalryArcher_332x270_84
+  - first:
+      213: -3360416926748428782
+    second: Gaul_CavalryArcher_332x270_85
+  - first:
+      213: -4792360201141414430
+    second: Gaul_CavalryArcher_332x270_86
+  - first:
+      213: -986809979719506867
+    second: Gaul_CavalryArcher_332x270_87
+  - first:
+      213: -715687262076609392
+    second: Gaul_CavalryArcher_332x270_88
+  - first:
+      213: 7333461431556974684
+    second: Gaul_CavalryArcher_332x270_89
+  - first:
+      213: -6420114929173574881
+    second: Gaul_CavalryArcher_332x270_90
+  - first:
+      213: -8067077072303062610
+    second: Gaul_CavalryArcher_332x270_91
+  - first:
+      213: -6136817818822508535
+    second: Gaul_CavalryArcher_332x270_92
+  - first:
+      213: -2012093278847048728
+    second: Gaul_CavalryArcher_332x270_93
+  - first:
+      213: 8394155721008628079
+    second: Gaul_CavalryArcher_332x270_94
+  - first:
+      213: 7601037406298596805
+    second: Gaul_CavalryArcher_332x270_95
+  - first:
+      213: 4995724153906180935
+    second: Gaul_CavalryArcher_332x270_96
+  - first:
+      213: 6232268819765453161
+    second: Gaul_CavalryArcher_332x270_97
+  - first:
+      213: -4566251080709212100
+    second: Gaul_CavalryArcher_332x270_98
+  - first:
+      213: -8499260190999475855
+    second: Gaul_CavalryArcher_332x270_99
+  - first:
+      213: -8387240433760802239
+    second: Gaul_CavalryArcher_332x270_100
+  - first:
+      213: 597094579294654864
+    second: Gaul_CavalryArcher_332x270_101
+  - first:
+      213: 3644754435830871156
+    second: Gaul_CavalryArcher_332x270_102
+  - first:
+      213: 8352276976797892645
+    second: Gaul_CavalryArcher_332x270_103
+  - first:
+      213: -8554100643592852890
+    second: Gaul_CavalryArcher_332x270_104
+  - first:
+      213: -202780428618571770
+    second: Gaul_CavalryArcher_332x270_105
+  - first:
+      213: 8225915112946736467
+    second: Gaul_CavalryArcher_332x270_106
+  - first:
+      213: 3279333229420912792
+    second: Gaul_CavalryArcher_332x270_107
+  - first:
+      213: -5675528169145683788
+    second: Gaul_CavalryArcher_332x270_108
+  - first:
+      213: -6015163780113355116
+    second: Gaul_CavalryArcher_332x270_109
+  - first:
+      213: 326893650158708523
+    second: Gaul_CavalryArcher_332x270_110
+  - first:
+      213: 2050791954811540144
+    second: Gaul_CavalryArcher_332x270_111
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c57b3acd8de3ef0800000000000000
+      internalID: -126425297368687583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f778b9d80c5ec6a0800000000000000
+      internalID: -6427098425128880141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43430d936e619d30800000000000000
+      internalID: 4436448482051703631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb09002aa691dff40800000000000000
+      internalID: 5763791043879276732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033e517c74a8d5eb0800000000000000
+      internalID: -4729471992781741264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_5
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea17e18951a90cd50800000000000000
+      internalID: 6755568858592866734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_6
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e4ce2354b2b200800000000000000
+      internalID: 194416003290292422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_7
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1de919eb7cb4ae0800000000000000
+      internalID: -1563936824280296972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_8
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37180bdadaba6b3e0800000000000000
+      internalID: -2038253018906853005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_9
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d3a0fd8c9bf280800000000000000
+      internalID: -9008434496182953661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_10
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147db8431c22b570800000000000000
+      internalID: 8480889509628441625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_11
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d084282cc472a5f0800000000000000
+      internalID: -746906167994449703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_12
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ef9891eeb4e5a90800000000000000
+      internalID: -7323332458055074227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_13
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b316d796a136a200800000000000000
+      internalID: 190894625791546296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_14
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69472b141337ab0800000000000000
+      internalID: -5011607802096609612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_15
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c72c72459bbd3440800000000000000
+      internalID: 4917292617898403784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_16
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200092413bedfae00800000000000000
+      internalID: 1058309298174099458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_17
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456ba2964e4e157c0800000000000000
+      internalID: -4084231717380245932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_18
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb7d112d2a62d60800000000000000
+      internalID: 7865152822375332917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_19
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8354e8ca5ce8770800000000000000
+      internalID: 8615040482118285500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_20
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0875f1b5920980800000000000000
+      internalID: -8574126148999967134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_21
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a696367697c9690800000000000000
+      internalID: -7594061386697053655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_22
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698fc7cb6e480ebe0800000000000000
+      internalID: -1450012953473648490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_23
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b50d5d81d29d1c80800000000000000
+      internalID: -8350356705357527626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8da40640958400800000000000000
+      internalID: 325825178454822670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6cc9d7ae0c35500800000000000000
+      internalID: 383862506618930890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fbb4f8b87ac720800000000000000
+      internalID: 2867236848550015322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_27
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9da05121ef31b160800000000000000
+      internalID: 7039477928715922843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_28
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02074e7a26cc060800000000000000
+      internalID: 6975058396121669855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_29
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f61ffd4c8bc7080800000000000000
+      internalID: -9188265984032411822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_30
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb030be31b6f9b0800000000000000
+      internalID: -5046651449619989614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_31
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73fd7b4470adadd0800000000000000
+      internalID: -2473144199013338242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_32
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaadcd084ed78d40800000000000000
+      internalID: 5586678263826983595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_33
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b84d1ed94ac0cb0800000000000000
+      internalID: -4896357696852948177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_34
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519862cb8ab13ac20800000000000000
+      internalID: 3216444970397763861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_35
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09aa76d7c408aeb0800000000000000
+      internalID: -4708508154072487670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_36
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92544c5442034d90800000000000000
+      internalID: -7114840493686238562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_37
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d79c2d7415cace0800000000000000
+      internalID: -1392648815843377844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_38
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cb7b8a6d1bf5470800000000000000
+      internalID: 8385616566698884166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_39
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a420ca3c92a8f0800000000000000
+      internalID: -530690029930635120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_40
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a446334cdc8cb620800000000000000
+      internalID: 2791260746711188640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_41
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370cf8c0f7cb98f00800000000000000
+      internalID: 1119633236235894899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_42
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5077ebe53d9b300800000000000000
+      internalID: 268478056681112994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_43
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c355202ba7e9eb0800000000000000
+      internalID: -4711193255221052278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_44
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316feef948c9474c0800000000000000
+      internalID: -4290632451544386029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_45
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ace8ee189b4abaf0800000000000000
+      internalID: -379908101833691996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1449004a087d7e80800000000000000
+      internalID: -8179249362815597539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787bf51071c75e90800000000000000
+      internalID: -7036943205593810829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_48
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11420206d19a1d230800000000000000
+      internalID: 3661893915660788753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_49
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311522ccb4e14f2a0800000000000000
+      internalID: -6704700634351644397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_50
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6103eb4b0e4ac0800000000000000
+      internalID: -3869142609305703185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_51
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfb2eb43fde4bb30800000000000000
+      internalID: 4302325173251653594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_52
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db59b6ffa46b5120800000000000000
+      internalID: 2403625533053688784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_53
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b379d332ee3157880800000000000000
+      internalID: -8613956798761822405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_54
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952854e4fc737b90800000000000000
+      internalID: -7245309984264149610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115a5b86037621030800000000000000
+      internalID: 3463944521014158609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_56
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb151ddd1ced6bd0800000000000000
+      internalID: -2635190593934517297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_57
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d2bc41b0a6a6210800000000000000
+      internalID: 1326989636040076684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_58
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8572b8534e0bfde0800000000000000
+      internalID: -1298428385152567922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_59
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11828688bbbf8db30800000000000000
+      internalID: 4312473426073233425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_60
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14e0e3006b63c470800000000000000
+      internalID: 8413686588984321050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_61
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912c15ca8c77e4e70800000000000000
+      internalID: 9101343600730554905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_62
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fe5b6fef70549a0800000000000000
+      internalID: -6249580116264489187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_63
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec49352e1478360800000000000000
+      internalID: 7171773371931479582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_64
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be090cfb95054dca0800000000000000
+      internalID: -5993076857723907861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_65
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675a5632737eac070800000000000000
+      internalID: 8127562701546562934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_66
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e1eb67b973d4120800000000000000
+      internalID: 2399635317309971975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_67
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bfd6fdcbad51150800000000000000
+      internalID: 5842816596320320353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_68
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b824df62d4bc3fea0800000000000000
+      internalID: -5840100759542349173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_69
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd9651ac7da7a610800000000000000
+      internalID: 1632464140739452379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca19e958bfa9e60800000000000000
+      internalID: 7969959041895083209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbc4d3397e8b0d60800000000000000
+      internalID: 7857530626089733105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_72
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65afd1c0c83958500800000000000000
+      internalID: 397886371800152662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_73
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13582195c0b0e970800000000000000
+      internalID: 8782213635962852123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_74
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc68277894b7de40800000000000000
+      internalID: 5681208021878336696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_75
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca7326d1ccd29e30800000000000000
+      internalID: 4508908902030736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_76
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e06b88e5c32020800000000000000
+      internalID: 2315912235960035013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_77
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c11b5eb7af053d50800000000000000
+      internalID: 6716291632420557256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_78
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8ef3cb02a9d9b0800000000000000
+      internalID: -5054830935330092517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_79
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c876ed8d6e4eb450800000000000000
+      internalID: 6106404377200064712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_80
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a60aa487f19610800000000000000
+      internalID: 1626353089617766826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_81
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3cb3d0d0863a90800000000000000
+      internalID: -7334533308732392311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_82
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51054b22f54dc9410800000000000000
+      internalID: 1485295482194645013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_83
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5cb164310837c0800000000000000
+      internalID: -4091518936976434474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9ff3bc975be780800000000000000
+      internalID: -8652725928515888207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21633fffb966d51d0800000000000000
+      internalID: -3360416926748428782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_86
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e51f3fb9cd1e7db0800000000000000
+      internalID: -4792360201141414430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_87
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4422024d852e42f0800000000000000
+      internalID: -986809979719506867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_88
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cd6ad1a3e5116f0800000000000000
+      internalID: -715687262076609392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_89
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c582bf15150b5c560800000000000000
+      internalID: 7333461431556974684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_90
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b4d65bc7b27e6a0800000000000000
+      internalID: -6420114929173574881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_91
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea18da9d42cfb0090800000000000000
+      internalID: -8067077072303062610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_92
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9000cc145b4a5daa0800000000000000
+      internalID: -6136817818822508535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_93
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ee5bc2db9314e0800000000000000
+      internalID: -2012093278847048728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_94
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61480477280e7470800000000000000
+      internalID: 8394155721008628079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_95
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c562eebf3f4c7960800000000000000
+      internalID: 7601037406298596805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_96
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743ba6546a0645540800000000000000
+      internalID: 4995724153906180935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_97
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961ecdab8777d7650800000000000000
+      internalID: 6232268819765453161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_98
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38751bc5da61a0c0800000000000000
+      internalID: -4566251080709212100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_99
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1798bd523ef8c0a80800000000000000
+      internalID: -8499260190999475855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_100
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae4e353498a9b80800000000000000
+      internalID: -8387240433760802239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_101
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0915b283b5e494800800000000000000
+      internalID: 597094579294654864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_102
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747a3149d4c49230800000000000000
+      internalID: 3644754435830871156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_103
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52046bb78af39e370800000000000000
+      internalID: 8352276976797892645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_104
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a25b549cab94980800000000000000
+      internalID: -8554100643592852890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_105
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e9c846449f2df0800000000000000
+      internalID: -202780428618571770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_106
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d15b36632582270800000000000000
+      internalID: 8225915112946736467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_107
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890a4cf8238828d20800000000000000
+      internalID: 3279333229420912792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_108
+      rect:
+        serializedVersion: 2
+        x: 7968
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0395d43397c31b0800000000000000
+      internalID: -5675528169145683788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_109
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e2c846968d58ca0800000000000000
+      internalID: -6015163780113355116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_110
+      rect:
+        serializedVersion: 2
+        x: 8632
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276a09fa0c598400800000000000000
+      internalID: 326893650158708523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_CavalryArcher_332x270_111
+      rect:
+        serializedVersion: 2
+        x: 8964
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b255c6da60e57c10800000000000000
+      internalID: 2050791954811540144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_CavalryArcher_332x270_0: -126425297368687583
+      Gaul_CavalryArcher_332x270_1: -6427098425128880141
+      Gaul_CavalryArcher_332x270_10: 8480889509628441625
+      Gaul_CavalryArcher_332x270_100: -8387240433760802239
+      Gaul_CavalryArcher_332x270_101: 597094579294654864
+      Gaul_CavalryArcher_332x270_102: 3644754435830871156
+      Gaul_CavalryArcher_332x270_103: 8352276976797892645
+      Gaul_CavalryArcher_332x270_104: -8554100643592852890
+      Gaul_CavalryArcher_332x270_105: -202780428618571770
+      Gaul_CavalryArcher_332x270_106: 8225915112946736467
+      Gaul_CavalryArcher_332x270_107: 3279333229420912792
+      Gaul_CavalryArcher_332x270_108: -5675528169145683788
+      Gaul_CavalryArcher_332x270_109: -6015163780113355116
+      Gaul_CavalryArcher_332x270_11: -746906167994449703
+      Gaul_CavalryArcher_332x270_110: 326893650158708523
+      Gaul_CavalryArcher_332x270_111: 2050791954811540144
+      Gaul_CavalryArcher_332x270_12: -7323332458055074227
+      Gaul_CavalryArcher_332x270_13: 190894625791546296
+      Gaul_CavalryArcher_332x270_14: -5011607802096609612
+      Gaul_CavalryArcher_332x270_15: 4917292617898403784
+      Gaul_CavalryArcher_332x270_16: 1058309298174099458
+      Gaul_CavalryArcher_332x270_17: -4084231717380245932
+      Gaul_CavalryArcher_332x270_18: 7865152822375332917
+      Gaul_CavalryArcher_332x270_19: 8615040482118285500
+      Gaul_CavalryArcher_332x270_2: 4436448482051703631
+      Gaul_CavalryArcher_332x270_20: -8574126148999967134
+      Gaul_CavalryArcher_332x270_21: -7594061386697053655
+      Gaul_CavalryArcher_332x270_22: -1450012953473648490
+      Gaul_CavalryArcher_332x270_23: -8350356705357527626
+      Gaul_CavalryArcher_332x270_24: 325825178454822670
+      Gaul_CavalryArcher_332x270_25: 383862506618930890
+      Gaul_CavalryArcher_332x270_26: 2867236848550015322
+      Gaul_CavalryArcher_332x270_27: 7039477928715922843
+      Gaul_CavalryArcher_332x270_28: 6975058396121669855
+      Gaul_CavalryArcher_332x270_29: -9188265984032411822
+      Gaul_CavalryArcher_332x270_3: 5763791043879276732
+      Gaul_CavalryArcher_332x270_30: -5046651449619989614
+      Gaul_CavalryArcher_332x270_31: -2473144199013338242
+      Gaul_CavalryArcher_332x270_32: 5586678263826983595
+      Gaul_CavalryArcher_332x270_33: -4896357696852948177
+      Gaul_CavalryArcher_332x270_34: 3216444970397763861
+      Gaul_CavalryArcher_332x270_35: -4708508154072487670
+      Gaul_CavalryArcher_332x270_36: -7114840493686238562
+      Gaul_CavalryArcher_332x270_37: -1392648815843377844
+      Gaul_CavalryArcher_332x270_38: 8385616566698884166
+      Gaul_CavalryArcher_332x270_39: -530690029930635120
+      Gaul_CavalryArcher_332x270_4: -4729471992781741264
+      Gaul_CavalryArcher_332x270_40: 2791260746711188640
+      Gaul_CavalryArcher_332x270_41: 1119633236235894899
+      Gaul_CavalryArcher_332x270_42: 268478056681112994
+      Gaul_CavalryArcher_332x270_43: -4711193255221052278
+      Gaul_CavalryArcher_332x270_44: -4290632451544386029
+      Gaul_CavalryArcher_332x270_45: -379908101833691996
+      Gaul_CavalryArcher_332x270_46: -8179249362815597539
+      Gaul_CavalryArcher_332x270_47: -7036943205593810829
+      Gaul_CavalryArcher_332x270_48: 3661893915660788753
+      Gaul_CavalryArcher_332x270_49: -6704700634351644397
+      Gaul_CavalryArcher_332x270_5: 6755568858592866734
+      Gaul_CavalryArcher_332x270_50: -3869142609305703185
+      Gaul_CavalryArcher_332x270_51: 4302325173251653594
+      Gaul_CavalryArcher_332x270_52: 2403625533053688784
+      Gaul_CavalryArcher_332x270_53: -8613956798761822405
+      Gaul_CavalryArcher_332x270_54: -7245309984264149610
+      Gaul_CavalryArcher_332x270_55: 3463944521014158609
+      Gaul_CavalryArcher_332x270_56: -2635190593934517297
+      Gaul_CavalryArcher_332x270_57: 1326989636040076684
+      Gaul_CavalryArcher_332x270_58: -1298428385152567922
+      Gaul_CavalryArcher_332x270_59: 4312473426073233425
+      Gaul_CavalryArcher_332x270_6: 194416003290292422
+      Gaul_CavalryArcher_332x270_60: 8413686588984321050
+      Gaul_CavalryArcher_332x270_61: 9101343600730554905
+      Gaul_CavalryArcher_332x270_62: -6249580116264489187
+      Gaul_CavalryArcher_332x270_63: 7171773371931479582
+      Gaul_CavalryArcher_332x270_64: -5993076857723907861
+      Gaul_CavalryArcher_332x270_65: 8127562701546562934
+      Gaul_CavalryArcher_332x270_66: 2399635317309971975
+      Gaul_CavalryArcher_332x270_67: 5842816596320320353
+      Gaul_CavalryArcher_332x270_68: -5840100759542349173
+      Gaul_CavalryArcher_332x270_69: 1632464140739452379
+      Gaul_CavalryArcher_332x270_7: -1563936824280296972
+      Gaul_CavalryArcher_332x270_70: 7969959041895083209
+      Gaul_CavalryArcher_332x270_71: 7857530626089733105
+      Gaul_CavalryArcher_332x270_72: 397886371800152662
+      Gaul_CavalryArcher_332x270_73: 8782213635962852123
+      Gaul_CavalryArcher_332x270_74: 5681208021878336696
+      Gaul_CavalryArcher_332x270_75: 4508908902030736073
+      Gaul_CavalryArcher_332x270_76: 2315912235960035013
+      Gaul_CavalryArcher_332x270_77: 6716291632420557256
+      Gaul_CavalryArcher_332x270_78: -5054830935330092517
+      Gaul_CavalryArcher_332x270_79: 6106404377200064712
+      Gaul_CavalryArcher_332x270_8: -2038253018906853005
+      Gaul_CavalryArcher_332x270_80: 1626353089617766826
+      Gaul_CavalryArcher_332x270_81: -7334533308732392311
+      Gaul_CavalryArcher_332x270_82: 1485295482194645013
+      Gaul_CavalryArcher_332x270_83: -4091518936976434474
+      Gaul_CavalryArcher_332x270_84: -8652725928515888207
+      Gaul_CavalryArcher_332x270_85: -3360416926748428782
+      Gaul_CavalryArcher_332x270_86: -4792360201141414430
+      Gaul_CavalryArcher_332x270_87: -986809979719506867
+      Gaul_CavalryArcher_332x270_88: -715687262076609392
+      Gaul_CavalryArcher_332x270_89: 7333461431556974684
+      Gaul_CavalryArcher_332x270_9: -9008434496182953661
+      Gaul_CavalryArcher_332x270_90: -6420114929173574881
+      Gaul_CavalryArcher_332x270_91: -8067077072303062610
+      Gaul_CavalryArcher_332x270_92: -6136817818822508535
+      Gaul_CavalryArcher_332x270_93: -2012093278847048728
+      Gaul_CavalryArcher_332x270_94: 8394155721008628079
+      Gaul_CavalryArcher_332x270_95: 7601037406298596805
+      Gaul_CavalryArcher_332x270_96: 4995724153906180935
+      Gaul_CavalryArcher_332x270_97: 6232268819765453161
+      Gaul_CavalryArcher_332x270_98: -4566251080709212100
+      Gaul_CavalryArcher_332x270_99: -8499260190999475855
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

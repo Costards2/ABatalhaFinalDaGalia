@@ -1,0 +1,2773 @@
+fileFormatVersion: 2
+guid: 7bc5cf269ca936149bfb95579a035f91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2645685330764519604
+    second: Roman_LightCavalry_347x285_0
+  - first:
+      213: -5746891096111773517
+    second: Roman_LightCavalry_347x285_1
+  - first:
+      213: -8362711498152018808
+    second: Roman_LightCavalry_347x285_2
+  - first:
+      213: -5910954157649295057
+    second: Roman_LightCavalry_347x285_3
+  - first:
+      213: -3270349696143388936
+    second: Roman_LightCavalry_347x285_4
+  - first:
+      213: -9183284374758109085
+    second: Roman_LightCavalry_347x285_5
+  - first:
+      213: 1982211108323938838
+    second: Roman_LightCavalry_347x285_6
+  - first:
+      213: -3183278286904250400
+    second: Roman_LightCavalry_347x285_7
+  - first:
+      213: 6541183655842638815
+    second: Roman_LightCavalry_347x285_8
+  - first:
+      213: -767372028709634143
+    second: Roman_LightCavalry_347x285_9
+  - first:
+      213: 1868640297226469676
+    second: Roman_LightCavalry_347x285_10
+  - first:
+      213: 3336633912106211778
+    second: Roman_LightCavalry_347x285_11
+  - first:
+      213: -1294161440934295222
+    second: Roman_LightCavalry_347x285_12
+  - first:
+      213: -2816276629452631504
+    second: Roman_LightCavalry_347x285_13
+  - first:
+      213: -6758880414031645943
+    second: Roman_LightCavalry_347x285_14
+  - first:
+      213: -4451952133852575437
+    second: Roman_LightCavalry_347x285_15
+  - first:
+      213: -8727920385320112034
+    second: Roman_LightCavalry_347x285_16
+  - first:
+      213: 259901492886537915
+    second: Roman_LightCavalry_347x285_17
+  - first:
+      213: 9184985743515338316
+    second: Roman_LightCavalry_347x285_18
+  - first:
+      213: 1415865579535290993
+    second: Roman_LightCavalry_347x285_19
+  - first:
+      213: 8072603768732531953
+    second: Roman_LightCavalry_347x285_20
+  - first:
+      213: 3189388944550153622
+    second: Roman_LightCavalry_347x285_21
+  - first:
+      213: -5421054345338094563
+    second: Roman_LightCavalry_347x285_22
+  - first:
+      213: 4128925329606267218
+    second: Roman_LightCavalry_347x285_23
+  - first:
+      213: -6687530565043871115
+    second: Roman_LightCavalry_347x285_24
+  - first:
+      213: 8940025305087930193
+    second: Roman_LightCavalry_347x285_25
+  - first:
+      213: -362017252047814330
+    second: Roman_LightCavalry_347x285_26
+  - first:
+      213: -3129800235738979389
+    second: Roman_LightCavalry_347x285_27
+  - first:
+      213: 5417216348113409054
+    second: Roman_LightCavalry_347x285_28
+  - first:
+      213: -2078811694784708259
+    second: Roman_LightCavalry_347x285_29
+  - first:
+      213: 6948536660872791424
+    second: Roman_LightCavalry_347x285_30
+  - first:
+      213: 433460031208898325
+    second: Roman_LightCavalry_347x285_31
+  - first:
+      213: 4231741155854587415
+    second: Roman_LightCavalry_347x285_32
+  - first:
+      213: -851697708932251228
+    second: Roman_LightCavalry_347x285_33
+  - first:
+      213: 711014433970907416
+    second: Roman_LightCavalry_347x285_34
+  - first:
+      213: 1448281108135882888
+    second: Roman_LightCavalry_347x285_35
+  - first:
+      213: -7335446319595736791
+    second: Roman_LightCavalry_347x285_36
+  - first:
+      213: 8758063746407331614
+    second: Roman_LightCavalry_347x285_37
+  - first:
+      213: -4509151144525156156
+    second: Roman_LightCavalry_347x285_38
+  - first:
+      213: 8601497419078786111
+    second: Roman_LightCavalry_347x285_39
+  - first:
+      213: 8038406992903268192
+    second: Roman_LightCavalry_347x285_40
+  - first:
+      213: -6997680473970413918
+    second: Roman_LightCavalry_347x285_41
+  - first:
+      213: 3083650498261012733
+    second: Roman_LightCavalry_347x285_42
+  - first:
+      213: 7074131474956836197
+    second: Roman_LightCavalry_347x285_43
+  - first:
+      213: -5305174223757958272
+    second: Roman_LightCavalry_347x285_44
+  - first:
+      213: -5292681120694574358
+    second: Roman_LightCavalry_347x285_45
+  - first:
+      213: -5343669031677559737
+    second: Roman_LightCavalry_347x285_46
+  - first:
+      213: -2141550381128635874
+    second: Roman_LightCavalry_347x285_47
+  - first:
+      213: -5755665037296374165
+    second: Roman_LightCavalry_347x285_48
+  - first:
+      213: -8555339792410843495
+    second: Roman_LightCavalry_347x285_49
+  - first:
+      213: 4859831007308668656
+    second: Roman_LightCavalry_347x285_50
+  - first:
+      213: -4497892897017261449
+    second: Roman_LightCavalry_347x285_51
+  - first:
+      213: -218661771032917319
+    second: Roman_LightCavalry_347x285_52
+  - first:
+      213: -2451534516880293582
+    second: Roman_LightCavalry_347x285_53
+  - first:
+      213: -876817634527503932
+    second: Roman_LightCavalry_347x285_54
+  - first:
+      213: -9071954084092574251
+    second: Roman_LightCavalry_347x285_55
+  - first:
+      213: -6990559100612978611
+    second: Roman_LightCavalry_347x285_56
+  - first:
+      213: 9059124104342494477
+    second: Roman_LightCavalry_347x285_57
+  - first:
+      213: 3379548609602519024
+    second: Roman_LightCavalry_347x285_58
+  - first:
+      213: 3692309747807867563
+    second: Roman_LightCavalry_347x285_59
+  - first:
+      213: 6805808278849862141
+    second: Roman_LightCavalry_347x285_60
+  - first:
+      213: 1876461009894165166
+    second: Roman_LightCavalry_347x285_61
+  - first:
+      213: 4629172570412591105
+    second: Roman_LightCavalry_347x285_62
+  - first:
+      213: 116917415383344493
+    second: Roman_LightCavalry_347x285_63
+  - first:
+      213: -8049030115357363824
+    second: Roman_LightCavalry_347x285_64
+  - first:
+      213: -5318240517566221428
+    second: Roman_LightCavalry_347x285_65
+  - first:
+      213: 4239550944776842115
+    second: Roman_LightCavalry_347x285_66
+  - first:
+      213: -1059725905214681504
+    second: Roman_LightCavalry_347x285_67
+  - first:
+      213: -7933295774081262436
+    second: Roman_LightCavalry_347x285_68
+  - first:
+      213: 7419998222360860595
+    second: Roman_LightCavalry_347x285_69
+  - first:
+      213: -2461185381549547729
+    second: Roman_LightCavalry_347x285_70
+  - first:
+      213: 2871889789840460931
+    second: Roman_LightCavalry_347x285_71
+  - first:
+      213: 756316571619244911
+    second: Roman_LightCavalry_347x285_72
+  - first:
+      213: 64285229582148501
+    second: Roman_LightCavalry_347x285_73
+  - first:
+      213: -34525720757902356
+    second: Roman_LightCavalry_347x285_74
+  - first:
+      213: 3157013606615300522
+    second: Roman_LightCavalry_347x285_75
+  - first:
+      213: -9085173366330999602
+    second: Roman_LightCavalry_347x285_76
+  - first:
+      213: -8479850350539269335
+    second: Roman_LightCavalry_347x285_77
+  - first:
+      213: -5975773111305161634
+    second: Roman_LightCavalry_347x285_78
+  - first:
+      213: 1603800785696821665
+    second: Roman_LightCavalry_347x285_79
+  - first:
+      213: 4736275238672810448
+    second: Roman_LightCavalry_347x285_80
+  - first:
+      213: 4534645334879141788
+    second: Roman_LightCavalry_347x285_81
+  - first:
+      213: -7339820212603919161
+    second: Roman_LightCavalry_347x285_82
+  - first:
+      213: 2231496297208253545
+    second: Roman_LightCavalry_347x285_83
+  - first:
+      213: -7066026689534399414
+    second: Roman_LightCavalry_347x285_84
+  - first:
+      213: -1277278997499457721
+    second: Roman_LightCavalry_347x285_85
+  - first:
+      213: -5138837082374227708
+    second: Roman_LightCavalry_347x285_86
+  - first:
+      213: -7757640966601471932
+    second: Roman_LightCavalry_347x285_87
+  - first:
+      213: -4580814225743426162
+    second: Roman_LightCavalry_347x285_88
+  - first:
+      213: 1941246049194197511
+    second: Roman_LightCavalry_347x285_89
+  - first:
+      213: -7757489287442101210
+    second: Roman_LightCavalry_347x285_90
+  - first:
+      213: 6400514478505600288
+    second: Roman_LightCavalry_347x285_91
+  - first:
+      213: 7035267309042990368
+    second: Roman_LightCavalry_347x285_92
+  - first:
+      213: -67734011748352511
+    second: Roman_LightCavalry_347x285_93
+  - first:
+      213: 6935167349341457088
+    second: Roman_LightCavalry_347x285_94
+  - first:
+      213: -3699956724879854700
+    second: Roman_LightCavalry_347x285_95
+  - first:
+      213: 1015676455398382609
+    second: Roman_LightCavalry_347x285_96
+  - first:
+      213: 3289893956327891142
+    second: Roman_LightCavalry_347x285_97
+  - first:
+      213: -6732076887877920891
+    second: Roman_LightCavalry_347x285_98
+  - first:
+      213: 3435925432744800418
+    second: Roman_LightCavalry_347x285_99
+  - first:
+      213: 832652439964850471
+    second: Roman_LightCavalry_347x285_100
+  - first:
+      213: -4556274157393111717
+    second: Roman_LightCavalry_347x285_101
+  - first:
+      213: -7537492017258792577
+    second: Roman_LightCavalry_347x285_102
+  - first:
+      213: 924476164384935831
+    second: Roman_LightCavalry_347x285_103
+  - first:
+      213: -7019574716754182131
+    second: Roman_LightCavalry_347x285_104
+  - first:
+      213: -2328471613379011465
+    second: Roman_LightCavalry_347x285_105
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b85ea77acc57b420800000000000000
+      internalID: 2645685330764519604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b807651ff0fe30b0800000000000000
+      internalID: -5746891096111773517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf291333ea1fb80800000000000000
+      internalID: -8362711498152018808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2902bdd28218fda0800000000000000
+      internalID: -5910954157649295057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_4
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe011647426d92d0800000000000000
+      internalID: -3270349696143388936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d52b248b6e8080800000000000000
+      internalID: -9183284374758109085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_6
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6125b75308a328b10800000000000000
+      internalID: 1982211108323938838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_7
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efabd78349b2d3d0800000000000000
+      internalID: -3183278286904250400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_8
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb6719d0e3f6ca50800000000000000
+      internalID: 6541183655842638815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_9
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aff032a43fb955f0800000000000000
+      internalID: -767372028709634143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_10
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210a29237ebee910800000000000000
+      internalID: 1868640297226469676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_11
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9dc946dda1e4e20800000000000000
+      internalID: 3336633912106211778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_12
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498a17b6073a0ee0800000000000000
+      internalID: -1294161440934295222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_13
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032dd38a3539ae8d0800000000000000
+      internalID: -2816276629452631504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_14
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9037c42d212a332a0800000000000000
+      internalID: -6758880414031645943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_15
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339cca82f1d7732c0800000000000000
+      internalID: -4451952133852575437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ba1de6a230e680800000000000000
+      internalID: -8727920385320112034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb68810e70b5b9300800000000000000
+      internalID: 259901492886537915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46424d9edf977f70800000000000000
+      internalID: 9184985743515338316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_19
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17257e53e3a26a310800000000000000
+      internalID: 1415865579535290993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_20
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc38cf6b56a70070800000000000000
+      internalID: 8072603768732531953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_21
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d4872d85cf24c20800000000000000
+      internalID: 3189388944550153622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_22
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cf80e7bcb84c4b0800000000000000
+      internalID: -5421054345338094563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_23
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2515b4716b3ec4930800000000000000
+      internalID: 4128925329606267218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_24
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722ef5126e1133a0800000000000000
+      internalID: -6687530565043871115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_25
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fe4c016a9511c70800000000000000
+      internalID: 8940025305087930193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_26
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64180213a3bd9faf0800000000000000
+      internalID: -362017252047814330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_27
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c328da9447b094d0800000000000000
+      internalID: -3129800235738979389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_28
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e141db42191dd2b40800000000000000
+      internalID: 5417216348113409054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_29
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d510e6117c39623e0800000000000000
+      internalID: -2078811694784708259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_30
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0850a1437492e6060800000000000000
+      internalID: 6948536660872791424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_31
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f39801a95f30600800000000000000
+      internalID: 433460031208898325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_32
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7161d18192a2aba30800000000000000
+      internalID: 4231741155854587415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_33
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1441b32792e24f0800000000000000
+      internalID: -851697708932251228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_34
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e20f4cd70ed900800000000000000
+      internalID: 711014433970907416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_35
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88039599ef3591410800000000000000
+      internalID: 1448281108135882888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_36
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921bc8bef62433a90800000000000000
+      internalID: -7335446319595736791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_37
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f5dc3394ea8970800000000000000
+      internalID: 8758063746407331614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_38
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c03800bce64c61c0800000000000000
+      internalID: -4509151144525156156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_39
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c51a87458ae5770800000000000000
+      internalID: 8601497419078786111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067e30c12982e8f60800000000000000
+      internalID: 8038406992903268192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae6e492fae33ee90800000000000000
+      internalID: -6997680473970413918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0dd405ac35bca20800000000000000
+      internalID: 3083650498261012733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d563b981d5c2260800000000000000
+      internalID: 7074131474956836197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_44
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0832959c62c3066b0800000000000000
+      internalID: -5305174223757958272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_45
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26593009e9c86b0800000000000000
+      internalID: -5292681120694574358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_46
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7a91e35977d5b0800000000000000
+      internalID: -5343669031677559737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_47
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa938564fa742e0800000000000000
+      internalID: -2141550381128635874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_48
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e60d5b425cf10b0800000000000000
+      internalID: -5755665037296374165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_49
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996669479c3554980800000000000000
+      internalID: -8555339792410843495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_50
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fedf0b7d86917340800000000000000
+      internalID: 4859831007308668656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_51
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729883bd364491c0800000000000000
+      internalID: -4497892897017261449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_52
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba00ab174827fcf0800000000000000
+      internalID: -218661771032917319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_53
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231cdbe78566afdd0800000000000000
+      internalID: -2451534516880293582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_54
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c99039c10be4d3f0800000000000000
+      internalID: -876817634527503932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_55
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5020763d1f91280800000000000000
+      internalID: -9071954084092574251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_56
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d69a198b8cfe90800000000000000
+      internalID: -6990559100612978611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_57
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d5387206978bd70800000000000000
+      internalID: 9059124104342494477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_58
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fff5880e8196ee20800000000000000
+      internalID: 3379548609602519024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_59
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2dcc62728bd3330800000000000000
+      internalID: 3692309747807867563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_60
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df932462296137e50800000000000000
+      internalID: 6805808278849862141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_61
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaacc99b8578a0a10800000000000000
+      internalID: 1876461009894165166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_62
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ac672def1e3040800000000000000
+      internalID: 4629172570412591105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_63
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652bf315cf5f9100800000000000000
+      internalID: 116917415383344493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f3b371c91c4090800000000000000
+      internalID: -8049030115357363824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8330603d60d136b0800000000000000
+      internalID: -5318240517566221428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_66
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b68964f19e5da30800000000000000
+      internalID: 4239550944776842115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_67
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e466467e81b41f0800000000000000
+      internalID: -1059725905214681504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_68
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c57cf968547e190800000000000000
+      internalID: -7933295774081262436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_69
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b759d5021129f660800000000000000
+      internalID: 7419998222360860595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_70
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fda567fec18ddd0800000000000000
+      internalID: -2461185381549547729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_71
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c03854c800bd720800000000000000
+      internalID: 2871889789840460931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_72
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3b1d2ae9fe7a00800000000000000
+      internalID: 756316571619244911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_73
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5936c81631364e000800000000000000
+      internalID: 64285229582148501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_74
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36c963a07558ff0800000000000000
+      internalID: -34525720757902356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_75
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9316d0627ffcb20800000000000000
+      internalID: 3157013606615300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_76
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc300965fafae180800000000000000
+      internalID: -9085173366330999602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_77
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b92abc805815a80800000000000000
+      internalID: -8479850350539269335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54335a240ac11da0800000000000000
+      internalID: -5975773111305161634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_79
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a193f93158d14610800000000000000
+      internalID: 1603800785696821665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_80
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d142975c31aab140800000000000000
+      internalID: 4736275238672810448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_81
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f7adf08eb4eee30800000000000000
+      internalID: 4534645334879141788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_82
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e2889768b32a90800000000000000
+      internalID: -7339820212603919161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_83
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c82b03f0ed7fe10800000000000000
+      internalID: 2231496297208253545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_84
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6fdcc92e60fd90800000000000000
+      internalID: -7066026689534399414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_85
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f4af2e481364ee0800000000000000
+      internalID: -1277278997499457721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_86
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409ba7a76ee2fa8b0800000000000000
+      internalID: -5138837082374227708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_87
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44883b284a2575490800000000000000
+      internalID: -7757640966601471932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_88
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dc18c5bbdad60c0800000000000000
+      internalID: -4580814225743426162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_89
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c9df1ff0b0fa10800000000000000
+      internalID: 1941246049194197511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_90
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8d11189cd75490800000000000000
+      internalID: -7757489287442101210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_91
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025221fb10233d850800000000000000
+      internalID: 6400514478505600288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_92
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dfc67d75a42a160800000000000000
+      internalID: 7035267309042990368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_93
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ef682764c5f0ff0800000000000000
+      internalID: -67734011748352511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_94
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca826bc5f9ae3060800000000000000
+      internalID: 6935167349341457088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_95
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493f73146fc17acc0800000000000000
+      internalID: -3699956724879854700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_96
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9fbada58681e00800000000000000
+      internalID: 1015676455398382609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_97
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0e0a76f1d08ad20800000000000000
+      internalID: 3289893956327891142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_98
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5875b611dbbd292a0800000000000000
+      internalID: -6732076887877920891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_99
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0fb7d0afbdeaf20800000000000000
+      internalID: 3435925432744800418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_100
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72997798bfc2e8b00800000000000000
+      internalID: 832652439964850471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_101
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b559a454bccd4c0c0800000000000000
+      internalID: -4556274157393111717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_102
+      rect:
+        serializedVersion: 2
+        x: 8328
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7972f512f2756790800000000000000
+      internalID: -7537492017258792577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_103
+      rect:
+        serializedVersion: 2
+        x: 8675
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fca756c2664dc00800000000000000
+      internalID: 924476164384935831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_104
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cd858cf5759e90800000000000000
+      internalID: -7019574716754182131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_LightCavalry_347x285_105
+      rect:
+        serializedVersion: 2
+        x: 9369
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c96f6876b9fafd0800000000000000
+      internalID: -2328471613379011465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_LightCavalry_347x285_0: 2645685330764519604
+      Roman_LightCavalry_347x285_1: -5746891096111773517
+      Roman_LightCavalry_347x285_10: 1868640297226469676
+      Roman_LightCavalry_347x285_100: 832652439964850471
+      Roman_LightCavalry_347x285_101: -4556274157393111717
+      Roman_LightCavalry_347x285_102: -7537492017258792577
+      Roman_LightCavalry_347x285_103: 924476164384935831
+      Roman_LightCavalry_347x285_104: -7019574716754182131
+      Roman_LightCavalry_347x285_105: -2328471613379011465
+      Roman_LightCavalry_347x285_11: 3336633912106211778
+      Roman_LightCavalry_347x285_12: -1294161440934295222
+      Roman_LightCavalry_347x285_13: -2816276629452631504
+      Roman_LightCavalry_347x285_14: -6758880414031645943
+      Roman_LightCavalry_347x285_15: -4451952133852575437
+      Roman_LightCavalry_347x285_16: -8727920385320112034
+      Roman_LightCavalry_347x285_17: 259901492886537915
+      Roman_LightCavalry_347x285_18: 9184985743515338316
+      Roman_LightCavalry_347x285_19: 1415865579535290993
+      Roman_LightCavalry_347x285_2: -8362711498152018808
+      Roman_LightCavalry_347x285_20: 8072603768732531953
+      Roman_LightCavalry_347x285_21: 3189388944550153622
+      Roman_LightCavalry_347x285_22: -5421054345338094563
+      Roman_LightCavalry_347x285_23: 4128925329606267218
+      Roman_LightCavalry_347x285_24: -6687530565043871115
+      Roman_LightCavalry_347x285_25: 8940025305087930193
+      Roman_LightCavalry_347x285_26: -362017252047814330
+      Roman_LightCavalry_347x285_27: -3129800235738979389
+      Roman_LightCavalry_347x285_28: 5417216348113409054
+      Roman_LightCavalry_347x285_29: -2078811694784708259
+      Roman_LightCavalry_347x285_3: -5910954157649295057
+      Roman_LightCavalry_347x285_30: 6948536660872791424
+      Roman_LightCavalry_347x285_31: 433460031208898325
+      Roman_LightCavalry_347x285_32: 4231741155854587415
+      Roman_LightCavalry_347x285_33: -851697708932251228
+      Roman_LightCavalry_347x285_34: 711014433970907416
+      Roman_LightCavalry_347x285_35: 1448281108135882888
+      Roman_LightCavalry_347x285_36: -7335446319595736791
+      Roman_LightCavalry_347x285_37: 8758063746407331614
+      Roman_LightCavalry_347x285_38: -4509151144525156156
+      Roman_LightCavalry_347x285_39: 8601497419078786111
+      Roman_LightCavalry_347x285_4: -3270349696143388936
+      Roman_LightCavalry_347x285_40: 8038406992903268192
+      Roman_LightCavalry_347x285_41: -6997680473970413918
+      Roman_LightCavalry_347x285_42: 3083650498261012733
+      Roman_LightCavalry_347x285_43: 7074131474956836197
+      Roman_LightCavalry_347x285_44: -5305174223757958272
+      Roman_LightCavalry_347x285_45: -5292681120694574358
+      Roman_LightCavalry_347x285_46: -5343669031677559737
+      Roman_LightCavalry_347x285_47: -2141550381128635874
+      Roman_LightCavalry_347x285_48: -5755665037296374165
+      Roman_LightCavalry_347x285_49: -8555339792410843495
+      Roman_LightCavalry_347x285_5: -9183284374758109085
+      Roman_LightCavalry_347x285_50: 4859831007308668656
+      Roman_LightCavalry_347x285_51: -4497892897017261449
+      Roman_LightCavalry_347x285_52: -218661771032917319
+      Roman_LightCavalry_347x285_53: -2451534516880293582
+      Roman_LightCavalry_347x285_54: -876817634527503932
+      Roman_LightCavalry_347x285_55: -9071954084092574251
+      Roman_LightCavalry_347x285_56: -6990559100612978611
+      Roman_LightCavalry_347x285_57: 9059124104342494477
+      Roman_LightCavalry_347x285_58: 3379548609602519024
+      Roman_LightCavalry_347x285_59: 3692309747807867563
+      Roman_LightCavalry_347x285_6: 1982211108323938838
+      Roman_LightCavalry_347x285_60: 6805808278849862141
+      Roman_LightCavalry_347x285_61: 1876461009894165166
+      Roman_LightCavalry_347x285_62: 4629172570412591105
+      Roman_LightCavalry_347x285_63: 116917415383344493
+      Roman_LightCavalry_347x285_64: -8049030115357363824
+      Roman_LightCavalry_347x285_65: -5318240517566221428
+      Roman_LightCavalry_347x285_66: 4239550944776842115
+      Roman_LightCavalry_347x285_67: -1059725905214681504
+      Roman_LightCavalry_347x285_68: -7933295774081262436
+      Roman_LightCavalry_347x285_69: 7419998222360860595
+      Roman_LightCavalry_347x285_7: -3183278286904250400
+      Roman_LightCavalry_347x285_70: -2461185381549547729
+      Roman_LightCavalry_347x285_71: 2871889789840460931
+      Roman_LightCavalry_347x285_72: 756316571619244911
+      Roman_LightCavalry_347x285_73: 64285229582148501
+      Roman_LightCavalry_347x285_74: -34525720757902356
+      Roman_LightCavalry_347x285_75: 3157013606615300522
+      Roman_LightCavalry_347x285_76: -9085173366330999602
+      Roman_LightCavalry_347x285_77: -8479850350539269335
+      Roman_LightCavalry_347x285_78: -5975773111305161634
+      Roman_LightCavalry_347x285_79: 1603800785696821665
+      Roman_LightCavalry_347x285_8: 6541183655842638815
+      Roman_LightCavalry_347x285_80: 4736275238672810448
+      Roman_LightCavalry_347x285_81: 4534645334879141788
+      Roman_LightCavalry_347x285_82: -7339820212603919161
+      Roman_LightCavalry_347x285_83: 2231496297208253545
+      Roman_LightCavalry_347x285_84: -7066026689534399414
+      Roman_LightCavalry_347x285_85: -1277278997499457721
+      Roman_LightCavalry_347x285_86: -5138837082374227708
+      Roman_LightCavalry_347x285_87: -7757640966601471932
+      Roman_LightCavalry_347x285_88: -4580814225743426162
+      Roman_LightCavalry_347x285_89: 1941246049194197511
+      Roman_LightCavalry_347x285_9: -767372028709634143
+      Roman_LightCavalry_347x285_90: -7757489287442101210
+      Roman_LightCavalry_347x285_91: 6400514478505600288
+      Roman_LightCavalry_347x285_92: 7035267309042990368
+      Roman_LightCavalry_347x285_93: -67734011748352511
+      Roman_LightCavalry_347x285_94: 6935167349341457088
+      Roman_LightCavalry_347x285_95: -3699956724879854700
+      Roman_LightCavalry_347x285_96: 1015676455398382609
+      Roman_LightCavalry_347x285_97: 3289893956327891142
+      Roman_LightCavalry_347x285_98: -6732076887877920891
+      Roman_LightCavalry_347x285_99: 3435925432744800418
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: ad80f8bb35abf2d48a31bd27b609b8a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5471944470152548600
+    second: Roman_Skirmisher_358x234_0
+  - first:
+      213: -5113828315496547887
+    second: Roman_Skirmisher_358x234_1
+  - first:
+      213: 2524627132616514359
+    second: Roman_Skirmisher_358x234_2
+  - first:
+      213: -3073412421126205921
+    second: Roman_Skirmisher_358x234_3
+  - first:
+      213: 683252774750795638
+    second: Roman_Skirmisher_358x234_4
+  - first:
+      213: 6534363039590953408
+    second: Roman_Skirmisher_358x234_5
+  - first:
+      213: 7207071830001580150
+    second: Roman_Skirmisher_358x234_6
+  - first:
+      213: 2249020411352515406
+    second: Roman_Skirmisher_358x234_7
+  - first:
+      213: 2616302434576463467
+    second: Roman_Skirmisher_358x234_8
+  - first:
+      213: -7919727594960085365
+    second: Roman_Skirmisher_358x234_9
+  - first:
+      213: -8957680643801657422
+    second: Roman_Skirmisher_358x234_10
+  - first:
+      213: 7886357449294723456
+    second: Roman_Skirmisher_358x234_11
+  - first:
+      213: 7889351610990434490
+    second: Roman_Skirmisher_358x234_12
+  - first:
+      213: -5986639385826762595
+    second: Roman_Skirmisher_358x234_13
+  - first:
+      213: 4099981936615087588
+    second: Roman_Skirmisher_358x234_14
+  - first:
+      213: -836037407595090649
+    second: Roman_Skirmisher_358x234_15
+  - first:
+      213: 1052618065110049998
+    second: Roman_Skirmisher_358x234_16
+  - first:
+      213: 9047596792913944124
+    second: Roman_Skirmisher_358x234_17
+  - first:
+      213: 2136838807899634992
+    second: Roman_Skirmisher_358x234_18
+  - first:
+      213: -3164649779943090404
+    second: Roman_Skirmisher_358x234_19
+  - first:
+      213: 3730488029596465794
+    second: Roman_Skirmisher_358x234_20
+  - first:
+      213: 6012189203897592356
+    second: Roman_Skirmisher_358x234_21
+  - first:
+      213: 3822868798885082265
+    second: Roman_Skirmisher_358x234_22
+  - first:
+      213: 3890148468621101988
+    second: Roman_Skirmisher_358x234_23
+  - first:
+      213: 7101301104526809542
+    second: Roman_Skirmisher_358x234_24
+  - first:
+      213: -2207857776135723445
+    second: Roman_Skirmisher_358x234_25
+  - first:
+      213: -3752884823420198719
+    second: Roman_Skirmisher_358x234_26
+  - first:
+      213: 1176914410020270888
+    second: Roman_Skirmisher_358x234_27
+  - first:
+      213: -3661062418571039587
+    second: Roman_Skirmisher_358x234_28
+  - first:
+      213: 1709011138136263143
+    second: Roman_Skirmisher_358x234_29
+  - first:
+      213: -2582689387925682275
+    second: Roman_Skirmisher_358x234_30
+  - first:
+      213: 2732987449532014090
+    second: Roman_Skirmisher_358x234_31
+  - first:
+      213: -5853820597275374173
+    second: Roman_Skirmisher_358x234_32
+  - first:
+      213: -6398717311024097078
+    second: Roman_Skirmisher_358x234_33
+  - first:
+      213: -2115637823671288992
+    second: Roman_Skirmisher_358x234_34
+  - first:
+      213: 4755821816573177609
+    second: Roman_Skirmisher_358x234_35
+  - first:
+      213: 7568991051842655927
+    second: Roman_Skirmisher_358x234_36
+  - first:
+      213: -3904551606288453782
+    second: Roman_Skirmisher_358x234_37
+  - first:
+      213: -7755835100563297405
+    second: Roman_Skirmisher_358x234_38
+  - first:
+      213: 7898249233223307289
+    second: Roman_Skirmisher_358x234_39
+  - first:
+      213: 2324909306569726356
+    second: Roman_Skirmisher_358x234_40
+  - first:
+      213: -5948278870296992025
+    second: Roman_Skirmisher_358x234_41
+  - first:
+      213: -3311735003014401081
+    second: Roman_Skirmisher_358x234_42
+  - first:
+      213: -8653194190400979521
+    second: Roman_Skirmisher_358x234_43
+  - first:
+      213: 5977449561238146758
+    second: Roman_Skirmisher_358x234_44
+  - first:
+      213: -1073405121437348837
+    second: Roman_Skirmisher_358x234_45
+  - first:
+      213: 1950995546142419411
+    second: Roman_Skirmisher_358x234_46
+  - first:
+      213: 3219781639941775626
+    second: Roman_Skirmisher_358x234_47
+  - first:
+      213: -3422069624648919151
+    second: Roman_Skirmisher_358x234_48
+  - first:
+      213: -670098886002786125
+    second: Roman_Skirmisher_358x234_49
+  - first:
+      213: -5224676723696723257
+    second: Roman_Skirmisher_358x234_50
+  - first:
+      213: -6555825240893975505
+    second: Roman_Skirmisher_358x234_51
+  - first:
+      213: 4011663514071991377
+    second: Roman_Skirmisher_358x234_52
+  - first:
+      213: 2659909925210311625
+    second: Roman_Skirmisher_358x234_53
+  - first:
+      213: -7189768045416954036
+    second: Roman_Skirmisher_358x234_54
+  - first:
+      213: 2697997803038349869
+    second: Roman_Skirmisher_358x234_55
+  - first:
+      213: 1423535130394594011
+    second: Roman_Skirmisher_358x234_56
+  - first:
+      213: -5247375541626530502
+    second: Roman_Skirmisher_358x234_57
+  - first:
+      213: -6919884221706554498
+    second: Roman_Skirmisher_358x234_58
+  - first:
+      213: -7575142510549481606
+    second: Roman_Skirmisher_358x234_59
+  - first:
+      213: 5645278379115544491
+    second: Roman_Skirmisher_358x234_60
+  - first:
+      213: 2210979954891070361
+    second: Roman_Skirmisher_358x234_61
+  - first:
+      213: -6906817899927164804
+    second: Roman_Skirmisher_358x234_62
+  - first:
+      213: 5027338211834057808
+    second: Roman_Skirmisher_358x234_63
+  - first:
+      213: 5447698904322463216
+    second: Roman_Skirmisher_358x234_64
+  - first:
+      213: 396433407695567588
+    second: Roman_Skirmisher_358x234_65
+  - first:
+      213: -1188284034253148890
+    second: Roman_Skirmisher_358x234_66
+  - first:
+      213: 6124995608044841404
+    second: Roman_Skirmisher_358x234_67
+  - first:
+      213: -7059249362943505262
+    second: Roman_Skirmisher_358x234_68
+  - first:
+      213: 1414144682202881855
+    second: Roman_Skirmisher_358x234_69
+  - first:
+      213: 567723178257235505
+    second: Roman_Skirmisher_358x234_70
+  - first:
+      213: -3586771023432197039
+    second: Roman_Skirmisher_358x234_71
+  - first:
+      213: -4536515866425898257
+    second: Roman_Skirmisher_358x234_72
+  - first:
+      213: 8000771351092079741
+    second: Roman_Skirmisher_358x234_73
+  - first:
+      213: 8615711983458744377
+    second: Roman_Skirmisher_358x234_74
+  - first:
+      213: 4358582232587034426
+    second: Roman_Skirmisher_358x234_75
+  - first:
+      213: -5516406056121291935
+    second: Roman_Skirmisher_358x234_76
+  - first:
+      213: 7386310562332872498
+    second: Roman_Skirmisher_358x234_77
+  - first:
+      213: -6734684800726536045
+    second: Roman_Skirmisher_358x234_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01b16018040fb40800000000000000
+      internalID: 5471944470152548600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d97e74cd380809b0800000000000000
+      internalID: -5113828315496547887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9be54007490320800000000000000
+      internalID: 2524627132616514359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ecf76cfab0955d0800000000000000
+      internalID: -3073412421126205921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67732d257c66b7900800000000000000
+      internalID: 683252774750795638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b2406098beaa50800000000000000
+      internalID: 6534363039590953408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678f7f905a9a40460800000000000000
+      internalID: 7207071830001580150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430547f520263f10800000000000000
+      internalID: 2249020411352515406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b667be5d339fe4420800000000000000
+      internalID: 2616302434576463467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e9b8086b9771290800000000000000
+      internalID: -7919727594960085365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_10
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4fce0aecefa380800000000000000
+      internalID: -8957680643801657422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_11
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b7f00158f17d60800000000000000
+      internalID: 7886357449294723456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_12
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab89d399d7b9c7d60800000000000000
+      internalID: 7889351610990434490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_13
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ee69723f2beca0800000000000000
+      internalID: -5986639385826762595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_14
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd57549df06e830800000000000000
+      internalID: 4099981936615087588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_15
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2b55486cc564f0800000000000000
+      internalID: -836037407595090649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_16
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec42b0f9d86ab9e00800000000000000
+      internalID: 1052618065110049998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_17
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e5990d8558f8d70800000000000000
+      internalID: 9047596792913944124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_18
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d7027039397ad10800000000000000
+      internalID: 2136838807899634992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_19
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1759fbcac7e414d0800000000000000
+      internalID: -3164649779943090404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_20
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ab1f2191b55c330800000000000000
+      internalID: 3730488029596465794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_21
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a21cc1a369f6350800000000000000
+      internalID: 6012189203897592356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_22
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994387c0bee8d0530800000000000000
+      internalID: 3822868798885082265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_23
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc0bbdb659cf530800000000000000
+      internalID: 3890148468621101988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9d862fab3ec8260800000000000000
+      internalID: 7101301104526809542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a8d2ec0d1c51e0800000000000000
+      internalID: -2207857776135723445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a51103231bebc0800000000000000
+      internalID: -3752884823420198719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_27
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823fb4c9b6d355010800000000000000
+      internalID: 1176914410020270888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_28
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c6a80a02b413dc0800000000000000
+      internalID: -3661062418571039587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_29
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e94ccd4390a7b710800000000000000
+      internalID: 1709011138136263143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_30
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97c4837fa1782cd0800000000000000
+      internalID: -2582689387925682275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_31
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed4f8fa958de520800000000000000
+      internalID: 2732987449532014090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_32
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad49808e2d03cea0800000000000000
+      internalID: -5853820597275374173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_33
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8144ae1803337a0800000000000000
+      internalID: -6398717311024097078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_34
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b31b6cb9eb3a2e0800000000000000
+      internalID: -2115637823671288992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_35
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fa5e7aeb2100240800000000000000
+      internalID: 4755821816573177609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_36
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6113962457a0960800000000000000
+      internalID: 7568991051842655927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_37
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6feef3500f30d9c0800000000000000
+      internalID: -3904551606288453782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_38
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2b66711dbd5490800000000000000
+      internalID: -7755835100563297405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_39
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d6c5b4d73c9d60800000000000000
+      internalID: 7898249233223307289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499961942bcb34020800000000000000
+      internalID: 2324909306569726356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e66cfef1e7737da0800000000000000
+      internalID: -5948278870296992025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_42
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37913af8a5a02d0800000000000000
+      internalID: -3311735003014401081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_43
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfcacfabda9e780800000000000000
+      internalID: -8653194190400979521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_44
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce0a60c4ba24f250800000000000000
+      internalID: 5977449561238146758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_45
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c44acaabf7a11f0800000000000000
+      internalID: -1073405121437348837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_46
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92036cc14531b10800000000000000
+      internalID: 1950995546142419411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_47
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ed07a756feac20800000000000000
+      internalID: 3219781639941775626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_48
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197952aaecd5280d0800000000000000
+      internalID: -3422069624648919151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_49
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b04b6f0d9453b6f0800000000000000
+      internalID: -670098886002786125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_50
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca1ec983383e77b0800000000000000
+      internalID: -5224676723696723257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_51
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2499fa7da70505a0800000000000000
+      internalID: -6555825240893975505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_52
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15408aa16ba4ca730800000000000000
+      internalID: 4011663514071991377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_53
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb42b2fbf5e9e420800000000000000
+      internalID: 2659909925210311625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_54
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47c7734e00d83c90800000000000000
+      internalID: -7189768045416954036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_55
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a92ee05b6317520800000000000000
+      internalID: 2697997803038349869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_56
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda857ca8a961c310800000000000000
+      internalID: 1423535130394594011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_57
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3517462fb39d27b0800000000000000
+      internalID: -5247375541626530502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_58
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73b956a6f1a7ff90800000000000000
+      internalID: -6919884221706554498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_59
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ccbf7500bfd690800000000000000
+      internalID: -7575142510549481606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_60
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafff5d96ce085e40800000000000000
+      internalID: 5645278379115544491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_61
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b9ac00e8afeae10800000000000000
+      internalID: 2210979954891070361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_62
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782882c6bd0620a0800000000000000
+      internalID: -6906817899927164804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_63
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054dd1ab771b4c540800000000000000
+      internalID: 5027338211834057808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5dc635a4d1a9b40800000000000000
+      internalID: 5447698904322463216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_65
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eabaca751a608500800000000000000
+      internalID: 396433407695567588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_66
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da21677fd528fe0800000000000000
+      internalID: -1188284034253148890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_67
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9275ccd0b500550800000000000000
+      internalID: 6124995608044841404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_68
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c89dc1b12880e90800000000000000
+      internalID: -7059249362943505262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_69
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fd5b3981d00a310800000000000000
+      internalID: 1414144682202881855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_70
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e37c20935f0e700800000000000000
+      internalID: 567723178257235505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_71
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cd8a9f1ca393ec0800000000000000
+      internalID: -3586771023432197039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_72
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac2cfdade0b01c0800000000000000
+      internalID: -4536515866425898257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_73
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c27f66723780f60800000000000000
+      internalID: 8000771351092079741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_74
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9387225a668219770800000000000000
+      internalID: 8615711983458744377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_75
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fdda1a27bcc7c30800000000000000
+      internalID: 4358582232587034426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_76
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ba31c4be9c173b0800000000000000
+      internalID: -5516406056121291935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_77
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f01947252718660800000000000000
+      internalID: 7386310562332872498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Skirmisher_358x234_78
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390f87a0bd79982a0800000000000000
+      internalID: -6734684800726536045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_Skirmisher_358x234_0: 5471944470152548600
+      Roman_Skirmisher_358x234_1: -5113828315496547887
+      Roman_Skirmisher_358x234_10: -8957680643801657422
+      Roman_Skirmisher_358x234_11: 7886357449294723456
+      Roman_Skirmisher_358x234_12: 7889351610990434490
+      Roman_Skirmisher_358x234_13: -5986639385826762595
+      Roman_Skirmisher_358x234_14: 4099981936615087588
+      Roman_Skirmisher_358x234_15: -836037407595090649
+      Roman_Skirmisher_358x234_16: 1052618065110049998
+      Roman_Skirmisher_358x234_17: 9047596792913944124
+      Roman_Skirmisher_358x234_18: 2136838807899634992
+      Roman_Skirmisher_358x234_19: -3164649779943090404
+      Roman_Skirmisher_358x234_2: 2524627132616514359
+      Roman_Skirmisher_358x234_20: 3730488029596465794
+      Roman_Skirmisher_358x234_21: 6012189203897592356
+      Roman_Skirmisher_358x234_22: 3822868798885082265
+      Roman_Skirmisher_358x234_23: 3890148468621101988
+      Roman_Skirmisher_358x234_24: 7101301104526809542
+      Roman_Skirmisher_358x234_25: -2207857776135723445
+      Roman_Skirmisher_358x234_26: -3752884823420198719
+      Roman_Skirmisher_358x234_27: 1176914410020270888
+      Roman_Skirmisher_358x234_28: -3661062418571039587
+      Roman_Skirmisher_358x234_29: 1709011138136263143
+      Roman_Skirmisher_358x234_3: -3073412421126205921
+      Roman_Skirmisher_358x234_30: -2582689387925682275
+      Roman_Skirmisher_358x234_31: 2732987449532014090
+      Roman_Skirmisher_358x234_32: -5853820597275374173
+      Roman_Skirmisher_358x234_33: -6398717311024097078
+      Roman_Skirmisher_358x234_34: -2115637823671288992
+      Roman_Skirmisher_358x234_35: 4755821816573177609
+      Roman_Skirmisher_358x234_36: 7568991051842655927
+      Roman_Skirmisher_358x234_37: -3904551606288453782
+      Roman_Skirmisher_358x234_38: -7755835100563297405
+      Roman_Skirmisher_358x234_39: 7898249233223307289
+      Roman_Skirmisher_358x234_4: 683252774750795638
+      Roman_Skirmisher_358x234_40: 2324909306569726356
+      Roman_Skirmisher_358x234_41: -5948278870296992025
+      Roman_Skirmisher_358x234_42: -3311735003014401081
+      Roman_Skirmisher_358x234_43: -8653194190400979521
+      Roman_Skirmisher_358x234_44: 5977449561238146758
+      Roman_Skirmisher_358x234_45: -1073405121437348837
+      Roman_Skirmisher_358x234_46: 1950995546142419411
+      Roman_Skirmisher_358x234_47: 3219781639941775626
+      Roman_Skirmisher_358x234_48: -3422069624648919151
+      Roman_Skirmisher_358x234_49: -670098886002786125
+      Roman_Skirmisher_358x234_5: 6534363039590953408
+      Roman_Skirmisher_358x234_50: -5224676723696723257
+      Roman_Skirmisher_358x234_51: -6555825240893975505
+      Roman_Skirmisher_358x234_52: 4011663514071991377
+      Roman_Skirmisher_358x234_53: 2659909925210311625
+      Roman_Skirmisher_358x234_54: -7189768045416954036
+      Roman_Skirmisher_358x234_55: 2697997803038349869
+      Roman_Skirmisher_358x234_56: 1423535130394594011
+      Roman_Skirmisher_358x234_57: -5247375541626530502
+      Roman_Skirmisher_358x234_58: -6919884221706554498
+      Roman_Skirmisher_358x234_59: -7575142510549481606
+      Roman_Skirmisher_358x234_6: 7207071830001580150
+      Roman_Skirmisher_358x234_60: 5645278379115544491
+      Roman_Skirmisher_358x234_61: 2210979954891070361
+      Roman_Skirmisher_358x234_62: -6906817899927164804
+      Roman_Skirmisher_358x234_63: 5027338211834057808
+      Roman_Skirmisher_358x234_64: 5447698904322463216
+      Roman_Skirmisher_358x234_65: 396433407695567588
+      Roman_Skirmisher_358x234_66: -1188284034253148890
+      Roman_Skirmisher_358x234_67: 6124995608044841404
+      Roman_Skirmisher_358x234_68: -7059249362943505262
+      Roman_Skirmisher_358x234_69: 1414144682202881855
+      Roman_Skirmisher_358x234_7: 2249020411352515406
+      Roman_Skirmisher_358x234_70: 567723178257235505
+      Roman_Skirmisher_358x234_71: -3586771023432197039
+      Roman_Skirmisher_358x234_72: -4536515866425898257
+      Roman_Skirmisher_358x234_73: 8000771351092079741
+      Roman_Skirmisher_358x234_74: 8615711983458744377
+      Roman_Skirmisher_358x234_75: 4358582232587034426
+      Roman_Skirmisher_358x234_76: -5516406056121291935
+      Roman_Skirmisher_358x234_77: 7386310562332872498
+      Roman_Skirmisher_358x234_78: -6734684800726536045
+      Roman_Skirmisher_358x234_8: 2616302434576463467
+      Roman_Skirmisher_358x234_9: -7919727594960085365
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

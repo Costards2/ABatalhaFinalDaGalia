@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: 49eb9fdb094a79648bc6b68a9714da33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3763122966819229756
+    second: Gaul_Skirmisher_344x219_0
+  - first:
+      213: 6190222318832817884
+    second: Gaul_Skirmisher_344x219_1
+  - first:
+      213: 8820605566793953604
+    second: Gaul_Skirmisher_344x219_2
+  - first:
+      213: -788506542475026936
+    second: Gaul_Skirmisher_344x219_3
+  - first:
+      213: -7009638378166839930
+    second: Gaul_Skirmisher_344x219_4
+  - first:
+      213: 6666240471011671204
+    second: Gaul_Skirmisher_344x219_5
+  - first:
+      213: -41370093579189563
+    second: Gaul_Skirmisher_344x219_6
+  - first:
+      213: 108156002057991559
+    second: Gaul_Skirmisher_344x219_7
+  - first:
+      213: 3121501760771086319
+    second: Gaul_Skirmisher_344x219_8
+  - first:
+      213: -5963675422984300668
+    second: Gaul_Skirmisher_344x219_9
+  - first:
+      213: -3637058878069580961
+    second: Gaul_Skirmisher_344x219_10
+  - first:
+      213: -4313373430749650551
+    second: Gaul_Skirmisher_344x219_11
+  - first:
+      213: 2919221980919360553
+    second: Gaul_Skirmisher_344x219_12
+  - first:
+      213: 264003695469330561
+    second: Gaul_Skirmisher_344x219_13
+  - first:
+      213: -6235468935855800918
+    second: Gaul_Skirmisher_344x219_14
+  - first:
+      213: 3109455153740617274
+    second: Gaul_Skirmisher_344x219_15
+  - first:
+      213: 7824466404124293728
+    second: Gaul_Skirmisher_344x219_16
+  - first:
+      213: -4038703948160939080
+    second: Gaul_Skirmisher_344x219_17
+  - first:
+      213: 4069394041952291448
+    second: Gaul_Skirmisher_344x219_18
+  - first:
+      213: -9094021805844357430
+    second: Gaul_Skirmisher_344x219_19
+  - first:
+      213: 8624621819321967579
+    second: Gaul_Skirmisher_344x219_20
+  - first:
+      213: -8608917575006446462
+    second: Gaul_Skirmisher_344x219_21
+  - first:
+      213: -6129301630822459499
+    second: Gaul_Skirmisher_344x219_22
+  - first:
+      213: -5039243255938930161
+    second: Gaul_Skirmisher_344x219_23
+  - first:
+      213: -188442379728193252
+    second: Gaul_Skirmisher_344x219_24
+  - first:
+      213: -496989307971201900
+    second: Gaul_Skirmisher_344x219_25
+  - first:
+      213: 7547433417516815847
+    second: Gaul_Skirmisher_344x219_26
+  - first:
+      213: 1278688600774420043
+    second: Gaul_Skirmisher_344x219_27
+  - first:
+      213: 8455312974138013958
+    second: Gaul_Skirmisher_344x219_28
+  - first:
+      213: 240559734620157732
+    second: Gaul_Skirmisher_344x219_29
+  - first:
+      213: -5132870147559572878
+    second: Gaul_Skirmisher_344x219_30
+  - first:
+      213: -2141929453073395808
+    second: Gaul_Skirmisher_344x219_31
+  - first:
+      213: -5425618983304857644
+    second: Gaul_Skirmisher_344x219_32
+  - first:
+      213: 1518671448366980461
+    second: Gaul_Skirmisher_344x219_33
+  - first:
+      213: 7322183713018617010
+    second: Gaul_Skirmisher_344x219_34
+  - first:
+      213: 2807149599737139312
+    second: Gaul_Skirmisher_344x219_35
+  - first:
+      213: -6090354962158606191
+    second: Gaul_Skirmisher_344x219_36
+  - first:
+      213: 5263980599206878509
+    second: Gaul_Skirmisher_344x219_37
+  - first:
+      213: 5869586847082539581
+    second: Gaul_Skirmisher_344x219_38
+  - first:
+      213: 2142897843475874288
+    second: Gaul_Skirmisher_344x219_39
+  - first:
+      213: 5778388326474295164
+    second: Gaul_Skirmisher_344x219_40
+  - first:
+      213: -4174272511579977722
+    second: Gaul_Skirmisher_344x219_41
+  - first:
+      213: 216311246708966179
+    second: Gaul_Skirmisher_344x219_42
+  - first:
+      213: -3277625720308797870
+    second: Gaul_Skirmisher_344x219_43
+  - first:
+      213: 2492619207877448056
+    second: Gaul_Skirmisher_344x219_44
+  - first:
+      213: -6552674897542692761
+    second: Gaul_Skirmisher_344x219_45
+  - first:
+      213: -8484782124118574895
+    second: Gaul_Skirmisher_344x219_46
+  - first:
+      213: -5937323442823418362
+    second: Gaul_Skirmisher_344x219_47
+  - first:
+      213: 6095340419894781652
+    second: Gaul_Skirmisher_344x219_48
+  - first:
+      213: 2685058559960061184
+    second: Gaul_Skirmisher_344x219_49
+  - first:
+      213: -9003086523725177507
+    second: Gaul_Skirmisher_344x219_50
+  - first:
+      213: 3666930208965944369
+    second: Gaul_Skirmisher_344x219_51
+  - first:
+      213: 1234053585222949991
+    second: Gaul_Skirmisher_344x219_52
+  - first:
+      213: -3047032328552794926
+    second: Gaul_Skirmisher_344x219_53
+  - first:
+      213: -5826068134720234300
+    second: Gaul_Skirmisher_344x219_54
+  - first:
+      213: 6360632540003564222
+    second: Gaul_Skirmisher_344x219_55
+  - first:
+      213: -3908884345249544459
+    second: Gaul_Skirmisher_344x219_56
+  - first:
+      213: -6152722594163097813
+    second: Gaul_Skirmisher_344x219_57
+  - first:
+      213: 8771844980351351167
+    second: Gaul_Skirmisher_344x219_58
+  - first:
+      213: -6314144228096076807
+    second: Gaul_Skirmisher_344x219_59
+  - first:
+      213: -336029104872400102
+    second: Gaul_Skirmisher_344x219_60
+  - first:
+      213: -8552291732300084085
+    second: Gaul_Skirmisher_344x219_61
+  - first:
+      213: -969830232526903841
+    second: Gaul_Skirmisher_344x219_62
+  - first:
+      213: -1502649972252740339
+    second: Gaul_Skirmisher_344x219_63
+  - first:
+      213: -5301777401491458075
+    second: Gaul_Skirmisher_344x219_64
+  - first:
+      213: 8629815323477873120
+    second: Gaul_Skirmisher_344x219_65
+  - first:
+      213: 271095704053150829
+    second: Gaul_Skirmisher_344x219_66
+  - first:
+      213: -6530410962217465340
+    second: Gaul_Skirmisher_344x219_67
+  - first:
+      213: -2882142075854151466
+    second: Gaul_Skirmisher_344x219_68
+  - first:
+      213: 8961704641719561699
+    second: Gaul_Skirmisher_344x219_69
+  - first:
+      213: -6713329745807270679
+    second: Gaul_Skirmisher_344x219_70
+  - first:
+      213: -5331690975330853287
+    second: Gaul_Skirmisher_344x219_71
+  - first:
+      213: -2291319264016130642
+    second: Gaul_Skirmisher_344x219_72
+  - first:
+      213: 4232910350516210008
+    second: Gaul_Skirmisher_344x219_73
+  - first:
+      213: 4356703301367755589
+    second: Gaul_Skirmisher_344x219_74
+  - first:
+      213: 8773012269392117871
+    second: Gaul_Skirmisher_344x219_75
+  - first:
+      213: 5080602720141095332
+    second: Gaul_Skirmisher_344x219_76
+  - first:
+      213: -796594723673490679
+    second: Gaul_Skirmisher_344x219_77
+  - first:
+      213: 2094349864739923967
+    second: Gaul_Skirmisher_344x219_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf20ac7993b6cbc0800000000000000
+      internalID: -3763122966819229756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd699bad66618e550800000000000000
+      internalID: 6190222318832817884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44136988706196a70800000000000000
+      internalID: 8820605566793953604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e54b03a79ae05f0800000000000000
+      internalID: -788506542475026936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859b61a803c8be90800000000000000
+      internalID: -7009638378166839930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_5
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acbbfd936e338c50800000000000000
+      internalID: 6666240471011671204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_6
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c243eb7e160d6ff0800000000000000
+      internalID: -41370093579189563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_7
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853ef29f4f308100800000000000000
+      internalID: 108156002057991559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_8
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe75480205dc15b20800000000000000
+      internalID: 3121501760771086319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_9
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4871b49bcc4cc3da0800000000000000
+      internalID: -5963675422984300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_10
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b5b796832968dc0800000000000000
+      internalID: -3637058878069580961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_11
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812f8cc7b1d324c0800000000000000
+      internalID: -4313373430749650551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_12
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ce539cce8238820800000000000000
+      internalID: 2919221980919360553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_13
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18007d756fde9a300800000000000000
+      internalID: 264003695469330561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_14
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadf45e2a0a2779a0800000000000000
+      internalID: -6235468935855800918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_15
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3697bbdcf0072b20800000000000000
+      internalID: 3109455153740617274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_16
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7ece1db6169c60800000000000000
+      internalID: 7824466404124293728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_17
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb46e83824a3f7c0800000000000000
+      internalID: -4038703948160939080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_18
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a48a11254697830800000000000000
+      internalID: 4069394041952291448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_19
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace9dfa895b8bc180800000000000000
+      internalID: -9094021805844357430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_20
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e4c679dfc0b770800000000000000
+      internalID: 8624621819321967579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_21
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c9f19d31bf68880800000000000000
+      internalID: -8608917575006446462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_22
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597da9524a850faa0800000000000000
+      internalID: -6129301630822459499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_23
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a2af035f2011ab0800000000000000
+      internalID: -5039243255938930161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19fbaf67a4826df0800000000000000
+      internalID: -188442379728193252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49495398bd65a19f0800000000000000
+      internalID: -496989307971201900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5900984beddb860800000000000000
+      internalID: 7547433417516815847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_27
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b462083f180deb110800000000000000
+      internalID: 1278688600774420043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_28
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6097f301a5e475570800000000000000
+      internalID: 8455312974138013958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_29
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427fb49ddc3a65300800000000000000
+      internalID: 240559734620157732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_30
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a3180cbc164c8b0800000000000000
+      internalID: -5132870147559572878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_31
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0d97c2865642e0800000000000000
+      internalID: -2141929453073395808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_32
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77f75e74454b4b0800000000000000
+      internalID: -5425618983304857644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_33
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d1172d2a7631510800000000000000
+      internalID: 1518671448366980461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_34
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc10aada4f9d9560800000000000000
+      internalID: 7322183713018617010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_35
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07056b320bff4f620800000000000000
+      internalID: 2807149599737139312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_36
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198af741e66ba7ba0800000000000000
+      internalID: -6090354962158606191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_37
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1648177a6d0940800000000000000
+      internalID: 5263980599206878509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_38
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ae8a69326f47150800000000000000
+      internalID: 5869586847082539581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_39
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1845e2c3a1dbd10800000000000000
+      internalID: 2142897843475874288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a3c55195f03050800000000000000
+      internalID: 5778388326474295164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608099754410216c0800000000000000
+      internalID: -4174272511579977722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_42
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323820dceed700300800000000000000
+      internalID: 216311246708966179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_43
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6f42e5c88382d0800000000000000
+      internalID: -3277625720308797870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_44
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d9dd86ff879220800000000000000
+      internalID: 2492619207877448056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_45
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604953f5e83015a0800000000000000
+      internalID: -6552674897542692761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_46
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8f357cc9fff3a80800000000000000
+      internalID: -8484782124118574895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_47
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e29e939c36a9da0800000000000000
+      internalID: -5937323442823418362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_48
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a8e041dff69450800000000000000
+      internalID: 6095340419894781652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_49
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0059a83c88e334520800000000000000
+      internalID: 2685058559960061184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_50
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d114fc18c9e0380800000000000000
+      internalID: -9003086523725177507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_51
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1346099c89d83e230800000000000000
+      internalID: 3666930208965944369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_52
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cd20d823d302110800000000000000
+      internalID: 1234053585222949991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_53
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ba75bd34c6b5d0800000000000000
+      internalID: -3047032328552794926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_54
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc17c836e5a52fa0800000000000000
+      internalID: -5826068134720234300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_55
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf3b55891854850800000000000000
+      internalID: 6360632540003564222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_56
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c05de56ad0c9c0800000000000000
+      internalID: -3908884345249544459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_57
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f736d26632d9aa0800000000000000
+      internalID: -6152722594163097813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_58
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b2aec88adbb970800000000000000
+      internalID: 8771844980351351167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_59
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f310cf3747af58a0800000000000000
+      internalID: -6314144228096076807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_60
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b53e93f4f265bf0800000000000000
+      internalID: -336029104872400102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_61
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c4eb04bf7205980800000000000000
+      internalID: -8552291732300084085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_62
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5acc9ba887a82f0800000000000000
+      internalID: -969830232526903841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_63
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05ff16cfc3852be0800000000000000
+      internalID: -1502649972252740339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e778e91b8d4c66b0800000000000000
+      internalID: -5301777401491458075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_65
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e11f11605343c770800000000000000
+      internalID: 8629815323477873120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_66
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64f8344b1023c300800000000000000
+      internalID: 271095704053150829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_67
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a06b754d15f55a0800000000000000
+      internalID: -6530410962217465340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_68
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0a1806d039008d0800000000000000
+      internalID: -2882142075854151466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_69
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ede9a7f3ee5e5c70800000000000000
+      internalID: 8961704641719561699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_70
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec18193a2675d2a0800000000000000
+      internalID: -6713329745807270679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_71
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e9f337e470206b0800000000000000
+      internalID: -5331690975330853287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_72
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1f41f4499330e0800000000000000
+      internalID: -2291319264016130642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_73
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859c79079815eba30800000000000000
+      internalID: 4232910350516210008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_74
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543fbcdd19e167c30800000000000000
+      internalID: 4356703301367755589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_75
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c2477d2000c970800000000000000
+      internalID: 8773012269392117871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_76
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b4ea714de18640800000000000000
+      internalID: 5080602720141095332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_77
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bbd71c15de1f4f0800000000000000
+      internalID: -796594723673490679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_Skirmisher_344x219_78
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e53b0b10a01d10800000000000000
+      internalID: 2094349864739923967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_Skirmisher_344x219_0: -3763122966819229756
+      Gaul_Skirmisher_344x219_1: 6190222318832817884
+      Gaul_Skirmisher_344x219_10: -3637058878069580961
+      Gaul_Skirmisher_344x219_11: -4313373430749650551
+      Gaul_Skirmisher_344x219_12: 2919221980919360553
+      Gaul_Skirmisher_344x219_13: 264003695469330561
+      Gaul_Skirmisher_344x219_14: -6235468935855800918
+      Gaul_Skirmisher_344x219_15: 3109455153740617274
+      Gaul_Skirmisher_344x219_16: 7824466404124293728
+      Gaul_Skirmisher_344x219_17: -4038703948160939080
+      Gaul_Skirmisher_344x219_18: 4069394041952291448
+      Gaul_Skirmisher_344x219_19: -9094021805844357430
+      Gaul_Skirmisher_344x219_2: 8820605566793953604
+      Gaul_Skirmisher_344x219_20: 8624621819321967579
+      Gaul_Skirmisher_344x219_21: -8608917575006446462
+      Gaul_Skirmisher_344x219_22: -6129301630822459499
+      Gaul_Skirmisher_344x219_23: -5039243255938930161
+      Gaul_Skirmisher_344x219_24: -188442379728193252
+      Gaul_Skirmisher_344x219_25: -496989307971201900
+      Gaul_Skirmisher_344x219_26: 7547433417516815847
+      Gaul_Skirmisher_344x219_27: 1278688600774420043
+      Gaul_Skirmisher_344x219_28: 8455312974138013958
+      Gaul_Skirmisher_344x219_29: 240559734620157732
+      Gaul_Skirmisher_344x219_3: -788506542475026936
+      Gaul_Skirmisher_344x219_30: -5132870147559572878
+      Gaul_Skirmisher_344x219_31: -2141929453073395808
+      Gaul_Skirmisher_344x219_32: -5425618983304857644
+      Gaul_Skirmisher_344x219_33: 1518671448366980461
+      Gaul_Skirmisher_344x219_34: 7322183713018617010
+      Gaul_Skirmisher_344x219_35: 2807149599737139312
+      Gaul_Skirmisher_344x219_36: -6090354962158606191
+      Gaul_Skirmisher_344x219_37: 5263980599206878509
+      Gaul_Skirmisher_344x219_38: 5869586847082539581
+      Gaul_Skirmisher_344x219_39: 2142897843475874288
+      Gaul_Skirmisher_344x219_4: -7009638378166839930
+      Gaul_Skirmisher_344x219_40: 5778388326474295164
+      Gaul_Skirmisher_344x219_41: -4174272511579977722
+      Gaul_Skirmisher_344x219_42: 216311246708966179
+      Gaul_Skirmisher_344x219_43: -3277625720308797870
+      Gaul_Skirmisher_344x219_44: 2492619207877448056
+      Gaul_Skirmisher_344x219_45: -6552674897542692761
+      Gaul_Skirmisher_344x219_46: -8484782124118574895
+      Gaul_Skirmisher_344x219_47: -5937323442823418362
+      Gaul_Skirmisher_344x219_48: 6095340419894781652
+      Gaul_Skirmisher_344x219_49: 2685058559960061184
+      Gaul_Skirmisher_344x219_5: 6666240471011671204
+      Gaul_Skirmisher_344x219_50: -9003086523725177507
+      Gaul_Skirmisher_344x219_51: 3666930208965944369
+      Gaul_Skirmisher_344x219_52: 1234053585222949991
+      Gaul_Skirmisher_344x219_53: -3047032328552794926
+      Gaul_Skirmisher_344x219_54: -5826068134720234300
+      Gaul_Skirmisher_344x219_55: 6360632540003564222
+      Gaul_Skirmisher_344x219_56: -3908884345249544459
+      Gaul_Skirmisher_344x219_57: -6152722594163097813
+      Gaul_Skirmisher_344x219_58: 8771844980351351167
+      Gaul_Skirmisher_344x219_59: -6314144228096076807
+      Gaul_Skirmisher_344x219_6: -41370093579189563
+      Gaul_Skirmisher_344x219_60: -336029104872400102
+      Gaul_Skirmisher_344x219_61: -8552291732300084085
+      Gaul_Skirmisher_344x219_62: -969830232526903841
+      Gaul_Skirmisher_344x219_63: -1502649972252740339
+      Gaul_Skirmisher_344x219_64: -5301777401491458075
+      Gaul_Skirmisher_344x219_65: 8629815323477873120
+      Gaul_Skirmisher_344x219_66: 271095704053150829
+      Gaul_Skirmisher_344x219_67: -6530410962217465340
+      Gaul_Skirmisher_344x219_68: -2882142075854151466
+      Gaul_Skirmisher_344x219_69: 8961704641719561699
+      Gaul_Skirmisher_344x219_7: 108156002057991559
+      Gaul_Skirmisher_344x219_70: -6713329745807270679
+      Gaul_Skirmisher_344x219_71: -5331690975330853287
+      Gaul_Skirmisher_344x219_72: -2291319264016130642
+      Gaul_Skirmisher_344x219_73: 4232910350516210008
+      Gaul_Skirmisher_344x219_74: 4356703301367755589
+      Gaul_Skirmisher_344x219_75: 8773012269392117871
+      Gaul_Skirmisher_344x219_76: 5080602720141095332
+      Gaul_Skirmisher_344x219_77: -796594723673490679
+      Gaul_Skirmisher_344x219_78: 2094349864739923967
+      Gaul_Skirmisher_344x219_8: 3121501760771086319
+      Gaul_Skirmisher_344x219_9: -5963675422984300668
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

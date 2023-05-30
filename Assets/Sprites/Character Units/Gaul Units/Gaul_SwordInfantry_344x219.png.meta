@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: d47cf2b6939f1af4c85ff43ae22d6783
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 732138285313684524
+    second: Gaul_SwordInfantry_344x219_0
+  - first:
+      213: 65744828646954354
+    second: Gaul_SwordInfantry_344x219_1
+  - first:
+      213: 682905357061639176
+    second: Gaul_SwordInfantry_344x219_2
+  - first:
+      213: -5301267146243710399
+    second: Gaul_SwordInfantry_344x219_3
+  - first:
+      213: 2071711490917843246
+    second: Gaul_SwordInfantry_344x219_4
+  - first:
+      213: -3804897897280068987
+    second: Gaul_SwordInfantry_344x219_5
+  - first:
+      213: -6521143862458371118
+    second: Gaul_SwordInfantry_344x219_6
+  - first:
+      213: 470259662926014772
+    second: Gaul_SwordInfantry_344x219_7
+  - first:
+      213: -1681931141364677613
+    second: Gaul_SwordInfantry_344x219_8
+  - first:
+      213: 6251704452179073289
+    second: Gaul_SwordInfantry_344x219_9
+  - first:
+      213: 322022695940625245
+    second: Gaul_SwordInfantry_344x219_10
+  - first:
+      213: -6390379749740905944
+    second: Gaul_SwordInfantry_344x219_11
+  - first:
+      213: 3488579571146275095
+    second: Gaul_SwordInfantry_344x219_12
+  - first:
+      213: 5535062804534133414
+    second: Gaul_SwordInfantry_344x219_13
+  - first:
+      213: 6010703354305295955
+    second: Gaul_SwordInfantry_344x219_14
+  - first:
+      213: 8558075637514546394
+    second: Gaul_SwordInfantry_344x219_15
+  - first:
+      213: -6558227488634791698
+    second: Gaul_SwordInfantry_344x219_16
+  - first:
+      213: -878298504006249490
+    second: Gaul_SwordInfantry_344x219_17
+  - first:
+      213: 7360731767981418325
+    second: Gaul_SwordInfantry_344x219_18
+  - first:
+      213: 2450830203273604078
+    second: Gaul_SwordInfantry_344x219_19
+  - first:
+      213: -9025583226767129636
+    second: Gaul_SwordInfantry_344x219_20
+  - first:
+      213: -4128578199056066056
+    second: Gaul_SwordInfantry_344x219_21
+  - first:
+      213: 2084544533014772174
+    second: Gaul_SwordInfantry_344x219_22
+  - first:
+      213: -8695059626246619480
+    second: Gaul_SwordInfantry_344x219_23
+  - first:
+      213: 8963685331646411721
+    second: Gaul_SwordInfantry_344x219_24
+  - first:
+      213: 3659592903827447232
+    second: Gaul_SwordInfantry_344x219_25
+  - first:
+      213: -2967421753833101827
+    second: Gaul_SwordInfantry_344x219_26
+  - first:
+      213: -9087958038481791478
+    second: Gaul_SwordInfantry_344x219_27
+  - first:
+      213: -3901021122429266743
+    second: Gaul_SwordInfantry_344x219_28
+  - first:
+      213: -2109208644138158860
+    second: Gaul_SwordInfantry_344x219_29
+  - first:
+      213: -6075858564514589411
+    second: Gaul_SwordInfantry_344x219_30
+  - first:
+      213: 1361351084368787314
+    second: Gaul_SwordInfantry_344x219_31
+  - first:
+      213: 2548067052806905003
+    second: Gaul_SwordInfantry_344x219_32
+  - first:
+      213: 6468859151825507622
+    second: Gaul_SwordInfantry_344x219_33
+  - first:
+      213: 9004887668925095553
+    second: Gaul_SwordInfantry_344x219_34
+  - first:
+      213: 5722662451715103932
+    second: Gaul_SwordInfantry_344x219_35
+  - first:
+      213: -5518075990861932518
+    second: Gaul_SwordInfantry_344x219_36
+  - first:
+      213: 1990103366094863251
+    second: Gaul_SwordInfantry_344x219_37
+  - first:
+      213: 775542068277774038
+    second: Gaul_SwordInfantry_344x219_38
+  - first:
+      213: -8621711867561860753
+    second: Gaul_SwordInfantry_344x219_39
+  - first:
+      213: 862435717169598308
+    second: Gaul_SwordInfantry_344x219_40
+  - first:
+      213: -2799307137552513099
+    second: Gaul_SwordInfantry_344x219_41
+  - first:
+      213: -3643968687678161641
+    second: Gaul_SwordInfantry_344x219_42
+  - first:
+      213: 7978452717140136723
+    second: Gaul_SwordInfantry_344x219_43
+  - first:
+      213: 7644258879163373264
+    second: Gaul_SwordInfantry_344x219_44
+  - first:
+      213: -397240141601185869
+    second: Gaul_SwordInfantry_344x219_45
+  - first:
+      213: -4081266646421138521
+    second: Gaul_SwordInfantry_344x219_46
+  - first:
+      213: 852444123553923118
+    second: Gaul_SwordInfantry_344x219_47
+  - first:
+      213: 4446418452937503188
+    second: Gaul_SwordInfantry_344x219_48
+  - first:
+      213: -220781940614102783
+    second: Gaul_SwordInfantry_344x219_49
+  - first:
+      213: -6352225832660687541
+    second: Gaul_SwordInfantry_344x219_50
+  - first:
+      213: -2867092290264583969
+    second: Gaul_SwordInfantry_344x219_51
+  - first:
+      213: -7734288660480421751
+    second: Gaul_SwordInfantry_344x219_52
+  - first:
+      213: 1106648954524768206
+    second: Gaul_SwordInfantry_344x219_53
+  - first:
+      213: 6402021553505007315
+    second: Gaul_SwordInfantry_344x219_54
+  - first:
+      213: -6967726841093087068
+    second: Gaul_SwordInfantry_344x219_55
+  - first:
+      213: -341974366934043296
+    second: Gaul_SwordInfantry_344x219_56
+  - first:
+      213: -9077400326563983857
+    second: Gaul_SwordInfantry_344x219_57
+  - first:
+      213: 4064201946774642758
+    second: Gaul_SwordInfantry_344x219_58
+  - first:
+      213: 7087218396862633427
+    second: Gaul_SwordInfantry_344x219_59
+  - first:
+      213: -7331545148867472862
+    second: Gaul_SwordInfantry_344x219_60
+  - first:
+      213: 1638652222122500191
+    second: Gaul_SwordInfantry_344x219_61
+  - first:
+      213: -8553444980318638121
+    second: Gaul_SwordInfantry_344x219_62
+  - first:
+      213: 8639474056088769014
+    second: Gaul_SwordInfantry_344x219_63
+  - first:
+      213: -5427016197886797481
+    second: Gaul_SwordInfantry_344x219_64
+  - first:
+      213: -5353332979830781616
+    second: Gaul_SwordInfantry_344x219_65
+  - first:
+      213: -8512858742358193982
+    second: Gaul_SwordInfantry_344x219_66
+  - first:
+      213: 4716269108760492845
+    second: Gaul_SwordInfantry_344x219_67
+  - first:
+      213: 310281462126538178
+    second: Gaul_SwordInfantry_344x219_68
+  - first:
+      213: 4431030480195387085
+    second: Gaul_SwordInfantry_344x219_69
+  - first:
+      213: -4939026130318644346
+    second: Gaul_SwordInfantry_344x219_70
+  - first:
+      213: -7394476798596291634
+    second: Gaul_SwordInfantry_344x219_71
+  - first:
+      213: -7519740322042885392
+    second: Gaul_SwordInfantry_344x219_72
+  - first:
+      213: -9055020244882419588
+    second: Gaul_SwordInfantry_344x219_73
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f59634e3192a00800000000000000
+      internalID: 732138285313684524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2751255c29299e000800000000000000
+      internalID: 65744828646954354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cced6ddca2a7900800000000000000
+      internalID: 682905357061639176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e1b82e9d1e66b0800000000000000
+      internalID: -5301267146243710399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21c045ef9230cc10800000000000000
+      internalID: 2071711490917843246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_5
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582adf98589423bc0800000000000000
+      internalID: -3804897897280068987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_6
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d333f4253e3085a0800000000000000
+      internalID: -6521143862458371118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_7
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43966e00ca2b68600800000000000000
+      internalID: 470259662926014772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_8
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3148a46c98498a8e0800000000000000
+      internalID: -1681931141364677613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_9
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9099cd8831482c650800000000000000
+      internalID: 6251704452179073289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_10
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5397219fed087400800000000000000
+      internalID: 322022695940625245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_11
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82af7dca97fc057a0800000000000000
+      internalID: -6390379749740905944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_12
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719bbdcf2ace96030800000000000000
+      internalID: 3488579571146275095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_13
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a20cb17b4e70dc40800000000000000
+      internalID: 5535062804534133414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_14
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356bd9bcade4a6350800000000000000
+      internalID: 6010703354305295955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_15
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcaafe137464c670800000000000000
+      internalID: 8558075637514546394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_16
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee898b798de7cf4a0800000000000000
+      internalID: -6558227488634791698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_17
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee353fdf928afc3f0800000000000000
+      internalID: -878298504006249490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_18
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557277d4b82962660800000000000000
+      internalID: 7360731767981418325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebebe6b519130220800000000000000
+      internalID: 2450830203273604078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd342d5ffdfaeb280800000000000000
+      internalID: -9025583226767129636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f957d9800854b6c0800000000000000
+      internalID: -4128578199056066056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f3d8553acdec10800000000000000
+      internalID: 2084544533014772174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_23
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebabc9651f45780800000000000000
+      internalID: -8695059626246619480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_24
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f9274158656c70800000000000000
+      internalID: 8963685331646411721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_25
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cddc2f4b5c79c230800000000000000
+      internalID: 3659592903827447232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_26
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e20013a991d6d0800000000000000
+      internalID: -2967421753833101827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_27
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0613a6605611e180800000000000000
+      internalID: -9087958038481791478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_28
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4de4825f9ccd9c0800000000000000
+      internalID: -3901021122429266743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_29
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f436f8c9e59ab2e0800000000000000
+      internalID: -2109208644138158860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_30
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15d79ca3d63eaba0800000000000000
+      internalID: -6075858564514589411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_31
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f466399d74e210800000000000000
+      internalID: 1361351084368787314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_32
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac9e6afb7d8c5320800000000000000
+      internalID: 2548067052806905003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_33
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6251896002106c950800000000000000
+      internalID: 6468859151825507622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_34
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e539cff99c7fc70800000000000000
+      internalID: 9004887668925095553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcd1fb0e2bfa6f40800000000000000
+      internalID: 5722662451715103932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1810115f1bdb63b0800000000000000
+      internalID: -5518075990861932518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bb46aa7744e9b10800000000000000
+      internalID: 1990103366094863251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_38
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d68110f66743ca00800000000000000
+      internalID: 775542068277774038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_39
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61a43a7cb6895880800000000000000
+      internalID: -8621711867561860753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_40
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc08327bcf7fb00800000000000000
+      internalID: 862435717169598308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_41
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b787f06dfcd629d0800000000000000
+      internalID: -2799307137552513099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_42
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dfb4ef8c50e6dc0800000000000000
+      internalID: -3643968687678161641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313536e797829be60800000000000000
+      internalID: 7978452717140136723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_44
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d698a713fcd51a60800000000000000
+      internalID: 7644258879163373264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_45
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd5552238bc7af0800000000000000
+      internalID: -397240141601185869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_46
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a31b6acb9d6c57c0800000000000000
+      internalID: -4081266646421138521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_47
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200d47f96d74db00800000000000000
+      internalID: 852444123553923118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_48
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f41a560ad4bd30800000000000000
+      internalID: 4446418452937503188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_49
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10100e8aeff9fecf0800000000000000
+      internalID: -220781940614102783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_50
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45233fb24c58d7a0800000000000000
+      internalID: -6352225832660687541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_51
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b484a0ca0638d0800000000000000
+      internalID: -2867092290264583969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_52
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9809bb9f0794aa490800000000000000
+      internalID: -7734288660480421751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_53
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec791816c5b9b5f00800000000000000
+      internalID: 1106648954524768206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_54
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67f0dfeac88d850800000000000000
+      internalID: 6402021553505007315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_55
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a021b8ca59ad4f90800000000000000
+      internalID: -6967726841093087068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_56
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0657b980020114bf0800000000000000
+      internalID: -341974366934043296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_57
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e83234f78960280800000000000000
+      internalID: -9077400326563983857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_58
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64024f43322f66830800000000000000
+      internalID: 4064201946774642758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55c9e059bda5260800000000000000
+      internalID: 7087218396862633427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221403088e114a90800000000000000
+      internalID: -7331545148867472862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_61
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50240a9389adb610800000000000000
+      internalID: 1638652222122500191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_62
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df6246cb1f0c4980800000000000000
+      internalID: -8553444980318638121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_63
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1df5f41e395e770800000000000000
+      internalID: 8639474056088769014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_64
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7599aa6858d5fa4b0800000000000000
+      internalID: -5427016197886797481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_65
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0598dcc940425b5b0800000000000000
+      internalID: -5353332979830781616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_66
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c849aea3104cd980800000000000000
+      internalID: -8512858742358193982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_67
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b31dc34cd837140800000000000000
+      internalID: 4716269108760492845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde07a88575e4400800000000000000
+      internalID: 310281462126538178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_69
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce79f0cebe2e7d30800000000000000
+      internalID: 4431030480195387085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_70
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b2cfd07ed057bb0800000000000000
+      internalID: -4939026130318644346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_71
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3eccf778a816990800000000000000
+      internalID: -7394476798596291634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_72
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac375b40484a790800000000000000
+      internalID: -7519740322042885392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_SwordInfantry_344x219_73
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7010d5101b165280800000000000000
+      internalID: -9055020244882419588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_SwordInfantry_344x219_0: 732138285313684524
+      Gaul_SwordInfantry_344x219_1: 65744828646954354
+      Gaul_SwordInfantry_344x219_10: 322022695940625245
+      Gaul_SwordInfantry_344x219_11: -6390379749740905944
+      Gaul_SwordInfantry_344x219_12: 3488579571146275095
+      Gaul_SwordInfantry_344x219_13: 5535062804534133414
+      Gaul_SwordInfantry_344x219_14: 6010703354305295955
+      Gaul_SwordInfantry_344x219_15: 8558075637514546394
+      Gaul_SwordInfantry_344x219_16: -6558227488634791698
+      Gaul_SwordInfantry_344x219_17: -878298504006249490
+      Gaul_SwordInfantry_344x219_18: 7360731767981418325
+      Gaul_SwordInfantry_344x219_19: 2450830203273604078
+      Gaul_SwordInfantry_344x219_2: 682905357061639176
+      Gaul_SwordInfantry_344x219_20: -9025583226767129636
+      Gaul_SwordInfantry_344x219_21: -4128578199056066056
+      Gaul_SwordInfantry_344x219_22: 2084544533014772174
+      Gaul_SwordInfantry_344x219_23: -8695059626246619480
+      Gaul_SwordInfantry_344x219_24: 8963685331646411721
+      Gaul_SwordInfantry_344x219_25: 3659592903827447232
+      Gaul_SwordInfantry_344x219_26: -2967421753833101827
+      Gaul_SwordInfantry_344x219_27: -9087958038481791478
+      Gaul_SwordInfantry_344x219_28: -3901021122429266743
+      Gaul_SwordInfantry_344x219_29: -2109208644138158860
+      Gaul_SwordInfantry_344x219_3: -5301267146243710399
+      Gaul_SwordInfantry_344x219_30: -6075858564514589411
+      Gaul_SwordInfantry_344x219_31: 1361351084368787314
+      Gaul_SwordInfantry_344x219_32: 2548067052806905003
+      Gaul_SwordInfantry_344x219_33: 6468859151825507622
+      Gaul_SwordInfantry_344x219_34: 9004887668925095553
+      Gaul_SwordInfantry_344x219_35: 5722662451715103932
+      Gaul_SwordInfantry_344x219_36: -5518075990861932518
+      Gaul_SwordInfantry_344x219_37: 1990103366094863251
+      Gaul_SwordInfantry_344x219_38: 775542068277774038
+      Gaul_SwordInfantry_344x219_39: -8621711867561860753
+      Gaul_SwordInfantry_344x219_4: 2071711490917843246
+      Gaul_SwordInfantry_344x219_40: 862435717169598308
+      Gaul_SwordInfantry_344x219_41: -2799307137552513099
+      Gaul_SwordInfantry_344x219_42: -3643968687678161641
+      Gaul_SwordInfantry_344x219_43: 7978452717140136723
+      Gaul_SwordInfantry_344x219_44: 7644258879163373264
+      Gaul_SwordInfantry_344x219_45: -397240141601185869
+      Gaul_SwordInfantry_344x219_46: -4081266646421138521
+      Gaul_SwordInfantry_344x219_47: 852444123553923118
+      Gaul_SwordInfantry_344x219_48: 4446418452937503188
+      Gaul_SwordInfantry_344x219_49: -220781940614102783
+      Gaul_SwordInfantry_344x219_5: -3804897897280068987
+      Gaul_SwordInfantry_344x219_50: -6352225832660687541
+      Gaul_SwordInfantry_344x219_51: -2867092290264583969
+      Gaul_SwordInfantry_344x219_52: -7734288660480421751
+      Gaul_SwordInfantry_344x219_53: 1106648954524768206
+      Gaul_SwordInfantry_344x219_54: 6402021553505007315
+      Gaul_SwordInfantry_344x219_55: -6967726841093087068
+      Gaul_SwordInfantry_344x219_56: -341974366934043296
+      Gaul_SwordInfantry_344x219_57: -9077400326563983857
+      Gaul_SwordInfantry_344x219_58: 4064201946774642758
+      Gaul_SwordInfantry_344x219_59: 7087218396862633427
+      Gaul_SwordInfantry_344x219_6: -6521143862458371118
+      Gaul_SwordInfantry_344x219_60: -7331545148867472862
+      Gaul_SwordInfantry_344x219_61: 1638652222122500191
+      Gaul_SwordInfantry_344x219_62: -8553444980318638121
+      Gaul_SwordInfantry_344x219_63: 8639474056088769014
+      Gaul_SwordInfantry_344x219_64: -5427016197886797481
+      Gaul_SwordInfantry_344x219_65: -5353332979830781616
+      Gaul_SwordInfantry_344x219_66: -8512858742358193982
+      Gaul_SwordInfantry_344x219_67: 4716269108760492845
+      Gaul_SwordInfantry_344x219_68: 310281462126538178
+      Gaul_SwordInfantry_344x219_69: 4431030480195387085
+      Gaul_SwordInfantry_344x219_7: 470259662926014772
+      Gaul_SwordInfantry_344x219_70: -4939026130318644346
+      Gaul_SwordInfantry_344x219_71: -7394476798596291634
+      Gaul_SwordInfantry_344x219_72: -7519740322042885392
+      Gaul_SwordInfantry_344x219_73: -9055020244882419588
+      Gaul_SwordInfantry_344x219_8: -1681931141364677613
+      Gaul_SwordInfantry_344x219_9: 6251704452179073289
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

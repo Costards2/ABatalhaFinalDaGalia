@@ -1,0 +1,2923 @@
+fileFormatVersion: 2
+guid: c8b3db256171111448d3a89625ea9655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6293332906259797771
+    second: Gaul_LightCavalry_332x270_0
+  - first:
+      213: 1062548864586878086
+    second: Gaul_LightCavalry_332x270_1
+  - first:
+      213: 5928041601330135083
+    second: Gaul_LightCavalry_332x270_2
+  - first:
+      213: 7424604241954859922
+    second: Gaul_LightCavalry_332x270_3
+  - first:
+      213: -899649636859283596
+    second: Gaul_LightCavalry_332x270_4
+  - first:
+      213: 2351268558792272801
+    second: Gaul_LightCavalry_332x270_5
+  - first:
+      213: 2390065693233717764
+    second: Gaul_LightCavalry_332x270_6
+  - first:
+      213: -7409288686717701938
+    second: Gaul_LightCavalry_332x270_7
+  - first:
+      213: -405257531840052522
+    second: Gaul_LightCavalry_332x270_8
+  - first:
+      213: 8437925410309494798
+    second: Gaul_LightCavalry_332x270_9
+  - first:
+      213: -1830980112649672516
+    second: Gaul_LightCavalry_332x270_10
+  - first:
+      213: 3774696639007502519
+    second: Gaul_LightCavalry_332x270_11
+  - first:
+      213: -7233787077212216914
+    second: Gaul_LightCavalry_332x270_12
+  - first:
+      213: 5897646472988484332
+    second: Gaul_LightCavalry_332x270_13
+  - first:
+      213: -3309302464399484537
+    second: Gaul_LightCavalry_332x270_14
+  - first:
+      213: 6492079004999143985
+    second: Gaul_LightCavalry_332x270_15
+  - first:
+      213: -4041920360794430599
+    second: Gaul_LightCavalry_332x270_16
+  - first:
+      213: -3846954279213900548
+    second: Gaul_LightCavalry_332x270_17
+  - first:
+      213: 4407847015830508870
+    second: Gaul_LightCavalry_332x270_18
+  - first:
+      213: 6582380661752819880
+    second: Gaul_LightCavalry_332x270_19
+  - first:
+      213: -6197228731964970197
+    second: Gaul_LightCavalry_332x270_20
+  - first:
+      213: 1868334134519392528
+    second: Gaul_LightCavalry_332x270_21
+  - first:
+      213: 404722338864766055
+    second: Gaul_LightCavalry_332x270_22
+  - first:
+      213: -7932209581893853206
+    second: Gaul_LightCavalry_332x270_23
+  - first:
+      213: 3862838755528672487
+    second: Gaul_LightCavalry_332x270_24
+  - first:
+      213: 8432604691403094362
+    second: Gaul_LightCavalry_332x270_25
+  - first:
+      213: -3045943051304517515
+    second: Gaul_LightCavalry_332x270_26
+  - first:
+      213: 6285785490872702819
+    second: Gaul_LightCavalry_332x270_27
+  - first:
+      213: -2910505252678892115
+    second: Gaul_LightCavalry_332x270_28
+  - first:
+      213: 488094956306551549
+    second: Gaul_LightCavalry_332x270_29
+  - first:
+      213: -6322060726292339625
+    second: Gaul_LightCavalry_332x270_30
+  - first:
+      213: 3402463713314638792
+    second: Gaul_LightCavalry_332x270_31
+  - first:
+      213: 3267797069594984036
+    second: Gaul_LightCavalry_332x270_32
+  - first:
+      213: 7295492295408921894
+    second: Gaul_LightCavalry_332x270_33
+  - first:
+      213: -692770974848833857
+    second: Gaul_LightCavalry_332x270_34
+  - first:
+      213: 1268242423527750615
+    second: Gaul_LightCavalry_332x270_35
+  - first:
+      213: -1595117160011233672
+    second: Gaul_LightCavalry_332x270_36
+  - first:
+      213: -495268247320112634
+    second: Gaul_LightCavalry_332x270_37
+  - first:
+      213: 415890377865537482
+    second: Gaul_LightCavalry_332x270_38
+  - first:
+      213: 8080412630304048773
+    second: Gaul_LightCavalry_332x270_39
+  - first:
+      213: -8022405677079803107
+    second: Gaul_LightCavalry_332x270_40
+  - first:
+      213: -4348844117454263955
+    second: Gaul_LightCavalry_332x270_41
+  - first:
+      213: -247402664847738336
+    second: Gaul_LightCavalry_332x270_42
+  - first:
+      213: -6928214200500850015
+    second: Gaul_LightCavalry_332x270_43
+  - first:
+      213: 3191158215338424243
+    second: Gaul_LightCavalry_332x270_44
+  - first:
+      213: 2643476871726327151
+    second: Gaul_LightCavalry_332x270_45
+  - first:
+      213: 714949511649809153
+    second: Gaul_LightCavalry_332x270_46
+  - first:
+      213: -5118728107099302004
+    second: Gaul_LightCavalry_332x270_47
+  - first:
+      213: 220894743196606252
+    second: Gaul_LightCavalry_332x270_48
+  - first:
+      213: 3020088342176815704
+    second: Gaul_LightCavalry_332x270_49
+  - first:
+      213: -7613756662633481039
+    second: Gaul_LightCavalry_332x270_50
+  - first:
+      213: 6022179022802353184
+    second: Gaul_LightCavalry_332x270_51
+  - first:
+      213: -378257822265712760
+    second: Gaul_LightCavalry_332x270_52
+  - first:
+      213: -7768392903244107887
+    second: Gaul_LightCavalry_332x270_53
+  - first:
+      213: -4036346055338242796
+    second: Gaul_LightCavalry_332x270_54
+  - first:
+      213: -2798431757918141467
+    second: Gaul_LightCavalry_332x270_55
+  - first:
+      213: 3026130177442262270
+    second: Gaul_LightCavalry_332x270_56
+  - first:
+      213: -8452157281195370873
+    second: Gaul_LightCavalry_332x270_57
+  - first:
+      213: -3218151652709248255
+    second: Gaul_LightCavalry_332x270_58
+  - first:
+      213: -2644557411402876139
+    second: Gaul_LightCavalry_332x270_59
+  - first:
+      213: -8708157521864630974
+    second: Gaul_LightCavalry_332x270_60
+  - first:
+      213: -4414311316828881975
+    second: Gaul_LightCavalry_332x270_61
+  - first:
+      213: 2596512091980430655
+    second: Gaul_LightCavalry_332x270_62
+  - first:
+      213: 5608325248845087746
+    second: Gaul_LightCavalry_332x270_63
+  - first:
+      213: 5245162765908419089
+    second: Gaul_LightCavalry_332x270_64
+  - first:
+      213: -961911565327949472
+    second: Gaul_LightCavalry_332x270_65
+  - first:
+      213: 8700051209212302637
+    second: Gaul_LightCavalry_332x270_66
+  - first:
+      213: -8140888136242480769
+    second: Gaul_LightCavalry_332x270_67
+  - first:
+      213: -7092407631287740852
+    second: Gaul_LightCavalry_332x270_68
+  - first:
+      213: 7852696212982186875
+    second: Gaul_LightCavalry_332x270_69
+  - first:
+      213: -2835940577508587704
+    second: Gaul_LightCavalry_332x270_70
+  - first:
+      213: -4143727701325556792
+    second: Gaul_LightCavalry_332x270_71
+  - first:
+      213: -1839943245232161017
+    second: Gaul_LightCavalry_332x270_72
+  - first:
+      213: 1330011156251861799
+    second: Gaul_LightCavalry_332x270_73
+  - first:
+      213: -8425052857537860742
+    second: Gaul_LightCavalry_332x270_74
+  - first:
+      213: 539848585550443813
+    second: Gaul_LightCavalry_332x270_75
+  - first:
+      213: 7737800490667161327
+    second: Gaul_LightCavalry_332x270_76
+  - first:
+      213: -7830726452103993786
+    second: Gaul_LightCavalry_332x270_77
+  - first:
+      213: -7927564463791474181
+    second: Gaul_LightCavalry_332x270_78
+  - first:
+      213: 8321126026701287429
+    second: Gaul_LightCavalry_332x270_79
+  - first:
+      213: 5115271261218892905
+    second: Gaul_LightCavalry_332x270_80
+  - first:
+      213: -5453106242599929050
+    second: Gaul_LightCavalry_332x270_81
+  - first:
+      213: -1390656434506292597
+    second: Gaul_LightCavalry_332x270_82
+  - first:
+      213: 5792043816036630529
+    second: Gaul_LightCavalry_332x270_83
+  - first:
+      213: -2370402625170170523
+    second: Gaul_LightCavalry_332x270_84
+  - first:
+      213: -84717180895952206
+    second: Gaul_LightCavalry_332x270_85
+  - first:
+      213: 4189927872447614432
+    second: Gaul_LightCavalry_332x270_86
+  - first:
+      213: 6976225602076414737
+    second: Gaul_LightCavalry_332x270_87
+  - first:
+      213: 5529771032876745208
+    second: Gaul_LightCavalry_332x270_88
+  - first:
+      213: 8829217800592930216
+    second: Gaul_LightCavalry_332x270_89
+  - first:
+      213: -7903530463473881450
+    second: Gaul_LightCavalry_332x270_90
+  - first:
+      213: -7936254190938509248
+    second: Gaul_LightCavalry_332x270_91
+  - first:
+      213: 2996142498301787570
+    second: Gaul_LightCavalry_332x270_92
+  - first:
+      213: -1735843432533590684
+    second: Gaul_LightCavalry_332x270_93
+  - first:
+      213: 5179882387924144481
+    second: Gaul_LightCavalry_332x270_94
+  - first:
+      213: 5124849595130070066
+    second: Gaul_LightCavalry_332x270_95
+  - first:
+      213: -788976347524333685
+    second: Gaul_LightCavalry_332x270_96
+  - first:
+      213: 6172719483882148833
+    second: Gaul_LightCavalry_332x270_97
+  - first:
+      213: 1652337851091754499
+    second: Gaul_LightCavalry_332x270_98
+  - first:
+      213: -1019243346359371951
+    second: Gaul_LightCavalry_332x270_99
+  - first:
+      213: -6234010337685999752
+    second: Gaul_LightCavalry_332x270_100
+  - first:
+      213: 4823356503355837451
+    second: Gaul_LightCavalry_332x270_101
+  - first:
+      213: 8599145256691609239
+    second: Gaul_LightCavalry_332x270_102
+  - first:
+      213: 6092907105722294179
+    second: Gaul_LightCavalry_332x270_103
+  - first:
+      213: -3256200024923198079
+    second: Gaul_LightCavalry_332x270_104
+  - first:
+      213: 7667765292044634803
+    second: Gaul_LightCavalry_332x270_105
+  - first:
+      213: 5993045839142528100
+    second: Gaul_LightCavalry_332x270_106
+  - first:
+      213: -4916349438345359478
+    second: Gaul_LightCavalry_332x270_107
+  - first:
+      213: -151338574703076398
+    second: Gaul_LightCavalry_332x270_108
+  - first:
+      213: -1772560554317454124
+    second: Gaul_LightCavalry_332x270_109
+  - first:
+      213: 7192463632746294294
+    second: Gaul_LightCavalry_332x270_110
+  - first:
+      213: 6411789024388407828
+    second: Gaul_LightCavalry_332x270_111
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8ab15b01799a8a0800000000000000
+      internalID: -6293332906259797771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c023e009eeebe00800000000000000
+      internalID: 1062548864586878086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b204505ad62a44250800000000000000
+      internalID: 5928041601330135083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29be397883e790760800000000000000
+      internalID: 7424604241954859922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_4
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47771bcfb6dc383f0800000000000000
+      internalID: -899649636859283596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_5
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abab52fb4261a020800000000000000
+      internalID: 2351268558792272801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_6
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4022b0bb5183b2120800000000000000
+      internalID: 2390065693233717764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_7
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0fedd023bec2990800000000000000
+      internalID: -7409288686717701938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_8
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d24f140c6c306af0800000000000000
+      internalID: -405257531840052522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_9
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e085db26478891570800000000000000
+      internalID: 8437925410309494798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_10
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb826bad94d0796e0800000000000000
+      internalID: -1830980112649672516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_11
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b037ee089a626430800000000000000
+      internalID: 3774696639007502519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_12
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea164f1cafc6c9b90800000000000000
+      internalID: -7233787077212216914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_13
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce260595836a8d150800000000000000
+      internalID: 5897646472988484332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_14
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789d42b21fef212d0800000000000000
+      internalID: -3309302464399484537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_15
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132deb2657f781a50800000000000000
+      internalID: 6492079004999143985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_16
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973ed6cc8d638e7c0800000000000000
+      internalID: -4041920360794430599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_17
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc5940177fdc9ac0800000000000000
+      internalID: -3846954279213900548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_18
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645d7d2d181db2d30800000000000000
+      internalID: 4407847015830508870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_19
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07d204650595b50800000000000000
+      internalID: 6582380661752819880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_20
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b22677d450ff9a0800000000000000
+      internalID: -6197228731964970197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_21
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019e3c91ff7ade910800000000000000
+      internalID: 1868334134519392528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_22
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c13b8a2dcdd9500800000000000000
+      internalID: 404722338864766055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_23
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 1080
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef544379612be190800000000000000
+      internalID: -7932209581893853206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e406e7c16f8b9530800000000000000
+      internalID: 3862838755528672487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59bf5af941a60570800000000000000
+      internalID: 8432604691403094362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570cce4dee2aab5d0800000000000000
+      internalID: -3045943051304517515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_27
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36795c5b9989b3750800000000000000
+      internalID: 6285785490872702819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_28
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da58a29a4eecb97d0800000000000000
+      internalID: -2910505252678892115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_29
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2df47d6cf06c600800000000000000
+      internalID: 488094956306551549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_30
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754a5e0e3478348a0800000000000000
+      internalID: -6322060726292339625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_31
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb864168baf73f20800000000000000
+      internalID: 3402463713314638792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_32
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e754b0f1c895d20800000000000000
+      internalID: 3267797069594984036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_33
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62da279e69bce3560800000000000000
+      internalID: 7295492295408921894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_34
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb62f650878c266f0800000000000000
+      internalID: -692770974848833857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_35
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb377c3c3b99110800000000000000
+      internalID: 1268242423527750615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_36
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876866ee4610dd9e0800000000000000
+      internalID: -1595117160011233672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_37
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60254f137247029f0800000000000000
+      internalID: -495268247320112634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_38
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ad2e581a85c500800000000000000
+      internalID: 415890377865537482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_39
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5864ad3b974632070800000000000000
+      internalID: 8080412630304048773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_40
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bc49d8a80baa090800000000000000
+      internalID: -8022405677079803107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_41
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69679bf05dc5a3c0800000000000000
+      internalID: -4348844117454263955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_42
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af34d469c019cf0800000000000000
+      internalID: -247402664847738336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_43
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2745354e90adf90800000000000000
+      internalID: -6928214200500850015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_44
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f0574d75494c20800000000000000
+      internalID: 3191158215338424243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_45
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 810
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65653785348fa420800000000000000
+      internalID: 2643476871726327151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d93afac20ce900800000000000000
+      internalID: 714949511649809153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87d98228ef96f8b0800000000000000
+      internalID: -5118728107099302004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_48
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f1cfc3996c01300800000000000000
+      internalID: 220894743196606252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_49
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5fb9985289e920800000000000000
+      internalID: 3020088342176815704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_50
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcb77d97a0865690800000000000000
+      internalID: -7613756662633481039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_51
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c71f31ae3139350800000000000000
+      internalID: 6022179022802353184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_52
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd656c38820caf0800000000000000
+      internalID: -378257822265712760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_53
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f287e20df113490800000000000000
+      internalID: -7768392903244107887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_54
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dc30de5a40cf7c0800000000000000
+      internalID: -4036346055338242796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e30e159429f929d0800000000000000
+      internalID: -2798431757918141467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_56
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc298efc59fef920800000000000000
+      internalID: 3026130177442262270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_57
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865e94fbb7e3ba80800000000000000
+      internalID: -8452157281195370873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_58
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103dde25f14d653d0800000000000000
+      internalID: -3218151652709248255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_59
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7439bb05ac4bd0800000000000000
+      internalID: -2644557411402876139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_60
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ddc152fd8662780800000000000000
+      internalID: -8708157521864630974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_61
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7d60de373db2c0800000000000000
+      internalID: -4414311316828881975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_62
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dff71adf9a80420800000000000000
+      internalID: 2596512091980430655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_63
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20404428916c4dd40800000000000000
+      internalID: 5608325248845087746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_64
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a31bdebf8ac840800000000000000
+      internalID: 5245162765908419089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_65
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061a94b178a96a2f0800000000000000
+      internalID: -961911565327949472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_66
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d259eccda7accb870800000000000000
+      internalID: 8700051209212302637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_67
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7933135f51c50f80800000000000000
+      internalID: -8140888136242480769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_68
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4613d626d4b29d90800000000000000
+      internalID: -7092407631287740852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_69
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 540
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73cbdfa9916afc60800000000000000
+      internalID: 7852696212982186875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8470c79f117b4a8d0800000000000000
+      internalID: -2835940577508587704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35b8c2c958e76c0800000000000000
+      internalID: -4143727701325556792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_72
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fbe0ded553776e0800000000000000
+      internalID: -1839943245232161017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_73
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e2b39916257210800000000000000
+      internalID: 1330011156251861799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_74
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7be09c5013341b80800000000000000
+      internalID: -8425052857537860742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_75
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5253b36ad6ded7700800000000000000
+      internalID: 539848585550443813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_76
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe63f05bc80326b60800000000000000
+      internalID: 7737800490667161327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_77
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6462611e7cba35390800000000000000
+      internalID: -7830726452103993786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_78
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9f2b94f12abf190800000000000000
+      internalID: -7927564463791474181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_79
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500b9c8b8049a7370800000000000000
+      internalID: 8321126026701287429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_80
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c67b63c181df640800000000000000
+      internalID: 5115271261218892905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_81
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbd5f93cca254b0800000000000000
+      internalID: -5453106242599929050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_82
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8224a0475563bce0800000000000000
+      internalID: -1390656434506292597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_83
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 270
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1008c52c929716050800000000000000
+      internalID: 5792043816036630529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d14101f53aa1fd0800000000000000
+      internalID: -2370402625170170523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2035e3c2603def0800000000000000
+      internalID: -84717180895952206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_86
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed8fb7633d952a30800000000000000
+      internalID: 4189927872447614432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_87
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11310c4393880d060800000000000000
+      internalID: 6976225602076414737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_88
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f10dd7d471bdbc40800000000000000
+      internalID: 5529771032876745208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_89
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b5e87fcea78a70800000000000000
+      internalID: 8829217800592930216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_90
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e292d0be4015290800000000000000
+      internalID: -7903530463473881450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_91
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b7e58cd2ccd190800000000000000
+      internalID: -7936254190938509248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_92
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbabb5abf649920800000000000000
+      internalID: 2996142498301787570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_93
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df322589b09e7e0800000000000000
+      internalID: -1735843432533590684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_94
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161558e6693a2e740800000000000000
+      internalID: 5179882387924144481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_95
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234480ddd8f1f1740800000000000000
+      internalID: 5124849595130070066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_96
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f70ad213efc05f0800000000000000
+      internalID: -788976347524333685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_97
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e39de68aa7e9a550800000000000000
+      internalID: 6172719483882148833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_98
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e914765884ee610800000000000000
+      internalID: 1652337851091754499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_99
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157b190a39bead1f0800000000000000
+      internalID: -1019243346359371951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_100
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fec1880a85c79a0800000000000000
+      internalID: -6234010337685999752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_101
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c489f3f2100f240800000000000000
+      internalID: 4823356503355837451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_102
+      rect:
+        serializedVersion: 2
+        x: 5976
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ea61dfc0d465770800000000000000
+      internalID: 8599145256691609239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_103
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd7062bba5e8450800000000000000
+      internalID: 6092907105722294179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_104
+      rect:
+        serializedVersion: 2
+        x: 6640
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18da5d45457afc2d0800000000000000
+      internalID: -3256200024923198079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_105
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac36558ef596a60800000000000000
+      internalID: 7667765292044634803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_106
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46429bc20739b2350800000000000000
+      internalID: 5993045839142528100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_107
+      rect:
+        serializedVersion: 2
+        x: 7636
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fcbb7db3e95cbb0800000000000000
+      internalID: -4916349438345359478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_108
+      rect:
+        serializedVersion: 2
+        x: 7968
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db520e3e5656edf0800000000000000
+      internalID: -151338574703076398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_109
+      rect:
+        serializedVersion: 2
+        x: 8300
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e90931999667e0800000000000000
+      internalID: -1772560554317454124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_110
+      rect:
+        serializedVersion: 2
+        x: 8632
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c22c11193c0d360800000000000000
+      internalID: 7192463632746294294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_LightCavalry_332x270_111
+      rect:
+        serializedVersion: 2
+        x: 8964
+        y: 0
+        width: 332
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126b6585204bf850800000000000000
+      internalID: 6411789024388407828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_LightCavalry_332x270_0: -6293332906259797771
+      Gaul_LightCavalry_332x270_1: 1062548864586878086
+      Gaul_LightCavalry_332x270_10: -1830980112649672516
+      Gaul_LightCavalry_332x270_100: -6234010337685999752
+      Gaul_LightCavalry_332x270_101: 4823356503355837451
+      Gaul_LightCavalry_332x270_102: 8599145256691609239
+      Gaul_LightCavalry_332x270_103: 6092907105722294179
+      Gaul_LightCavalry_332x270_104: -3256200024923198079
+      Gaul_LightCavalry_332x270_105: 7667765292044634803
+      Gaul_LightCavalry_332x270_106: 5993045839142528100
+      Gaul_LightCavalry_332x270_107: -4916349438345359478
+      Gaul_LightCavalry_332x270_108: -151338574703076398
+      Gaul_LightCavalry_332x270_109: -1772560554317454124
+      Gaul_LightCavalry_332x270_11: 3774696639007502519
+      Gaul_LightCavalry_332x270_110: 7192463632746294294
+      Gaul_LightCavalry_332x270_111: 6411789024388407828
+      Gaul_LightCavalry_332x270_12: -7233787077212216914
+      Gaul_LightCavalry_332x270_13: 5897646472988484332
+      Gaul_LightCavalry_332x270_14: -3309302464399484537
+      Gaul_LightCavalry_332x270_15: 6492079004999143985
+      Gaul_LightCavalry_332x270_16: -4041920360794430599
+      Gaul_LightCavalry_332x270_17: -3846954279213900548
+      Gaul_LightCavalry_332x270_18: 4407847015830508870
+      Gaul_LightCavalry_332x270_19: 6582380661752819880
+      Gaul_LightCavalry_332x270_2: 5928041601330135083
+      Gaul_LightCavalry_332x270_20: -6197228731964970197
+      Gaul_LightCavalry_332x270_21: 1868334134519392528
+      Gaul_LightCavalry_332x270_22: 404722338864766055
+      Gaul_LightCavalry_332x270_23: -7932209581893853206
+      Gaul_LightCavalry_332x270_24: 3862838755528672487
+      Gaul_LightCavalry_332x270_25: 8432604691403094362
+      Gaul_LightCavalry_332x270_26: -3045943051304517515
+      Gaul_LightCavalry_332x270_27: 6285785490872702819
+      Gaul_LightCavalry_332x270_28: -2910505252678892115
+      Gaul_LightCavalry_332x270_29: 488094956306551549
+      Gaul_LightCavalry_332x270_3: 7424604241954859922
+      Gaul_LightCavalry_332x270_30: -6322060726292339625
+      Gaul_LightCavalry_332x270_31: 3402463713314638792
+      Gaul_LightCavalry_332x270_32: 3267797069594984036
+      Gaul_LightCavalry_332x270_33: 7295492295408921894
+      Gaul_LightCavalry_332x270_34: -692770974848833857
+      Gaul_LightCavalry_332x270_35: 1268242423527750615
+      Gaul_LightCavalry_332x270_36: -1595117160011233672
+      Gaul_LightCavalry_332x270_37: -495268247320112634
+      Gaul_LightCavalry_332x270_38: 415890377865537482
+      Gaul_LightCavalry_332x270_39: 8080412630304048773
+      Gaul_LightCavalry_332x270_4: -899649636859283596
+      Gaul_LightCavalry_332x270_40: -8022405677079803107
+      Gaul_LightCavalry_332x270_41: -4348844117454263955
+      Gaul_LightCavalry_332x270_42: -247402664847738336
+      Gaul_LightCavalry_332x270_43: -6928214200500850015
+      Gaul_LightCavalry_332x270_44: 3191158215338424243
+      Gaul_LightCavalry_332x270_45: 2643476871726327151
+      Gaul_LightCavalry_332x270_46: 714949511649809153
+      Gaul_LightCavalry_332x270_47: -5118728107099302004
+      Gaul_LightCavalry_332x270_48: 220894743196606252
+      Gaul_LightCavalry_332x270_49: 3020088342176815704
+      Gaul_LightCavalry_332x270_5: 2351268558792272801
+      Gaul_LightCavalry_332x270_50: -7613756662633481039
+      Gaul_LightCavalry_332x270_51: 6022179022802353184
+      Gaul_LightCavalry_332x270_52: -378257822265712760
+      Gaul_LightCavalry_332x270_53: -7768392903244107887
+      Gaul_LightCavalry_332x270_54: -4036346055338242796
+      Gaul_LightCavalry_332x270_55: -2798431757918141467
+      Gaul_LightCavalry_332x270_56: 3026130177442262270
+      Gaul_LightCavalry_332x270_57: -8452157281195370873
+      Gaul_LightCavalry_332x270_58: -3218151652709248255
+      Gaul_LightCavalry_332x270_59: -2644557411402876139
+      Gaul_LightCavalry_332x270_6: 2390065693233717764
+      Gaul_LightCavalry_332x270_60: -8708157521864630974
+      Gaul_LightCavalry_332x270_61: -4414311316828881975
+      Gaul_LightCavalry_332x270_62: 2596512091980430655
+      Gaul_LightCavalry_332x270_63: 5608325248845087746
+      Gaul_LightCavalry_332x270_64: 5245162765908419089
+      Gaul_LightCavalry_332x270_65: -961911565327949472
+      Gaul_LightCavalry_332x270_66: 8700051209212302637
+      Gaul_LightCavalry_332x270_67: -8140888136242480769
+      Gaul_LightCavalry_332x270_68: -7092407631287740852
+      Gaul_LightCavalry_332x270_69: 7852696212982186875
+      Gaul_LightCavalry_332x270_7: -7409288686717701938
+      Gaul_LightCavalry_332x270_70: -2835940577508587704
+      Gaul_LightCavalry_332x270_71: -4143727701325556792
+      Gaul_LightCavalry_332x270_72: -1839943245232161017
+      Gaul_LightCavalry_332x270_73: 1330011156251861799
+      Gaul_LightCavalry_332x270_74: -8425052857537860742
+      Gaul_LightCavalry_332x270_75: 539848585550443813
+      Gaul_LightCavalry_332x270_76: 7737800490667161327
+      Gaul_LightCavalry_332x270_77: -7830726452103993786
+      Gaul_LightCavalry_332x270_78: -7927564463791474181
+      Gaul_LightCavalry_332x270_79: 8321126026701287429
+      Gaul_LightCavalry_332x270_8: -405257531840052522
+      Gaul_LightCavalry_332x270_80: 5115271261218892905
+      Gaul_LightCavalry_332x270_81: -5453106242599929050
+      Gaul_LightCavalry_332x270_82: -1390656434506292597
+      Gaul_LightCavalry_332x270_83: 5792043816036630529
+      Gaul_LightCavalry_332x270_84: -2370402625170170523
+      Gaul_LightCavalry_332x270_85: -84717180895952206
+      Gaul_LightCavalry_332x270_86: 4189927872447614432
+      Gaul_LightCavalry_332x270_87: 6976225602076414737
+      Gaul_LightCavalry_332x270_88: 5529771032876745208
+      Gaul_LightCavalry_332x270_89: 8829217800592930216
+      Gaul_LightCavalry_332x270_9: 8437925410309494798
+      Gaul_LightCavalry_332x270_90: -7903530463473881450
+      Gaul_LightCavalry_332x270_91: -7936254190938509248
+      Gaul_LightCavalry_332x270_92: 2996142498301787570
+      Gaul_LightCavalry_332x270_93: -1735843432533590684
+      Gaul_LightCavalry_332x270_94: 5179882387924144481
+      Gaul_LightCavalry_332x270_95: 5124849595130070066
+      Gaul_LightCavalry_332x270_96: -788976347524333685
+      Gaul_LightCavalry_332x270_97: 6172719483882148833
+      Gaul_LightCavalry_332x270_98: 1652337851091754499
+      Gaul_LightCavalry_332x270_99: -1019243346359371951
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

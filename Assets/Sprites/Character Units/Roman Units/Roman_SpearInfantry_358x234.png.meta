@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: 1d1685140132ce84b8e316ec9a1bd318
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1674093229510007800
+    second: Roman_SpearInfantry_358x234_0
+  - first:
+      213: 6183566981276858837
+    second: Roman_SpearInfantry_358x234_1
+  - first:
+      213: -8229510529078777528
+    second: Roman_SpearInfantry_358x234_2
+  - first:
+      213: 665658267441919960
+    second: Roman_SpearInfantry_358x234_3
+  - first:
+      213: 8649457374030694843
+    second: Roman_SpearInfantry_358x234_4
+  - first:
+      213: -7630802525985781724
+    second: Roman_SpearInfantry_358x234_5
+  - first:
+      213: 2580889888787237962
+    second: Roman_SpearInfantry_358x234_6
+  - first:
+      213: -1942615366653171964
+    second: Roman_SpearInfantry_358x234_7
+  - first:
+      213: 7269002848252822501
+    second: Roman_SpearInfantry_358x234_8
+  - first:
+      213: 3099407068159164241
+    second: Roman_SpearInfantry_358x234_9
+  - first:
+      213: 3639200405600004672
+    second: Roman_SpearInfantry_358x234_10
+  - first:
+      213: -1212584603822488790
+    second: Roman_SpearInfantry_358x234_11
+  - first:
+      213: 2657064887324143767
+    second: Roman_SpearInfantry_358x234_12
+  - first:
+      213: 4215466993102322852
+    second: Roman_SpearInfantry_358x234_13
+  - first:
+      213: 2417459489271623563
+    second: Roman_SpearInfantry_358x234_14
+  - first:
+      213: 2401816317610698142
+    second: Roman_SpearInfantry_358x234_15
+  - first:
+      213: 2497605238941039136
+    second: Roman_SpearInfantry_358x234_16
+  - first:
+      213: 245641573770014417
+    second: Roman_SpearInfantry_358x234_17
+  - first:
+      213: 2119418563534572512
+    second: Roman_SpearInfantry_358x234_18
+  - first:
+      213: 6062471290237768195
+    second: Roman_SpearInfantry_358x234_19
+  - first:
+      213: -6852690439456182986
+    second: Roman_SpearInfantry_358x234_20
+  - first:
+      213: -5927069750003551852
+    second: Roman_SpearInfantry_358x234_21
+  - first:
+      213: 894579754572107507
+    second: Roman_SpearInfantry_358x234_22
+  - first:
+      213: -1007482842611185455
+    second: Roman_SpearInfantry_358x234_23
+  - first:
+      213: 5150298445076887843
+    second: Roman_SpearInfantry_358x234_24
+  - first:
+      213: -1837365221091766917
+    second: Roman_SpearInfantry_358x234_25
+  - first:
+      213: 1184541604176396609
+    second: Roman_SpearInfantry_358x234_26
+  - first:
+      213: 5630287028072312084
+    second: Roman_SpearInfantry_358x234_27
+  - first:
+      213: -2680813840591209458
+    second: Roman_SpearInfantry_358x234_28
+  - first:
+      213: 4018665087353457277
+    second: Roman_SpearInfantry_358x234_29
+  - first:
+      213: -6179161232988439560
+    second: Roman_SpearInfantry_358x234_30
+  - first:
+      213: -3489462438398902663
+    second: Roman_SpearInfantry_358x234_31
+  - first:
+      213: 5755640395989958471
+    second: Roman_SpearInfantry_358x234_32
+  - first:
+      213: 6089347437436200147
+    second: Roman_SpearInfantry_358x234_33
+  - first:
+      213: 8632357012933242245
+    second: Roman_SpearInfantry_358x234_34
+  - first:
+      213: 8079946269192678646
+    second: Roman_SpearInfantry_358x234_35
+  - first:
+      213: -8492725645910785530
+    second: Roman_SpearInfantry_358x234_36
+  - first:
+      213: 6321177136816132710
+    second: Roman_SpearInfantry_358x234_37
+  - first:
+      213: 7936832399623204816
+    second: Roman_SpearInfantry_358x234_38
+  - first:
+      213: 5873086853041598638
+    second: Roman_SpearInfantry_358x234_39
+  - first:
+      213: 3284613915622549284
+    second: Roman_SpearInfantry_358x234_40
+  - first:
+      213: 4418215869868154855
+    second: Roman_SpearInfantry_358x234_41
+  - first:
+      213: -1209165466590763721
+    second: Roman_SpearInfantry_358x234_42
+  - first:
+      213: 1499951781792392696
+    second: Roman_SpearInfantry_358x234_43
+  - first:
+      213: 1287817084095272642
+    second: Roman_SpearInfantry_358x234_44
+  - first:
+      213: -1621966406195317192
+    second: Roman_SpearInfantry_358x234_45
+  - first:
+      213: 4474613706022947829
+    second: Roman_SpearInfantry_358x234_46
+  - first:
+      213: 4707729683856650439
+    second: Roman_SpearInfantry_358x234_47
+  - first:
+      213: 7887774538929563615
+    second: Roman_SpearInfantry_358x234_48
+  - first:
+      213: 5944340212140568104
+    second: Roman_SpearInfantry_358x234_49
+  - first:
+      213: -5640691917380552493
+    second: Roman_SpearInfantry_358x234_50
+  - first:
+      213: 8335440643538524668
+    second: Roman_SpearInfantry_358x234_51
+  - first:
+      213: -7705497461301383594
+    second: Roman_SpearInfantry_358x234_52
+  - first:
+      213: 2251317627867611805
+    second: Roman_SpearInfantry_358x234_53
+  - first:
+      213: -869115325860751346
+    second: Roman_SpearInfantry_358x234_54
+  - first:
+      213: 5834049205952303614
+    second: Roman_SpearInfantry_358x234_55
+  - first:
+      213: 658164410194985363
+    second: Roman_SpearInfantry_358x234_56
+  - first:
+      213: -1737096387636140996
+    second: Roman_SpearInfantry_358x234_57
+  - first:
+      213: -1682754670500997712
+    second: Roman_SpearInfantry_358x234_58
+  - first:
+      213: 7715719310109564787
+    second: Roman_SpearInfantry_358x234_59
+  - first:
+      213: 4142227079649337415
+    second: Roman_SpearInfantry_358x234_60
+  - first:
+      213: -3777840234717334759
+    second: Roman_SpearInfantry_358x234_61
+  - first:
+      213: 4444291527523932230
+    second: Roman_SpearInfantry_358x234_62
+  - first:
+      213: -1009913065526281922
+    second: Roman_SpearInfantry_358x234_63
+  - first:
+      213: 1802076169459898713
+    second: Roman_SpearInfantry_358x234_64
+  - first:
+      213: -1283647703956789623
+    second: Roman_SpearInfantry_358x234_65
+  - first:
+      213: 8253669547360598789
+    second: Roman_SpearInfantry_358x234_66
+  - first:
+      213: 4309891922736322307
+    second: Roman_SpearInfantry_358x234_67
+  - first:
+      213: -4059958686885312043
+    second: Roman_SpearInfantry_358x234_68
+  - first:
+      213: 2522098811399703977
+    second: Roman_SpearInfantry_358x234_69
+  - first:
+      213: -5874251612000264526
+    second: Roman_SpearInfantry_358x234_70
+  - first:
+      213: -4533675974060185549
+    second: Roman_SpearInfantry_358x234_71
+  - first:
+      213: 152293322371299336
+    second: Roman_SpearInfantry_358x234_72
+  - first:
+      213: -5225322496163984473
+    second: Roman_SpearInfantry_358x234_73
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb94d92ce29b3710800000000000000
+      internalID: 1674093229510007800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d977d3586170d550800000000000000
+      internalID: 6183566981276858837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8492cee86c7eacd80800000000000000
+      internalID: -8229510529078777528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77dacdaa4ec3900800000000000000
+      internalID: 665658267441919960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98bf6a7ab090870800000000000000
+      internalID: 8649457374030694843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428c6774881f91690800000000000000
+      internalID: -7630802525985781724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c8f810ea921d320800000000000000
+      internalID: 2580889888787237962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4072c6fcd917a05e0800000000000000
+      internalID: -1942615366653171964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38961e39fa0e460800000000000000
+      internalID: 7269002848252822501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f36ff9e4e430b20800000000000000
+      internalID: 3099407068159164241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_10
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aee32dc79018230800000000000000
+      internalID: 3639200405600004672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_11
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a238d053ab80c2fe0800000000000000
+      internalID: -1212584603822488790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_12
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907e12ff6acfd420800000000000000
+      internalID: 2657064887324143767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_13
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac7f3e45e8508a30800000000000000
+      internalID: 4215466993102322852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_14
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8faee4e89a8c8120800000000000000
+      internalID: 2417459489271623563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_15
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e952cea2737f45120800000000000000
+      internalID: 2401816317610698142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_16
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3c306bb649a220800000000000000
+      internalID: 2497605238941039136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_17
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de21aab5b1b86300800000000000000
+      internalID: 245641573770014417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_18
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc8d154ffa96d10800000000000000
+      internalID: 2119418563534572512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30250a3a489322450800000000000000
+      internalID: 6062471290237768195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63daf783a5a56e0a0800000000000000
+      internalID: -6852690439456182986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_21
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49133102771debda0800000000000000
+      internalID: -5927069750003551852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_22
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec68e0c8f2a6c00800000000000000
+      internalID: 894579754572107507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_23
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80cd841b3b402f0800000000000000
+      internalID: -1007482842611185455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_24
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329fd0af529897740800000000000000
+      internalID: 5150298445076887843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_25
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0b22f01e5086e0800000000000000
+      internalID: -1837365221091766917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_26
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1410b922056507010800000000000000
+      internalID: 1184541604176396609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_27
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6db3b83cc22e40800000000000000
+      internalID: 5630287028072312084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_28
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3c9af306dbcad0800000000000000
+      internalID: -2680813840591209458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_29
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a87faea9a25c730800000000000000
+      internalID: 4018665087353457277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_30
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbfbd1e8953f3aa0800000000000000
+      internalID: -6179161232988439560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_31
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e3a267660f29fc0800000000000000
+      internalID: -3489462438398902663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_32
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbed9027420ef40800000000000000
+      internalID: 5755640395989958471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_33
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4e15a4b35b18450800000000000000
+      internalID: 6089347437436200147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_34
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dec3297fa4cc770800000000000000
+      internalID: 8632357012933242245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fce87b825cb12070800000000000000
+      internalID: 8079946269192678646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60243ac7507c32a80800000000000000
+      internalID: -8492725645910785530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_37
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6621f3a6d1559b750800000000000000
+      internalID: 6321177136816132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_38
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df2a5d240b452e60800000000000000
+      internalID: 7936832399623204816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_39
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0bf8a3065618150800000000000000
+      internalID: 5873086853041598638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_40
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427acf024fa459d20800000000000000
+      internalID: 3284613915622549284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_41
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef1c78cce7a05d30800000000000000
+      internalID: 4418215869868154855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_42
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73520312a6e283fe0800000000000000
+      internalID: -1209165466590763721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_43
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f523fdc236e0d410800000000000000
+      internalID: 1499951781792392696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_44
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c69d2990de3fd110800000000000000
+      internalID: 1287817084095272642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_45
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8367c19a52e9d79e0800000000000000
+      internalID: -1621966406195317192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_46
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb87964575091e30800000000000000
+      internalID: 4474613706022947829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_47
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c076d07437355140800000000000000
+      internalID: 4707729683856650439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_48
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd76445e621077d60800000000000000
+      internalID: 7887774538929563615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_49
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e65b0bde98e7250800000000000000
+      internalID: 5944340212140568104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_50
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87d19369c38b1b0800000000000000
+      internalID: -5640691917380552493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_51
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9977c2a1f6da370800000000000000
+      internalID: 8335440643538524668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_52
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ee47962e2901590800000000000000
+      internalID: -7705497461301383594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_53
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92cf9d54794e3f10800000000000000
+      internalID: 2251317627867611805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_54
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d835473840f3f0800000000000000
+      internalID: -869115325860751346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_55
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1dfeab7d4b6f050800000000000000
+      internalID: 5834049205952303614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_56
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910a714b05422900800000000000000
+      internalID: 658164410194985363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_57
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34655af90894e7e0800000000000000
+      internalID: -1737096387636140996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_58
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b598a4fa87a5a8e0800000000000000
+      internalID: -1682754670500997712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd3b935ddb31b60800000000000000
+      internalID: 7715719310109564787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_60
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740a08d15952c7930800000000000000
+      internalID: 4142227079649337415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_61
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913be77825a629bc0800000000000000
+      internalID: -3777840234717334759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_62
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489750f89b4dad30800000000000000
+      internalID: 4444291527523932230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_63
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b74bea611cf1f0800000000000000
+      internalID: -1009913065526281922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_64
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9599ad27ab2420910800000000000000
+      internalID: 1802076169459898713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_65
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986e8ecd6319f2ee0800000000000000
+      internalID: -1283647703956789623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_66
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b33e739bcea8270800000000000000
+      internalID: 8253669547360598789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_67
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30716037edfcfcb30800000000000000
+      internalID: 4309891922736322307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_68
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98079b51128a7c0800000000000000
+      internalID: -4059958686885312043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_69
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0aed918b400320800000000000000
+      internalID: 2522098811399703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_70
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be557138477a7ea0800000000000000
+      internalID: -5874251612000264526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_71
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3386b67d8b52511c0800000000000000
+      internalID: -4533675974060185549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_72
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808fa9548fd0d1200800000000000000
+      internalID: 152293322371299336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SpearInfantry_358x234_73
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abc94befdceb77b0800000000000000
+      internalID: -5225322496163984473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_SpearInfantry_358x234_0: 1674093229510007800
+      Roman_SpearInfantry_358x234_1: 6183566981276858837
+      Roman_SpearInfantry_358x234_10: 3639200405600004672
+      Roman_SpearInfantry_358x234_11: -1212584603822488790
+      Roman_SpearInfantry_358x234_12: 2657064887324143767
+      Roman_SpearInfantry_358x234_13: 4215466993102322852
+      Roman_SpearInfantry_358x234_14: 2417459489271623563
+      Roman_SpearInfantry_358x234_15: 2401816317610698142
+      Roman_SpearInfantry_358x234_16: 2497605238941039136
+      Roman_SpearInfantry_358x234_17: 245641573770014417
+      Roman_SpearInfantry_358x234_18: 2119418563534572512
+      Roman_SpearInfantry_358x234_19: 6062471290237768195
+      Roman_SpearInfantry_358x234_2: -8229510529078777528
+      Roman_SpearInfantry_358x234_20: -6852690439456182986
+      Roman_SpearInfantry_358x234_21: -5927069750003551852
+      Roman_SpearInfantry_358x234_22: 894579754572107507
+      Roman_SpearInfantry_358x234_23: -1007482842611185455
+      Roman_SpearInfantry_358x234_24: 5150298445076887843
+      Roman_SpearInfantry_358x234_25: -1837365221091766917
+      Roman_SpearInfantry_358x234_26: 1184541604176396609
+      Roman_SpearInfantry_358x234_27: 5630287028072312084
+      Roman_SpearInfantry_358x234_28: -2680813840591209458
+      Roman_SpearInfantry_358x234_29: 4018665087353457277
+      Roman_SpearInfantry_358x234_3: 665658267441919960
+      Roman_SpearInfantry_358x234_30: -6179161232988439560
+      Roman_SpearInfantry_358x234_31: -3489462438398902663
+      Roman_SpearInfantry_358x234_32: 5755640395989958471
+      Roman_SpearInfantry_358x234_33: 6089347437436200147
+      Roman_SpearInfantry_358x234_34: 8632357012933242245
+      Roman_SpearInfantry_358x234_35: 8079946269192678646
+      Roman_SpearInfantry_358x234_36: -8492725645910785530
+      Roman_SpearInfantry_358x234_37: 6321177136816132710
+      Roman_SpearInfantry_358x234_38: 7936832399623204816
+      Roman_SpearInfantry_358x234_39: 5873086853041598638
+      Roman_SpearInfantry_358x234_4: 8649457374030694843
+      Roman_SpearInfantry_358x234_40: 3284613915622549284
+      Roman_SpearInfantry_358x234_41: 4418215869868154855
+      Roman_SpearInfantry_358x234_42: -1209165466590763721
+      Roman_SpearInfantry_358x234_43: 1499951781792392696
+      Roman_SpearInfantry_358x234_44: 1287817084095272642
+      Roman_SpearInfantry_358x234_45: -1621966406195317192
+      Roman_SpearInfantry_358x234_46: 4474613706022947829
+      Roman_SpearInfantry_358x234_47: 4707729683856650439
+      Roman_SpearInfantry_358x234_48: 7887774538929563615
+      Roman_SpearInfantry_358x234_49: 5944340212140568104
+      Roman_SpearInfantry_358x234_5: -7630802525985781724
+      Roman_SpearInfantry_358x234_50: -5640691917380552493
+      Roman_SpearInfantry_358x234_51: 8335440643538524668
+      Roman_SpearInfantry_358x234_52: -7705497461301383594
+      Roman_SpearInfantry_358x234_53: 2251317627867611805
+      Roman_SpearInfantry_358x234_54: -869115325860751346
+      Roman_SpearInfantry_358x234_55: 5834049205952303614
+      Roman_SpearInfantry_358x234_56: 658164410194985363
+      Roman_SpearInfantry_358x234_57: -1737096387636140996
+      Roman_SpearInfantry_358x234_58: -1682754670500997712
+      Roman_SpearInfantry_358x234_59: 7715719310109564787
+      Roman_SpearInfantry_358x234_6: 2580889888787237962
+      Roman_SpearInfantry_358x234_60: 4142227079649337415
+      Roman_SpearInfantry_358x234_61: -3777840234717334759
+      Roman_SpearInfantry_358x234_62: 4444291527523932230
+      Roman_SpearInfantry_358x234_63: -1009913065526281922
+      Roman_SpearInfantry_358x234_64: 1802076169459898713
+      Roman_SpearInfantry_358x234_65: -1283647703956789623
+      Roman_SpearInfantry_358x234_66: 8253669547360598789
+      Roman_SpearInfantry_358x234_67: 4309891922736322307
+      Roman_SpearInfantry_358x234_68: -4059958686885312043
+      Roman_SpearInfantry_358x234_69: 2522098811399703977
+      Roman_SpearInfantry_358x234_7: -1942615366653171964
+      Roman_SpearInfantry_358x234_70: -5874251612000264526
+      Roman_SpearInfantry_358x234_71: -4533675974060185549
+      Roman_SpearInfantry_358x234_72: 152293322371299336
+      Roman_SpearInfantry_358x234_73: -5225322496163984473
+      Roman_SpearInfantry_358x234_8: 7269002848252822501
+      Roman_SpearInfantry_358x234_9: 3099407068159164241
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

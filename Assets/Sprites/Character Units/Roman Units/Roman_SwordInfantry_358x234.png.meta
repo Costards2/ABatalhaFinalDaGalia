@@ -1,0 +1,2573 @@
+fileFormatVersion: 2
+guid: 271eeb5c44348e2418aa1429e984478e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6743718397924231649
+    second: Roman_SwordInfantry_358x234_0
+  - first:
+      213: -6427173966945060482
+    second: Roman_SwordInfantry_358x234_1
+  - first:
+      213: 8086180646973377542
+    second: Roman_SwordInfantry_358x234_2
+  - first:
+      213: -5472412961600128779
+    second: Roman_SwordInfantry_358x234_3
+  - first:
+      213: 4166203384533740907
+    second: Roman_SwordInfantry_358x234_4
+  - first:
+      213: 3885827373778289553
+    second: Roman_SwordInfantry_358x234_5
+  - first:
+      213: -8955056583613329940
+    second: Roman_SwordInfantry_358x234_6
+  - first:
+      213: -7584532336683674236
+    second: Roman_SwordInfantry_358x234_7
+  - first:
+      213: 856707463439474760
+    second: Roman_SwordInfantry_358x234_8
+  - first:
+      213: 6222575532528857485
+    second: Roman_SwordInfantry_358x234_9
+  - first:
+      213: -5553225361873778966
+    second: Roman_SwordInfantry_358x234_10
+  - first:
+      213: -8408873789104704890
+    second: Roman_SwordInfantry_358x234_11
+  - first:
+      213: -2449145435855248216
+    second: Roman_SwordInfantry_358x234_12
+  - first:
+      213: -8858436024292125092
+    second: Roman_SwordInfantry_358x234_13
+  - first:
+      213: -1401049051798163461
+    second: Roman_SwordInfantry_358x234_14
+  - first:
+      213: 8796284134546044637
+    second: Roman_SwordInfantry_358x234_15
+  - first:
+      213: 6186447089790579475
+    second: Roman_SwordInfantry_358x234_16
+  - first:
+      213: 6835965826669722693
+    second: Roman_SwordInfantry_358x234_17
+  - first:
+      213: -1743233551936018791
+    second: Roman_SwordInfantry_358x234_18
+  - first:
+      213: 3222422021610288953
+    second: Roman_SwordInfantry_358x234_19
+  - first:
+      213: -6931994104686425999
+    second: Roman_SwordInfantry_358x234_20
+  - first:
+      213: 9169251691755725437
+    second: Roman_SwordInfantry_358x234_21
+  - first:
+      213: 6327862294026318961
+    second: Roman_SwordInfantry_358x234_22
+  - first:
+      213: 877337853009720908
+    second: Roman_SwordInfantry_358x234_23
+  - first:
+      213: 7280253356940188708
+    second: Roman_SwordInfantry_358x234_24
+  - first:
+      213: 4326948058015006439
+    second: Roman_SwordInfantry_358x234_25
+  - first:
+      213: -5338206354037594863
+    second: Roman_SwordInfantry_358x234_26
+  - first:
+      213: 7383125972041022369
+    second: Roman_SwordInfantry_358x234_27
+  - first:
+      213: 7366439090901663324
+    second: Roman_SwordInfantry_358x234_28
+  - first:
+      213: -3547436856822581295
+    second: Roman_SwordInfantry_358x234_29
+  - first:
+      213: -7917922560109709384
+    second: Roman_SwordInfantry_358x234_30
+  - first:
+      213: -281048013147404533
+    second: Roman_SwordInfantry_358x234_31
+  - first:
+      213: 3437702726167514370
+    second: Roman_SwordInfantry_358x234_32
+  - first:
+      213: 9009766844961019988
+    second: Roman_SwordInfantry_358x234_33
+  - first:
+      213: 3439217708333705630
+    second: Roman_SwordInfantry_358x234_34
+  - first:
+      213: -5809131349875592561
+    second: Roman_SwordInfantry_358x234_35
+  - first:
+      213: 943051113971697096
+    second: Roman_SwordInfantry_358x234_36
+  - first:
+      213: -1477383049321029620
+    second: Roman_SwordInfantry_358x234_37
+  - first:
+      213: 5972513324965908572
+    second: Roman_SwordInfantry_358x234_38
+  - first:
+      213: -1588218309626338279
+    second: Roman_SwordInfantry_358x234_39
+  - first:
+      213: -5786230530811563261
+    second: Roman_SwordInfantry_358x234_40
+  - first:
+      213: -3447823467211295952
+    second: Roman_SwordInfantry_358x234_41
+  - first:
+      213: -7130085898500311143
+    second: Roman_SwordInfantry_358x234_42
+  - first:
+      213: 4593674140302022136
+    second: Roman_SwordInfantry_358x234_43
+  - first:
+      213: -7151344302676105589
+    second: Roman_SwordInfantry_358x234_44
+  - first:
+      213: -9017359881010841203
+    second: Roman_SwordInfantry_358x234_45
+  - first:
+      213: -2503607280484459047
+    second: Roman_SwordInfantry_358x234_46
+  - first:
+      213: 4004446425467705783
+    second: Roman_SwordInfantry_358x234_47
+  - first:
+      213: 6862709822238009126
+    second: Roman_SwordInfantry_358x234_48
+  - first:
+      213: -2907156474102321155
+    second: Roman_SwordInfantry_358x234_49
+  - first:
+      213: 2101350420697893049
+    second: Roman_SwordInfantry_358x234_50
+  - first:
+      213: 3926708448671260738
+    second: Roman_SwordInfantry_358x234_51
+  - first:
+      213: 8656299514789348616
+    second: Roman_SwordInfantry_358x234_52
+  - first:
+      213: -1302018153699583370
+    second: Roman_SwordInfantry_358x234_53
+  - first:
+      213: -5726083431437107928
+    second: Roman_SwordInfantry_358x234_54
+  - first:
+      213: -4978012060027194428
+    second: Roman_SwordInfantry_358x234_55
+  - first:
+      213: -5243622815974495108
+    second: Roman_SwordInfantry_358x234_56
+  - first:
+      213: -67821793141113483
+    second: Roman_SwordInfantry_358x234_57
+  - first:
+      213: -8136414014284824058
+    second: Roman_SwordInfantry_358x234_58
+  - first:
+      213: -3096457275295787895
+    second: Roman_SwordInfantry_358x234_59
+  - first:
+      213: -1613234516757231230
+    second: Roman_SwordInfantry_358x234_60
+  - first:
+      213: 4579193727146539456
+    second: Roman_SwordInfantry_358x234_61
+  - first:
+      213: -3032559761283676250
+    second: Roman_SwordInfantry_358x234_62
+  - first:
+      213: -803838619616634573
+    second: Roman_SwordInfantry_358x234_63
+  - first:
+      213: 7155619101893752912
+    second: Roman_SwordInfantry_358x234_64
+  - first:
+      213: 3935698441670207609
+    second: Roman_SwordInfantry_358x234_65
+  - first:
+      213: -5624431505475930089
+    second: Roman_SwordInfantry_358x234_66
+  - first:
+      213: 1173060148076283960
+    second: Roman_SwordInfantry_358x234_67
+  - first:
+      213: -3403441535806291345
+    second: Roman_SwordInfantry_358x234_68
+  - first:
+      213: 4726128978542269992
+    second: Roman_SwordInfantry_358x234_69
+  - first:
+      213: -1983089347391057454
+    second: Roman_SwordInfantry_358x234_70
+  - first:
+      213: 5440852826702096417
+    second: Roman_SwordInfantry_358x234_71
+  - first:
+      213: -4372415989995480862
+    second: Roman_SwordInfantry_358x234_72
+  - first:
+      213: 3363384083265901780
+    second: Roman_SwordInfantry_358x234_73
+  - first:
+      213: 6661013859305558495
+    second: Roman_SwordInfantry_358x234_74
+  - first:
+      213: 4380685867007301975
+    second: Roman_SwordInfantry_358x234_75
+  - first:
+      213: 6367290227760474182
+    second: Roman_SwordInfantry_358x234_76
+  - first:
+      213: 4505830070929237918
+    second: Roman_SwordInfantry_358x234_77
+  - first:
+      213: 255532009776391173
+    second: Roman_SwordInfantry_358x234_78
+  - first:
+      213: -6630520238538374576
+    second: Roman_SwordInfantry_358x234_79
+  - first:
+      213: -6840833091525963413
+    second: Roman_SwordInfantry_358x234_80
+  - first:
+      213: 7365557416190602881
+    second: Roman_SwordInfantry_358x234_81
+  - first:
+      213: 8906823865958421018
+    second: Roman_SwordInfantry_358x234_82
+  - first:
+      213: -5640641666724470486
+    second: Roman_SwordInfantry_358x234_83
+  - first:
+      213: -2263708037553080846
+    second: Roman_SwordInfantry_358x234_84
+  - first:
+      213: -1458110074140554419
+    second: Roman_SwordInfantry_358x234_85
+  - first:
+      213: -5161576995516655505
+    second: Roman_SwordInfantry_358x234_86
+  - first:
+      213: 4643657496055037136
+    second: Roman_SwordInfantry_358x234_87
+  - first:
+      213: 8083344774032332059
+    second: Roman_SwordInfantry_358x234_88
+  - first:
+      213: -8418846486275282887
+    second: Roman_SwordInfantry_358x234_89
+  - first:
+      213: -5854706527590189641
+    second: Roman_SwordInfantry_358x234_90
+  - first:
+      213: -6289356265567493230
+    second: Roman_SwordInfantry_358x234_91
+  - first:
+      213: 4037907099444453638
+    second: Roman_SwordInfantry_358x234_92
+  - first:
+      213: 627818702083366618
+    second: Roman_SwordInfantry_358x234_93
+  - first:
+      213: -4945068969531697556
+    second: Roman_SwordInfantry_358x234_94
+  - first:
+      213: -5917569323142236322
+    second: Roman_SwordInfantry_358x234_95
+  - first:
+      213: -7876031347701260495
+    second: Roman_SwordInfantry_358x234_96
+  - first:
+      213: 7511483080876122277
+    second: Roman_SwordInfantry_358x234_97
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e94a853720869d50800000000000000
+      internalID: 6743718397924231649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f99664571ec6a0800000000000000
+      internalID: -6427173966945060482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c8c7cb472e73070800000000000000
+      internalID: 8086180646973377542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b49fc7651e04b0800000000000000
+      internalID: -5472412961600128779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6de92d97e351d930800000000000000
+      internalID: 4166203384533740907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934b80986b3de530800000000000000
+      internalID: 3885827373778289553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced443eab7f39b380800000000000000
+      internalID: -8955056583613329940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485918c36045eb690800000000000000
+      internalID: -7584532336683674236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8406cb226e2a3eb00800000000000000
+      internalID: 856707463439474760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d817b6c6a770b5650800000000000000
+      internalID: 6222575532528857485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_10
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6c2d3a4fafee2b0800000000000000
+      internalID: -5553225361873778966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_11
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682325747ddad4b80800000000000000
+      internalID: -8408873789104704890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_12
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a42494c333e20ed0800000000000000
+      internalID: -2449145435855248216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_13
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c565b82be53801580800000000000000
+      internalID: -8858436024292125092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_14
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2caa7f497e8ce0800000000000000
+      internalID: -1401049051798163461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_15
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6750fc0dda21a70800000000000000
+      internalID: 8796284134546044637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_16
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31377b8d9dcaad550800000000000000
+      internalID: 6186447089790579475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_17
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cbb5b63ba3ede50800000000000000
+      internalID: 6835965826669722693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_18
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 936
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996af40125acec7e0800000000000000
+      internalID: -1743233551936018791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373a7a61c758bc20800000000000000
+      internalID: 3222422021610288953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178401dc61c9ccf90800000000000000
+      internalID: -6931994104686425999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_21
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72ef3735d9bf3f70800000000000000
+      internalID: 9169251691755725437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_22
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f60fda3511d750800000000000000
+      internalID: 6327862294026318961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_23
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f5a4012eec2c00800000000000000
+      internalID: 877337853009720908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_24
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd34f0bd7a80560800000000000000
+      internalID: 7280253356940188708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_25
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefc8765586c0c30800000000000000
+      internalID: 4326948058015006439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_26
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152bd1aa91eae5b0800000000000000
+      internalID: -5338206354037594863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_27
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab377f34f1267660800000000000000
+      internalID: 7383125972041022369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_28
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ebeb8f259da3660800000000000000
+      internalID: 7366439090901663324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_29
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d736fd49f8f4cec0800000000000000
+      internalID: -3547436856822581295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_30
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7fb9de163ed1290800000000000000
+      internalID: -7917922560109709384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_31
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0705833254891cf0800000000000000
+      internalID: -281048013147404533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_32
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d4b9c6a6c25bf20800000000000000
+      internalID: 3437702726167514370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_33
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585efea53f190d70800000000000000
+      internalID: 9009766844961019988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_34
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a672b84e8abf20800000000000000
+      internalID: 3439217708333705630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82741db0d1d16fa0800000000000000
+      internalID: -5809131349875592561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c15dddf3661d00800000000000000
+      internalID: 943051113971697096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_37
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006904b1f74f7be0800000000000000
+      internalID: -1477383049321029620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_38
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5051eea931a2e250800000000000000
+      internalID: 5972513324965908572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_39
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91463f4bcd385f9e0800000000000000
+      internalID: -1588218309626338279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_40
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f47e2dfd23bfa0800000000000000
+      internalID: -5786230530811563261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_41
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337d9ce2ded620d0800000000000000
+      internalID: -3447823467211295952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_42
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997fdd1f6a8dc0d90800000000000000
+      internalID: -7130085898500311143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_43
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f59992da4200cf30800000000000000
+      internalID: 4593674140302022136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_44
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b862a740f3251cc90800000000000000
+      internalID: -7151344302676105589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_45
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d897d78d6f6ebd280800000000000000
+      internalID: -9017359881010841203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_46
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd54ad6176614dd0800000000000000
+      internalID: -2503607280484459047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_47
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d518bec6a29730800000000000000
+      internalID: 4004446425467705783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_48
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627a41f193e3d3f50800000000000000
+      internalID: 6862709822238009126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_49
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff67aee694b7a7d0800000000000000
+      internalID: -2907156474102321155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_50
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8c05ef21f792d10800000000000000
+      internalID: 2101350420697893049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_51
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240639b87887e7630800000000000000
+      internalID: 3926708448671260738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_52
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c760bb8a512870800000000000000
+      internalID: 8656299514789348616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_53
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a50a9336d4eede0800000000000000
+      internalID: -1302018153699583370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_54
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df0fa057dd880b0800000000000000
+      internalID: -5726083431437107928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_55
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3f772f76c8aeab0800000000000000
+      internalID: -4978012060027194428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_56
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce4bda4d8ea37b0800000000000000
+      internalID: -5243622815974495108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_57
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d3bcf307c0f0ff0800000000000000
+      internalID: -67821793141113483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_58
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020b050096a51f80800000000000000
+      internalID: -8136414014284824058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98412db838c2705d0800000000000000
+      internalID: -3096457275295787895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_60
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289494911c3ac99e0800000000000000
+      internalID: -1613234516757231230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_61
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c93448ee609c8f30800000000000000
+      internalID: 4579193727146539456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_62
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70b8cd6fe2ae5d0800000000000000
+      internalID: -3032559761283676250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_63
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339920dc80138d4f0800000000000000
+      internalID: -803838619616634573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_64
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058706c39addd4360800000000000000
+      internalID: 7155619101893752912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_65
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978afc661e86e9630800000000000000
+      internalID: 3935698441670207609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_66
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7187794685102f1b0800000000000000
+      internalID: -5624431505475930089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_67
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83801425dfb874010800000000000000
+      internalID: 1173060148076283960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_68
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c47494fb84c0d0800000000000000
+      internalID: -3403441535806291345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_69
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82611b01445969140800000000000000
+      internalID: 4726128978542269992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_70
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d115e2deb6aa74e0800000000000000
+      internalID: -1983089347391057454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_71
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12822caa1dac18b40800000000000000
+      internalID: 5440852826702096417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_72
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8d41ab2de0253c0800000000000000
+      internalID: -4372415989995480862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_73
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45446f0042dae20800000000000000
+      internalID: 3363384083265901780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_74
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd19cdf30dca07c50800000000000000
+      internalID: 6661013859305558495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_75
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595b8f06925bcc30800000000000000
+      internalID: 4380685867007301975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_76
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648aa7f0ab82d5850800000000000000
+      internalID: 6367290227760474182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_77
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97a20c939ce78e30800000000000000
+      internalID: 4505830070929237918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_78
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504a67f4205db8300800000000000000
+      internalID: 255532009776391173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_79
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c1e919f8abf3a0800000000000000
+      internalID: -6630520238538374576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_80
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b619bdb2c8a7011a0800000000000000
+      internalID: -6840833091525963413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_81
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee8c41277b73660800000000000000
+      internalID: 7365557416190602881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_82
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a125c6f9d156b9b70800000000000000
+      internalID: 8906823865958421018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21ee9d1a4a68b1b0800000000000000
+      internalID: -5640641666724470486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_84
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b3729881b590e0800000000000000
+      internalID: -2263708037553080846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_85
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0f6bec90c3cbe0800000000000000
+      internalID: -1458110074140554419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_86
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68d66dd1156e58b0800000000000000
+      internalID: -5161576995516655505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_87
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcb0f6b3e5917040800000000000000
+      internalID: 4643657496055037136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_88
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15153d9e3fcd2070800000000000000
+      internalID: 8083344774032332059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_89
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382407c9bf3a2b80800000000000000
+      internalID: -8418846486275282887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_90
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b573d6ce67efbea0800000000000000
+      internalID: -5854706527590189641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_91
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e8f48cc7b7b8a0800000000000000
+      internalID: -6289356265567493230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_92
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012a6afc17890830800000000000000
+      internalID: 4037907099444453638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_93
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade960188c576b800800000000000000
+      internalID: 627818702083366618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_94
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c669149e8f59f5bb0800000000000000
+      internalID: -4945068969531697556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_95
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bb50ad0290eda0800000000000000
+      internalID: -5917569323142236322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_96
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fdc60e737b2b290800000000000000
+      internalID: -7876031347701260495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_SwordInfantry_358x234_97
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a06af380162e3860800000000000000
+      internalID: 7511483080876122277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_SwordInfantry_358x234_0: 6743718397924231649
+      Roman_SwordInfantry_358x234_1: -6427173966945060482
+      Roman_SwordInfantry_358x234_10: -5553225361873778966
+      Roman_SwordInfantry_358x234_11: -8408873789104704890
+      Roman_SwordInfantry_358x234_12: -2449145435855248216
+      Roman_SwordInfantry_358x234_13: -8858436024292125092
+      Roman_SwordInfantry_358x234_14: -1401049051798163461
+      Roman_SwordInfantry_358x234_15: 8796284134546044637
+      Roman_SwordInfantry_358x234_16: 6186447089790579475
+      Roman_SwordInfantry_358x234_17: 6835965826669722693
+      Roman_SwordInfantry_358x234_18: -1743233551936018791
+      Roman_SwordInfantry_358x234_19: 3222422021610288953
+      Roman_SwordInfantry_358x234_2: 8086180646973377542
+      Roman_SwordInfantry_358x234_20: -6931994104686425999
+      Roman_SwordInfantry_358x234_21: 9169251691755725437
+      Roman_SwordInfantry_358x234_22: 6327862294026318961
+      Roman_SwordInfantry_358x234_23: 877337853009720908
+      Roman_SwordInfantry_358x234_24: 7280253356940188708
+      Roman_SwordInfantry_358x234_25: 4326948058015006439
+      Roman_SwordInfantry_358x234_26: -5338206354037594863
+      Roman_SwordInfantry_358x234_27: 7383125972041022369
+      Roman_SwordInfantry_358x234_28: 7366439090901663324
+      Roman_SwordInfantry_358x234_29: -3547436856822581295
+      Roman_SwordInfantry_358x234_3: -5472412961600128779
+      Roman_SwordInfantry_358x234_30: -7917922560109709384
+      Roman_SwordInfantry_358x234_31: -281048013147404533
+      Roman_SwordInfantry_358x234_32: 3437702726167514370
+      Roman_SwordInfantry_358x234_33: 9009766844961019988
+      Roman_SwordInfantry_358x234_34: 3439217708333705630
+      Roman_SwordInfantry_358x234_35: -5809131349875592561
+      Roman_SwordInfantry_358x234_36: 943051113971697096
+      Roman_SwordInfantry_358x234_37: -1477383049321029620
+      Roman_SwordInfantry_358x234_38: 5972513324965908572
+      Roman_SwordInfantry_358x234_39: -1588218309626338279
+      Roman_SwordInfantry_358x234_4: 4166203384533740907
+      Roman_SwordInfantry_358x234_40: -5786230530811563261
+      Roman_SwordInfantry_358x234_41: -3447823467211295952
+      Roman_SwordInfantry_358x234_42: -7130085898500311143
+      Roman_SwordInfantry_358x234_43: 4593674140302022136
+      Roman_SwordInfantry_358x234_44: -7151344302676105589
+      Roman_SwordInfantry_358x234_45: -9017359881010841203
+      Roman_SwordInfantry_358x234_46: -2503607280484459047
+      Roman_SwordInfantry_358x234_47: 4004446425467705783
+      Roman_SwordInfantry_358x234_48: 6862709822238009126
+      Roman_SwordInfantry_358x234_49: -2907156474102321155
+      Roman_SwordInfantry_358x234_5: 3885827373778289553
+      Roman_SwordInfantry_358x234_50: 2101350420697893049
+      Roman_SwordInfantry_358x234_51: 3926708448671260738
+      Roman_SwordInfantry_358x234_52: 8656299514789348616
+      Roman_SwordInfantry_358x234_53: -1302018153699583370
+      Roman_SwordInfantry_358x234_54: -5726083431437107928
+      Roman_SwordInfantry_358x234_55: -4978012060027194428
+      Roman_SwordInfantry_358x234_56: -5243622815974495108
+      Roman_SwordInfantry_358x234_57: -67821793141113483
+      Roman_SwordInfantry_358x234_58: -8136414014284824058
+      Roman_SwordInfantry_358x234_59: -3096457275295787895
+      Roman_SwordInfantry_358x234_6: -8955056583613329940
+      Roman_SwordInfantry_358x234_60: -1613234516757231230
+      Roman_SwordInfantry_358x234_61: 4579193727146539456
+      Roman_SwordInfantry_358x234_62: -3032559761283676250
+      Roman_SwordInfantry_358x234_63: -803838619616634573
+      Roman_SwordInfantry_358x234_64: 7155619101893752912
+      Roman_SwordInfantry_358x234_65: 3935698441670207609
+      Roman_SwordInfantry_358x234_66: -5624431505475930089
+      Roman_SwordInfantry_358x234_67: 1173060148076283960
+      Roman_SwordInfantry_358x234_68: -3403441535806291345
+      Roman_SwordInfantry_358x234_69: 4726128978542269992
+      Roman_SwordInfantry_358x234_7: -7584532336683674236
+      Roman_SwordInfantry_358x234_70: -1983089347391057454
+      Roman_SwordInfantry_358x234_71: 5440852826702096417
+      Roman_SwordInfantry_358x234_72: -4372415989995480862
+      Roman_SwordInfantry_358x234_73: 3363384083265901780
+      Roman_SwordInfantry_358x234_74: 6661013859305558495
+      Roman_SwordInfantry_358x234_75: 4380685867007301975
+      Roman_SwordInfantry_358x234_76: 6367290227760474182
+      Roman_SwordInfantry_358x234_77: 4505830070929237918
+      Roman_SwordInfantry_358x234_78: 255532009776391173
+      Roman_SwordInfantry_358x234_79: -6630520238538374576
+      Roman_SwordInfantry_358x234_8: 856707463439474760
+      Roman_SwordInfantry_358x234_80: -6840833091525963413
+      Roman_SwordInfantry_358x234_81: 7365557416190602881
+      Roman_SwordInfantry_358x234_82: 8906823865958421018
+      Roman_SwordInfantry_358x234_83: -5640641666724470486
+      Roman_SwordInfantry_358x234_84: -2263708037553080846
+      Roman_SwordInfantry_358x234_85: -1458110074140554419
+      Roman_SwordInfantry_358x234_86: -5161576995516655505
+      Roman_SwordInfantry_358x234_87: 4643657496055037136
+      Roman_SwordInfantry_358x234_88: 8083344774032332059
+      Roman_SwordInfantry_358x234_89: -8418846486275282887
+      Roman_SwordInfantry_358x234_9: 6222575532528857485
+      Roman_SwordInfantry_358x234_90: -5854706527590189641
+      Roman_SwordInfantry_358x234_91: -6289356265567493230
+      Roman_SwordInfantry_358x234_92: 4037907099444453638
+      Roman_SwordInfantry_358x234_93: 627818702083366618
+      Roman_SwordInfantry_358x234_94: -4945068969531697556
+      Roman_SwordInfantry_358x234_95: -5917569323142236322
+      Roman_SwordInfantry_358x234_96: -7876031347701260495
+      Roman_SwordInfantry_358x234_97: 7511483080876122277
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

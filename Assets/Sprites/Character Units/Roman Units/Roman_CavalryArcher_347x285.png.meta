@@ -1,0 +1,2773 @@
+fileFormatVersion: 2
+guid: 46b1fd1498ff52b49a2ecd13b99ba316
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1535485943708485727
+    second: Roman_CavalryArcher_347x285_0
+  - first:
+      213: 8439376583028840096
+    second: Roman_CavalryArcher_347x285_1
+  - first:
+      213: -8354597744735233970
+    second: Roman_CavalryArcher_347x285_2
+  - first:
+      213: -4400744200469507794
+    second: Roman_CavalryArcher_347x285_3
+  - first:
+      213: -3248320124372116481
+    second: Roman_CavalryArcher_347x285_4
+  - first:
+      213: 2391171979549997999
+    second: Roman_CavalryArcher_347x285_5
+  - first:
+      213: -6664859315845336220
+    second: Roman_CavalryArcher_347x285_6
+  - first:
+      213: 4225624690048147962
+    second: Roman_CavalryArcher_347x285_7
+  - first:
+      213: -1613826578459213675
+    second: Roman_CavalryArcher_347x285_8
+  - first:
+      213: -4695751758621255123
+    second: Roman_CavalryArcher_347x285_9
+  - first:
+      213: -8359330351279633100
+    second: Roman_CavalryArcher_347x285_10
+  - first:
+      213: 7833285961476130450
+    second: Roman_CavalryArcher_347x285_11
+  - first:
+      213: 8949299955939450265
+    second: Roman_CavalryArcher_347x285_12
+  - first:
+      213: -6939617453108651603
+    second: Roman_CavalryArcher_347x285_13
+  - first:
+      213: -5039566680412008531
+    second: Roman_CavalryArcher_347x285_14
+  - first:
+      213: 4329284458370626910
+    second: Roman_CavalryArcher_347x285_15
+  - first:
+      213: -1631052444974135335
+    second: Roman_CavalryArcher_347x285_16
+  - first:
+      213: 6566868938932672029
+    second: Roman_CavalryArcher_347x285_17
+  - first:
+      213: -335686599633933235
+    second: Roman_CavalryArcher_347x285_18
+  - first:
+      213: -6960682586506825952
+    second: Roman_CavalryArcher_347x285_19
+  - first:
+      213: 1551674455284257816
+    second: Roman_CavalryArcher_347x285_20
+  - first:
+      213: 1742019480820520862
+    second: Roman_CavalryArcher_347x285_21
+  - first:
+      213: 3126734402754123515
+    second: Roman_CavalryArcher_347x285_22
+  - first:
+      213: -2410666751191867190
+    second: Roman_CavalryArcher_347x285_23
+  - first:
+      213: -8197676525207422018
+    second: Roman_CavalryArcher_347x285_24
+  - first:
+      213: 523264595726519286
+    second: Roman_CavalryArcher_347x285_25
+  - first:
+      213: 7579517432005184173
+    second: Roman_CavalryArcher_347x285_26
+  - first:
+      213: -4451678049907094931
+    second: Roman_CavalryArcher_347x285_27
+  - first:
+      213: -2731892582685623193
+    second: Roman_CavalryArcher_347x285_28
+  - first:
+      213: -4020755612378285315
+    second: Roman_CavalryArcher_347x285_29
+  - first:
+      213: -7468692825119138222
+    second: Roman_CavalryArcher_347x285_30
+  - first:
+      213: -737482679900343480
+    second: Roman_CavalryArcher_347x285_31
+  - first:
+      213: 6370898596087293564
+    second: Roman_CavalryArcher_347x285_32
+  - first:
+      213: -5932187194386404486
+    second: Roman_CavalryArcher_347x285_33
+  - first:
+      213: 5011024859480100105
+    second: Roman_CavalryArcher_347x285_34
+  - first:
+      213: 1481991424151899339
+    second: Roman_CavalryArcher_347x285_35
+  - first:
+      213: 871032160199052529
+    second: Roman_CavalryArcher_347x285_36
+  - first:
+      213: 7142362569250143216
+    second: Roman_CavalryArcher_347x285_37
+  - first:
+      213: 1969408714209409215
+    second: Roman_CavalryArcher_347x285_38
+  - first:
+      213: 2946533079075378881
+    second: Roman_CavalryArcher_347x285_39
+  - first:
+      213: -4266979585518938201
+    second: Roman_CavalryArcher_347x285_40
+  - first:
+      213: 5966614137564098395
+    second: Roman_CavalryArcher_347x285_41
+  - first:
+      213: 8867846871400939558
+    second: Roman_CavalryArcher_347x285_42
+  - first:
+      213: 7176295015718845591
+    second: Roman_CavalryArcher_347x285_43
+  - first:
+      213: 8958178676796513171
+    second: Roman_CavalryArcher_347x285_44
+  - first:
+      213: -2978048055179542414
+    second: Roman_CavalryArcher_347x285_45
+  - first:
+      213: -7590225202551092568
+    second: Roman_CavalryArcher_347x285_46
+  - first:
+      213: -5080502284677648887
+    second: Roman_CavalryArcher_347x285_47
+  - first:
+      213: 6273437013158251139
+    second: Roman_CavalryArcher_347x285_48
+  - first:
+      213: -1186054144772973585
+    second: Roman_CavalryArcher_347x285_49
+  - first:
+      213: -3496906818905283686
+    second: Roman_CavalryArcher_347x285_50
+  - first:
+      213: 6751769841837301987
+    second: Roman_CavalryArcher_347x285_51
+  - first:
+      213: -5057857904101597624
+    second: Roman_CavalryArcher_347x285_52
+  - first:
+      213: 5320494652090207381
+    second: Roman_CavalryArcher_347x285_53
+  - first:
+      213: -2232327325139846489
+    second: Roman_CavalryArcher_347x285_54
+  - first:
+      213: 7581685906321178921
+    second: Roman_CavalryArcher_347x285_55
+  - first:
+      213: 1628592553393114648
+    second: Roman_CavalryArcher_347x285_56
+  - first:
+      213: -7221863235565194286
+    second: Roman_CavalryArcher_347x285_57
+  - first:
+      213: -636475244241407643
+    second: Roman_CavalryArcher_347x285_58
+  - first:
+      213: 4368672450302818461
+    second: Roman_CavalryArcher_347x285_59
+  - first:
+      213: 8698311655925297984
+    second: Roman_CavalryArcher_347x285_60
+  - first:
+      213: -8683694729825839751
+    second: Roman_CavalryArcher_347x285_61
+  - first:
+      213: 6688980317009499077
+    second: Roman_CavalryArcher_347x285_62
+  - first:
+      213: -163803967119856510
+    second: Roman_CavalryArcher_347x285_63
+  - first:
+      213: -2367986451127034514
+    second: Roman_CavalryArcher_347x285_64
+  - first:
+      213: 6517686763228092029
+    second: Roman_CavalryArcher_347x285_65
+  - first:
+      213: 8995836498681352024
+    second: Roman_CavalryArcher_347x285_66
+  - first:
+      213: 5451858274456918210
+    second: Roman_CavalryArcher_347x285_67
+  - first:
+      213: 8592228151779348268
+    second: Roman_CavalryArcher_347x285_68
+  - first:
+      213: 6142171419994849808
+    second: Roman_CavalryArcher_347x285_69
+  - first:
+      213: -9060483816113290047
+    second: Roman_CavalryArcher_347x285_70
+  - first:
+      213: -8321292860926297523
+    second: Roman_CavalryArcher_347x285_71
+  - first:
+      213: 7098820882633120681
+    second: Roman_CavalryArcher_347x285_72
+  - first:
+      213: 4616452803317428489
+    second: Roman_CavalryArcher_347x285_73
+  - first:
+      213: -2890143897770981833
+    second: Roman_CavalryArcher_347x285_74
+  - first:
+      213: -1658874182997050351
+    second: Roman_CavalryArcher_347x285_75
+  - first:
+      213: 2439376994264068068
+    second: Roman_CavalryArcher_347x285_76
+  - first:
+      213: -7729013196732149018
+    second: Roman_CavalryArcher_347x285_77
+  - first:
+      213: -8301290204260303614
+    second: Roman_CavalryArcher_347x285_78
+  - first:
+      213: 6980757769889833572
+    second: Roman_CavalryArcher_347x285_79
+  - first:
+      213: 4453620296273372621
+    second: Roman_CavalryArcher_347x285_80
+  - first:
+      213: 4865339786089913382
+    second: Roman_CavalryArcher_347x285_81
+  - first:
+      213: 4039507217060799528
+    second: Roman_CavalryArcher_347x285_82
+  - first:
+      213: 2670523777831506373
+    second: Roman_CavalryArcher_347x285_83
+  - first:
+      213: -8924797753680258016
+    second: Roman_CavalryArcher_347x285_84
+  - first:
+      213: -4643998229357890311
+    second: Roman_CavalryArcher_347x285_85
+  - first:
+      213: 585572729360210038
+    second: Roman_CavalryArcher_347x285_86
+  - first:
+      213: -6435292590165815510
+    second: Roman_CavalryArcher_347x285_87
+  - first:
+      213: 2122373762800732448
+    second: Roman_CavalryArcher_347x285_88
+  - first:
+      213: -8094094265184546307
+    second: Roman_CavalryArcher_347x285_89
+  - first:
+      213: -3110172431153868704
+    second: Roman_CavalryArcher_347x285_90
+  - first:
+      213: -2234612948836817539
+    second: Roman_CavalryArcher_347x285_91
+  - first:
+      213: 7745887290060553941
+    second: Roman_CavalryArcher_347x285_92
+  - first:
+      213: -4383244296186478590
+    second: Roman_CavalryArcher_347x285_93
+  - first:
+      213: -8058789286860061241
+    second: Roman_CavalryArcher_347x285_94
+  - first:
+      213: 7210932794327234605
+    second: Roman_CavalryArcher_347x285_95
+  - first:
+      213: -4696344133864592481
+    second: Roman_CavalryArcher_347x285_96
+  - first:
+      213: 8271048545960350558
+    second: Roman_CavalryArcher_347x285_97
+  - first:
+      213: -9190134138963778229
+    second: Roman_CavalryArcher_347x285_98
+  - first:
+      213: 255070088334700585
+    second: Roman_CavalryArcher_347x285_99
+  - first:
+      213: 6882479529946958628
+    second: Roman_CavalryArcher_347x285_100
+  - first:
+      213: 4963634660333306594
+    second: Roman_CavalryArcher_347x285_101
+  - first:
+      213: -1215245102668606678
+    second: Roman_CavalryArcher_347x285_102
+  - first:
+      213: -2503175430200590520
+    second: Roman_CavalryArcher_347x285_103
+  - first:
+      213: 9054954999621447426
+    second: Roman_CavalryArcher_347x285_104
+  - first:
+      213: 6920919865251373560
+    second: Roman_CavalryArcher_347x285_105
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58895894542f4510800000000000000
+      internalID: 1535485943708485727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a61f2dd940be1570800000000000000
+      internalID: 8439376583028840096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d6cf9d918e0c80800000000000000
+      internalID: -8354597744735233970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_3
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2197af377a6de2c0800000000000000
+      internalID: -4400744200469507794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_4
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb1c06ae06abe2d0800000000000000
+      internalID: -3248320124372116481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabf1f51f362f2120800000000000000
+      internalID: 2391171979549997999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_6
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f511a3c9a183a0800000000000000
+      internalID: -6664859315845336220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_7
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a07c644f64aa30800000000000000
+      internalID: 4225624690048147962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_8
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590caddf6498a99e0800000000000000
+      internalID: -1613826578459213675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_9
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ad6f997a655deb0800000000000000
+      internalID: -4695751758621255123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_10
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d06dbc551bdfb80800000000000000
+      internalID: -8359330351279633100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_11
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296c6d5541c65bc60800000000000000
+      internalID: 7833285961476130450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_12
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d903ef4ec423c70800000000000000
+      internalID: 8949299955939450265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_13
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99b5ea1b681bf90800000000000000
+      internalID: -6939617453108651603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_14
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc5201eccdf0ab0800000000000000
+      internalID: -5039566680412008531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_15
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55fcc00745b41c30800000000000000
+      internalID: 4329284458370626910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_16
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c84761765d59e0800000000000000
+      internalID: -1631052444974135335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_17
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16d0a7d184322b50800000000000000
+      internalID: 6566868938932672029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_18
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce5f0f0d6675bf0800000000000000
+      internalID: -335686599633933235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_19
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f630d1110b66f90800000000000000
+      internalID: -6960682586506825952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_20
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814144a22b7a88510800000000000000
+      internalID: 1551674455284257816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_21
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971e1afc75ec2810800000000000000
+      internalID: 1742019480820520862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_22
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf617278f54646b20800000000000000
+      internalID: 3126734402754123515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_23
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 1140
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac02d5fac579b8ed0800000000000000
+      internalID: -2410666751191867190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf37b22a00c3e80800000000000000
+      internalID: -8197676525207422018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_25
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb41df9062034700800000000000000
+      internalID: 523264595726519286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_26
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daacc8742fadf2960800000000000000
+      internalID: 7579517432005184173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_27
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a42ec46667832c0800000000000000
+      internalID: -4451678049907094931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_28
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cbf749b2e561ad0800000000000000
+      internalID: -2731892582685623193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_29
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab88bc2186338c0800000000000000
+      internalID: -4020755612378285315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_30
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ed346427fd95890800000000000000
+      internalID: -7468692825119138222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_31
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437984f86fe3c5f0800000000000000
+      internalID: -737482679900343480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_32
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7661d7c48af96850800000000000000
+      internalID: 6370898596087293564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_33
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2a714d23acada0800000000000000
+      internalID: -5932187194386404486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_34
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d86f56f8cba8540800000000000000
+      internalID: 5011024859480100105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_35
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcccfbc2957119410800000000000000
+      internalID: 1481991424151899339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_36
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0b908227861c00800000000000000
+      internalID: 871032160199052529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_37
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb73353ae4ce1360800000000000000
+      internalID: 7142362569250143216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_38
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b20c8aceb45b10800000000000000
+      internalID: 1969408714209409215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_39
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 855
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d939593034e820800000000000000
+      internalID: 2946533079075378881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7dc45aca4a8c4c0800000000000000
+      internalID: -4266979585518938201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe45512fbadc250800000000000000
+      internalID: 5966614137564098395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_42
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6208964eebbe01b70800000000000000
+      internalID: 8867846871400939558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_43
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf35f8b42579360800000000000000
+      internalID: 7176295015718845591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_44
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5fe84b08d15c70800000000000000
+      internalID: 8958178676796513171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_45
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2700bfa7219dba6d0800000000000000
+      internalID: -2978048055179542414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_46
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa89bc946a1aa690800000000000000
+      internalID: -7590225202551092568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_47
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e6a39f61e6e79b0800000000000000
+      internalID: -5080502284677648887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_48
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac512b9b9bf0750800000000000000
+      internalID: 6273437013158251139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_49
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5d601a0a4a8fe0800000000000000
+      internalID: -1186054144772973585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_50
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93628e86cd787fc0800000000000000
+      internalID: -3496906818905283686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_51
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e068e316ea13bd50800000000000000
+      internalID: 6751769841837301987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_52
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5f9da801eec9b0800000000000000
+      internalID: -5057857904101597624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_53
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc33762b136d940800000000000000
+      internalID: 5320494652090207381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_54
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa34aa002e2501e0800000000000000
+      internalID: -2232327325139846489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_55
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210cdc892f873960800000000000000
+      internalID: 7581685906321178921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_56
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec7d47c4ce99610800000000000000
+      internalID: 1628592553393114648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_57
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3feab76a9c6cb90800000000000000
+      internalID: -7221863235565194286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_58
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56139a63329ca27f0800000000000000
+      internalID: -636475244241407643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_59
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98b5548274a0ac30800000000000000
+      internalID: 4368672450302818461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_60
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043311d8d5c96b870800000000000000
+      internalID: 8698311655925297984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_61
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759cc2c6a15d7780800000000000000
+      internalID: -8683694729825839751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_62
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c35ee8982804dc50800000000000000
+      internalID: 6688980317009499077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_63
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 570
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c6507e82d0abdf0800000000000000
+      internalID: -163803967119856510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d92ab6ed8332fd0800000000000000
+      internalID: -2367986451127034514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_65
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76d9773499737a50800000000000000
+      internalID: 6517686763228092029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_66
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f456132a1a7dc70800000000000000
+      internalID: 8995836498681352024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_67
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c857c62734e8ab40800000000000000
+      internalID: 5451858274456918210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_68
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f4beffaf9bd3770800000000000000
+      internalID: 8592228151779348268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_69
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01289562d506d3550800000000000000
+      internalID: 6142171419994849808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_70
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4446749f1b24280800000000000000
+      internalID: -9060483816113290047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_71
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a7e782b34d48c80800000000000000
+      internalID: -8321292860926297523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_72
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abd8794bf3148260800000000000000
+      internalID: 7098820882633120681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_73
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90177189d5fe01040800000000000000
+      internalID: 4616452803317428489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_74
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360997007524e7d0800000000000000
+      internalID: -2890143897770981833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_75
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cf46b38be7af8e0800000000000000
+      internalID: -1658874182997050351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_76
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efae50b3786ad120800000000000000
+      internalID: 2439376994264068068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_77
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 285
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2597892770db490800000000000000
+      internalID: -7729013196732149018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d72a59a84ebcc80800000000000000
+      internalID: -8301290204260303614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_79
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e451c432a0e060800000000000000
+      internalID: 6980757769889833572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_80
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc528db20107ecd30800000000000000
+      internalID: 4453620296273372621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_81
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd67df1c8258340800000000000000
+      internalID: 4865339786089913382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_82
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824298469663f0830800000000000000
+      internalID: 4039507217060799528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_83
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c191e51a3b9f0520800000000000000
+      internalID: 2670523777831506373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_84
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c1fa78abfb42480800000000000000
+      internalID: -8924797753680258016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_85
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4749127343d8fb0800000000000000
+      internalID: -4643998229357890311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_86
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678dbab7b4f502800800000000000000
+      internalID: 585572729360210038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_87
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f86712c7f31b6a0800000000000000
+      internalID: -6435292590165815510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_88
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029c85441bf247d10800000000000000
+      internalID: 2122373762800732448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_89
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1162176200caf80800000000000000
+      internalID: -8094094265184546307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_90
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605cdaf6a276d4d0800000000000000
+      internalID: -3110172431153868704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_91
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75e71ecc5f0df0e0800000000000000
+      internalID: -2234612948836817539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_92
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb54a637bee7b60800000000000000
+      internalID: 7745887290060553941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_93
+      rect:
+        serializedVersion: 2
+        x: 5205
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004c0a39869b23c0800000000000000
+      internalID: -4383244296186478590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_94
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58bf447dd692090800000000000000
+      internalID: -8058789286860061241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_95
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28f619db21621460800000000000000
+      internalID: 7210932794327234605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_96
+      rect:
+        serializedVersion: 2
+        x: 6246
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9be20e74eb33deb0800000000000000
+      internalID: -4696344133864592481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_97
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e535af5a4daa8c270800000000000000
+      internalID: 8271048545960350558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_98
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45afd821b5167080800000000000000
+      internalID: -9190134138963778229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_99
+      rect:
+        serializedVersion: 2
+        x: 7287
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9207408d4e03a8300800000000000000
+      internalID: 255070088334700585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_100
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc264eaaa738f50800000000000000
+      internalID: 6882479529946958628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_101
+      rect:
+        serializedVersion: 2
+        x: 7981
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2cbf3dc6f52e440800000000000000
+      internalID: 4963634660333306594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_102
+      rect:
+        serializedVersion: 2
+        x: 8328
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23976c8405922fe0800000000000000
+      internalID: -1215245102668606678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_103
+      rect:
+        serializedVersion: 2
+        x: 8675
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f7868653fe24dd0800000000000000
+      internalID: -2503175430200590520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_104
+      rect:
+        serializedVersion: 2
+        x: 9022
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f6591d899a9ad70800000000000000
+      internalID: 9054954999621447426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_CavalryArcher_347x285_105
+      rect:
+        serializedVersion: 2
+        x: 9369
+        y: 0
+        width: 347
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1a047e2fb0c0060800000000000000
+      internalID: 6920919865251373560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_CavalryArcher_347x285_0: 1535485943708485727
+      Roman_CavalryArcher_347x285_1: 8439376583028840096
+      Roman_CavalryArcher_347x285_10: -8359330351279633100
+      Roman_CavalryArcher_347x285_100: 6882479529946958628
+      Roman_CavalryArcher_347x285_101: 4963634660333306594
+      Roman_CavalryArcher_347x285_102: -1215245102668606678
+      Roman_CavalryArcher_347x285_103: -2503175430200590520
+      Roman_CavalryArcher_347x285_104: 9054954999621447426
+      Roman_CavalryArcher_347x285_105: 6920919865251373560
+      Roman_CavalryArcher_347x285_11: 7833285961476130450
+      Roman_CavalryArcher_347x285_12: 8949299955939450265
+      Roman_CavalryArcher_347x285_13: -6939617453108651603
+      Roman_CavalryArcher_347x285_14: -5039566680412008531
+      Roman_CavalryArcher_347x285_15: 4329284458370626910
+      Roman_CavalryArcher_347x285_16: -1631052444974135335
+      Roman_CavalryArcher_347x285_17: 6566868938932672029
+      Roman_CavalryArcher_347x285_18: -335686599633933235
+      Roman_CavalryArcher_347x285_19: -6960682586506825952
+      Roman_CavalryArcher_347x285_2: -8354597744735233970
+      Roman_CavalryArcher_347x285_20: 1551674455284257816
+      Roman_CavalryArcher_347x285_21: 1742019480820520862
+      Roman_CavalryArcher_347x285_22: 3126734402754123515
+      Roman_CavalryArcher_347x285_23: -2410666751191867190
+      Roman_CavalryArcher_347x285_24: -8197676525207422018
+      Roman_CavalryArcher_347x285_25: 523264595726519286
+      Roman_CavalryArcher_347x285_26: 7579517432005184173
+      Roman_CavalryArcher_347x285_27: -4451678049907094931
+      Roman_CavalryArcher_347x285_28: -2731892582685623193
+      Roman_CavalryArcher_347x285_29: -4020755612378285315
+      Roman_CavalryArcher_347x285_3: -4400744200469507794
+      Roman_CavalryArcher_347x285_30: -7468692825119138222
+      Roman_CavalryArcher_347x285_31: -737482679900343480
+      Roman_CavalryArcher_347x285_32: 6370898596087293564
+      Roman_CavalryArcher_347x285_33: -5932187194386404486
+      Roman_CavalryArcher_347x285_34: 5011024859480100105
+      Roman_CavalryArcher_347x285_35: 1481991424151899339
+      Roman_CavalryArcher_347x285_36: 871032160199052529
+      Roman_CavalryArcher_347x285_37: 7142362569250143216
+      Roman_CavalryArcher_347x285_38: 1969408714209409215
+      Roman_CavalryArcher_347x285_39: 2946533079075378881
+      Roman_CavalryArcher_347x285_4: -3248320124372116481
+      Roman_CavalryArcher_347x285_40: -4266979585518938201
+      Roman_CavalryArcher_347x285_41: 5966614137564098395
+      Roman_CavalryArcher_347x285_42: 8867846871400939558
+      Roman_CavalryArcher_347x285_43: 7176295015718845591
+      Roman_CavalryArcher_347x285_44: 8958178676796513171
+      Roman_CavalryArcher_347x285_45: -2978048055179542414
+      Roman_CavalryArcher_347x285_46: -7590225202551092568
+      Roman_CavalryArcher_347x285_47: -5080502284677648887
+      Roman_CavalryArcher_347x285_48: 6273437013158251139
+      Roman_CavalryArcher_347x285_49: -1186054144772973585
+      Roman_CavalryArcher_347x285_5: 2391171979549997999
+      Roman_CavalryArcher_347x285_50: -3496906818905283686
+      Roman_CavalryArcher_347x285_51: 6751769841837301987
+      Roman_CavalryArcher_347x285_52: -5057857904101597624
+      Roman_CavalryArcher_347x285_53: 5320494652090207381
+      Roman_CavalryArcher_347x285_54: -2232327325139846489
+      Roman_CavalryArcher_347x285_55: 7581685906321178921
+      Roman_CavalryArcher_347x285_56: 1628592553393114648
+      Roman_CavalryArcher_347x285_57: -7221863235565194286
+      Roman_CavalryArcher_347x285_58: -636475244241407643
+      Roman_CavalryArcher_347x285_59: 4368672450302818461
+      Roman_CavalryArcher_347x285_6: -6664859315845336220
+      Roman_CavalryArcher_347x285_60: 8698311655925297984
+      Roman_CavalryArcher_347x285_61: -8683694729825839751
+      Roman_CavalryArcher_347x285_62: 6688980317009499077
+      Roman_CavalryArcher_347x285_63: -163803967119856510
+      Roman_CavalryArcher_347x285_64: -2367986451127034514
+      Roman_CavalryArcher_347x285_65: 6517686763228092029
+      Roman_CavalryArcher_347x285_66: 8995836498681352024
+      Roman_CavalryArcher_347x285_67: 5451858274456918210
+      Roman_CavalryArcher_347x285_68: 8592228151779348268
+      Roman_CavalryArcher_347x285_69: 6142171419994849808
+      Roman_CavalryArcher_347x285_7: 4225624690048147962
+      Roman_CavalryArcher_347x285_70: -9060483816113290047
+      Roman_CavalryArcher_347x285_71: -8321292860926297523
+      Roman_CavalryArcher_347x285_72: 7098820882633120681
+      Roman_CavalryArcher_347x285_73: 4616452803317428489
+      Roman_CavalryArcher_347x285_74: -2890143897770981833
+      Roman_CavalryArcher_347x285_75: -1658874182997050351
+      Roman_CavalryArcher_347x285_76: 2439376994264068068
+      Roman_CavalryArcher_347x285_77: -7729013196732149018
+      Roman_CavalryArcher_347x285_78: -8301290204260303614
+      Roman_CavalryArcher_347x285_79: 6980757769889833572
+      Roman_CavalryArcher_347x285_8: -1613826578459213675
+      Roman_CavalryArcher_347x285_80: 4453620296273372621
+      Roman_CavalryArcher_347x285_81: 4865339786089913382
+      Roman_CavalryArcher_347x285_82: 4039507217060799528
+      Roman_CavalryArcher_347x285_83: 2670523777831506373
+      Roman_CavalryArcher_347x285_84: -8924797753680258016
+      Roman_CavalryArcher_347x285_85: -4643998229357890311
+      Roman_CavalryArcher_347x285_86: 585572729360210038
+      Roman_CavalryArcher_347x285_87: -6435292590165815510
+      Roman_CavalryArcher_347x285_88: 2122373762800732448
+      Roman_CavalryArcher_347x285_89: -8094094265184546307
+      Roman_CavalryArcher_347x285_9: -4695751758621255123
+      Roman_CavalryArcher_347x285_90: -3110172431153868704
+      Roman_CavalryArcher_347x285_91: -2234612948836817539
+      Roman_CavalryArcher_347x285_92: 7745887290060553941
+      Roman_CavalryArcher_347x285_93: -4383244296186478590
+      Roman_CavalryArcher_347x285_94: -8058789286860061241
+      Roman_CavalryArcher_347x285_95: 7210932794327234605
+      Roman_CavalryArcher_347x285_96: -4696344133864592481
+      Roman_CavalryArcher_347x285_97: 8271048545960350558
+      Roman_CavalryArcher_347x285_98: -9190134138963778229
+      Roman_CavalryArcher_347x285_99: 255070088334700585
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

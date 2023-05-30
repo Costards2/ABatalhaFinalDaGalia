@@ -1,0 +1,2898 @@
+fileFormatVersion: 2
+guid: ee2b30f9d9b99034baaa1f140bec5eb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3405269118894828208
+    second: Roman_Peasant_237x192_0
+  - first:
+      213: 9027730689193099739
+    second: Roman_Peasant_237x192_1
+  - first:
+      213: 5086677784244900750
+    second: Roman_Peasant_237x192_2
+  - first:
+      213: 7820399617022443571
+    second: Roman_Peasant_237x192_3
+  - first:
+      213: 8290923654793031306
+    second: Roman_Peasant_237x192_4
+  - first:
+      213: 4706377125144643810
+    second: Roman_Peasant_237x192_5
+  - first:
+      213: 3033729105259192933
+    second: Roman_Peasant_237x192_6
+  - first:
+      213: 3678611244587930481
+    second: Roman_Peasant_237x192_7
+  - first:
+      213: 2155821459381713116
+    second: Roman_Peasant_237x192_8
+  - first:
+      213: 4868532528628731276
+    second: Roman_Peasant_237x192_9
+  - first:
+      213: 2600048212719528870
+    second: Roman_Peasant_237x192_10
+  - first:
+      213: 159314032005399903
+    second: Roman_Peasant_237x192_11
+  - first:
+      213: 5163130736789020834
+    second: Roman_Peasant_237x192_12
+  - first:
+      213: -1394653639911620835
+    second: Roman_Peasant_237x192_13
+  - first:
+      213: 6966983237307425358
+    second: Roman_Peasant_237x192_14
+  - first:
+      213: 6510856464322382409
+    second: Roman_Peasant_237x192_15
+  - first:
+      213: 2966250494948900870
+    second: Roman_Peasant_237x192_16
+  - first:
+      213: -6194470972852029414
+    second: Roman_Peasant_237x192_17
+  - first:
+      213: -7930405094792981337
+    second: Roman_Peasant_237x192_18
+  - first:
+      213: -2493110360958329437
+    second: Roman_Peasant_237x192_19
+  - first:
+      213: 4057424869053949598
+    second: Roman_Peasant_237x192_20
+  - first:
+      213: 6965682602921819156
+    second: Roman_Peasant_237x192_21
+  - first:
+      213: -3064969914999197339
+    second: Roman_Peasant_237x192_22
+  - first:
+      213: -6696038491884625566
+    second: Roman_Peasant_237x192_23
+  - first:
+      213: 1111613514427355694
+    second: Roman_Peasant_237x192_24
+  - first:
+      213: -3743677493291272795
+    second: Roman_Peasant_237x192_25
+  - first:
+      213: 7764533473378535680
+    second: Roman_Peasant_237x192_26
+  - first:
+      213: 6044001138191948648
+    second: Roman_Peasant_237x192_27
+  - first:
+      213: 5085714669505587562
+    second: Roman_Peasant_237x192_28
+  - first:
+      213: 6174958323882410730
+    second: Roman_Peasant_237x192_29
+  - first:
+      213: 168022379811981461
+    second: Roman_Peasant_237x192_30
+  - first:
+      213: 5063989419656558039
+    second: Roman_Peasant_237x192_31
+  - first:
+      213: -589349580490644618
+    second: Roman_Peasant_237x192_32
+  - first:
+      213: 932289314525651306
+    second: Roman_Peasant_237x192_33
+  - first:
+      213: -2477878409810279379
+    second: Roman_Peasant_237x192_34
+  - first:
+      213: 2143122571183481068
+    second: Roman_Peasant_237x192_35
+  - first:
+      213: -4755000623190786644
+    second: Roman_Peasant_237x192_36
+  - first:
+      213: -882440590792203364
+    second: Roman_Peasant_237x192_37
+  - first:
+      213: -76857361130378038
+    second: Roman_Peasant_237x192_38
+  - first:
+      213: 4255981245056426185
+    second: Roman_Peasant_237x192_39
+  - first:
+      213: 2532685734722851016
+    second: Roman_Peasant_237x192_40
+  - first:
+      213: -5626693383274800983
+    second: Roman_Peasant_237x192_41
+  - first:
+      213: 1893589668301351866
+    second: Roman_Peasant_237x192_42
+  - first:
+      213: -1403308811689665077
+    second: Roman_Peasant_237x192_43
+  - first:
+      213: 7691378342237169773
+    second: Roman_Peasant_237x192_44
+  - first:
+      213: -5007221677305058016
+    second: Roman_Peasant_237x192_45
+  - first:
+      213: 2342929697886275809
+    second: Roman_Peasant_237x192_46
+  - first:
+      213: -2482803031036327535
+    second: Roman_Peasant_237x192_47
+  - first:
+      213: -7409006405927864747
+    second: Roman_Peasant_237x192_48
+  - first:
+      213: 4635225019859919666
+    second: Roman_Peasant_237x192_49
+  - first:
+      213: 2038782208595052523
+    second: Roman_Peasant_237x192_50
+  - first:
+      213: -7645043827439928091
+    second: Roman_Peasant_237x192_51
+  - first:
+      213: -5055949015634943586
+    second: Roman_Peasant_237x192_52
+  - first:
+      213: -1428249176296512643
+    second: Roman_Peasant_237x192_53
+  - first:
+      213: 8318516488101488683
+    second: Roman_Peasant_237x192_54
+  - first:
+      213: -2504599804252755833
+    second: Roman_Peasant_237x192_55
+  - first:
+      213: 3723720069511844209
+    second: Roman_Peasant_237x192_56
+  - first:
+      213: -3014119887698404340
+    second: Roman_Peasant_237x192_57
+  - first:
+      213: -4530169892734869641
+    second: Roman_Peasant_237x192_58
+  - first:
+      213: -2505977974875929700
+    second: Roman_Peasant_237x192_59
+  - first:
+      213: -8107013585798946554
+    second: Roman_Peasant_237x192_60
+  - first:
+      213: -1417640864411739085
+    second: Roman_Peasant_237x192_61
+  - first:
+      213: 7765858797855925805
+    second: Roman_Peasant_237x192_62
+  - first:
+      213: 5538850042981954207
+    second: Roman_Peasant_237x192_63
+  - first:
+      213: 646813316083750418
+    second: Roman_Peasant_237x192_64
+  - first:
+      213: -2010554790321644241
+    second: Roman_Peasant_237x192_65
+  - first:
+      213: -7714685522654380385
+    second: Roman_Peasant_237x192_66
+  - first:
+      213: 4743484202816123846
+    second: Roman_Peasant_237x192_67
+  - first:
+      213: 1949063930631662318
+    second: Roman_Peasant_237x192_68
+  - first:
+      213: -8679791651853346661
+    second: Roman_Peasant_237x192_69
+  - first:
+      213: -3850596487499058530
+    second: Roman_Peasant_237x192_70
+  - first:
+      213: 3735259791236650103
+    second: Roman_Peasant_237x192_71
+  - first:
+      213: -3631137529450488892
+    second: Roman_Peasant_237x192_72
+  - first:
+      213: 207247744035020427
+    second: Roman_Peasant_237x192_73
+  - first:
+      213: -4175423907605754356
+    second: Roman_Peasant_237x192_74
+  - first:
+      213: -520501172235823853
+    second: Roman_Peasant_237x192_75
+  - first:
+      213: -1172651938641834499
+    second: Roman_Peasant_237x192_76
+  - first:
+      213: 3215865485113849790
+    second: Roman_Peasant_237x192_77
+  - first:
+      213: 3127024673552943957
+    second: Roman_Peasant_237x192_78
+  - first:
+      213: -2967528660229708324
+    second: Roman_Peasant_237x192_79
+  - first:
+      213: 3208986300187628600
+    second: Roman_Peasant_237x192_80
+  - first:
+      213: 3857919386382217684
+    second: Roman_Peasant_237x192_81
+  - first:
+      213: 7405926584902944958
+    second: Roman_Peasant_237x192_82
+  - first:
+      213: 3052536673213712680
+    second: Roman_Peasant_237x192_83
+  - first:
+      213: 4896307566173609556
+    second: Roman_Peasant_237x192_84
+  - first:
+      213: 8826136477084708519
+    second: Roman_Peasant_237x192_85
+  - first:
+      213: -7178340818598088083
+    second: Roman_Peasant_237x192_86
+  - first:
+      213: -8113466102950327116
+    second: Roman_Peasant_237x192_87
+  - first:
+      213: -243443165003358242
+    second: Roman_Peasant_237x192_88
+  - first:
+      213: 8544430559905811437
+    second: Roman_Peasant_237x192_89
+  - first:
+      213: 640601924866151090
+    second: Roman_Peasant_237x192_90
+  - first:
+      213: 5942681659908235147
+    second: Roman_Peasant_237x192_91
+  - first:
+      213: -920303080135840980
+    second: Roman_Peasant_237x192_92
+  - first:
+      213: -5767714130324214744
+    second: Roman_Peasant_237x192_93
+  - first:
+      213: -8882207522733093626
+    second: Roman_Peasant_237x192_94
+  - first:
+      213: 7309658067101002235
+    second: Roman_Peasant_237x192_95
+  - first:
+      213: 7234559234798606835
+    second: Roman_Peasant_237x192_96
+  - first:
+      213: 4299913598205322529
+    second: Roman_Peasant_237x192_97
+  - first:
+      213: -2745430198702017136
+    second: Roman_Peasant_237x192_98
+  - first:
+      213: 6290037220624355293
+    second: Roman_Peasant_237x192_99
+  - first:
+      213: 4506968364208824964
+    second: Roman_Peasant_237x192_100
+  - first:
+      213: -1998477866545598048
+    second: Roman_Peasant_237x192_101
+  - first:
+      213: 3757379388974230266
+    second: Roman_Peasant_237x192_102
+  - first:
+      213: 8895654892284620001
+    second: Roman_Peasant_237x192_103
+  - first:
+      213: -7152486410956319220
+    second: Roman_Peasant_237x192_104
+  - first:
+      213: -2412202913720561944
+    second: Roman_Peasant_237x192_105
+  - first:
+      213: 8633824768461426666
+    second: Roman_Peasant_237x192_106
+  - first:
+      213: -4252302092304535258
+    second: Roman_Peasant_237x192_107
+  - first:
+      213: 4613813968381989062
+    second: Roman_Peasant_237x192_108
+  - first:
+      213: -8443050871184219967
+    second: Roman_Peasant_237x192_109
+  - first:
+      213: -2340789299915971314
+    second: Roman_Peasant_237x192_110
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0559aab37cd0eb0d0800000000000000
+      internalID: -3405269118894828208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14f391b31f84d70800000000000000
+      internalID: 9027730689193099739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_2
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83d9c09e72879640800000000000000
+      internalID: 5086677784244900750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33049367404a78c60800000000000000
+      internalID: 7820399617022443571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e62d703274f0370800000000000000
+      internalID: 8290923654793031306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_5
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e845435f09605140800000000000000
+      internalID: 4706377125144643810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_6
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ecbf3c88f91a20800000000000000
+      internalID: 3033729105259192933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_7
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173db64df6d0d0330800000000000000
+      internalID: 3678611244587930481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_8
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd87c9df1340bed10800000000000000
+      internalID: 2155821459381713116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_9
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d895a4a80809340800000000000000
+      internalID: 4868532528628731276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_10
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6906e21a351420800000000000000
+      internalID: 2600048212719528870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_11
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55ca6d944ff53200800000000000000
+      internalID: 159314032005399903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_12
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e537bc0027a740800000000000000
+      internalID: 5163130736789020834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_13
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fbc5857e135ace0800000000000000
+      internalID: -1394653639911620835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_14
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e426fc77752bfa060800000000000000
+      internalID: 6966983237307425358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_15
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 960
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94acd7355753b5a50800000000000000
+      internalID: 6510856464322382409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600814afb1d3a2920800000000000000
+      internalID: 2966250494948900870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18bfab4871d80aa0800000000000000
+      internalID: -6194470972852029414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_18
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49ae7559a81f190800000000000000
+      internalID: -7930405094792981337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad9b35f551b66dd0800000000000000
+      internalID: -2493110360958329437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_20
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96ebc6db6ede4830800000000000000
+      internalID: 4057424869053949598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_21
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cf54deb631ba060800000000000000
+      internalID: 6965682602921819156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_22
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561b639e91a0775d0800000000000000
+      internalID: -3064969914999197339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_23
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261efd00874e213a0800000000000000
+      internalID: -6696038491884625566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_24
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2257fe0a9e3d6f00800000000000000
+      internalID: 1111613514427355694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_25
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5bfba9729cb0cc0800000000000000
+      internalID: -3743677493291272795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_26
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098b574e0a21cb60800000000000000
+      internalID: 7764533473378535680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_27
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bdcff330b90e350800000000000000
+      internalID: 6044001138191948648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_28
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69afd0fb86149640800000000000000
+      internalID: 5085714669505587562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_29
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24ad511ebd1b550800000000000000
+      internalID: 6174958323882410730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_30
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984207d67fe45200800000000000000
+      internalID: 168022379811981461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_31
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d537f80c87e64640800000000000000
+      internalID: 5063989419656558039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_32
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6736456dda532d7f0800000000000000
+      internalID: -589349580490644618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_33
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a13c213820fc00800000000000000
+      internalID: 932289314525651306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_34
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2406a2f6becc9dd0800000000000000
+      internalID: -2477878409810279379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_35
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0638daf96edbd10800000000000000
+      internalID: 2143122571183481068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_36
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadb3f35028d20eb0800000000000000
+      internalID: -4755000623190786644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_37
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93e17245f0f0c3f0800000000000000
+      internalID: -882440590792203364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_38
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc237323a2feeef0800000000000000
+      internalID: -76857361130378038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_39
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 768
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0205aa468401b30800000000000000
+      internalID: 4255981245056426185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0dad9c148e52320800000000000000
+      internalID: 2532685734722851016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a85ddded28f9e1b0800000000000000
+      internalID: -5626693383274800983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_42
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba37945c1674a10800000000000000
+      internalID: 1893589668301351866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_43
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcddf012212768ce0800000000000000
+      internalID: -1403308811689665077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ed220ad34dba60800000000000000
+      internalID: 7691378342237169773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_45
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da894f966c28ab0800000000000000
+      internalID: -5007221677305058016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_46
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e889389522c38020800000000000000
+      internalID: 2342929697886275809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_47
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19901d73ccf4b8dd0800000000000000
+      internalID: -2482803031036327535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_48
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556731cadebed2990800000000000000
+      internalID: -7409006405927864747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_49
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e0cad890a35040800000000000000
+      internalID: 4635225019859919666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_50
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c1b5ed953b4c10800000000000000
+      internalID: 2038782208595052523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_51
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec7625e42957e590800000000000000
+      internalID: -7645043827439928091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_52
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91e7986829a5d9b0800000000000000
+      internalID: -5055949015634943586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_53
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d732a1cf0f6dd2ce0800000000000000
+      internalID: -1428249176296512643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_54
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e48b2cae417370800000000000000
+      internalID: 8318516488101488683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_55
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 576
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788600b7fbfdd3dd0800000000000000
+      internalID: -2504599804252755833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1711f329caf4da330800000000000000
+      internalID: 3723720069511844209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cdb4f7ee1bb26d0800000000000000
+      internalID: -3014119887698404340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f5e530c7a9121c0800000000000000
+      internalID: -4530169892734869641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_59
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9341902f4af83dd0800000000000000
+      internalID: -2505977974875929700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_60
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6012035b81a1e7f80800000000000000
+      internalID: -8107013585798946554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_61
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c19a11527835ce0800000000000000
+      internalID: -1417640864411739085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_62
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266b0e6e6fd5cb60800000000000000
+      internalID: 7765858797855925805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_63
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b81c94c2fddc40800000000000000
+      internalID: 5538850042981954207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_64
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161a25b841f9f800800000000000000
+      internalID: 646813316083750418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_65
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d1b6112131914e0800000000000000
+      internalID: -2010554790321644241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_66
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e365c246eefe490800000000000000
+      internalID: -7714685522654380385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_67
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3388a10cd34d140800000000000000
+      internalID: 4743484202816123846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_68
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa3dd71577c0b10800000000000000
+      internalID: 1949063930631662318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_69
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9851eaea7f2b8780800000000000000
+      internalID: -8679791651853346661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_70
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92704d55eeef8ac0800000000000000
+      internalID: -3850596487499058530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_71
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d5786dfe46d330800000000000000
+      internalID: 3735259791236650103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_72
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9382d7ab9b9dc0800000000000000
+      internalID: -3631137529450488892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_73
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e55b3a9ba40e200800000000000000
+      internalID: 207247744035020427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_74
+      rect:
+        serializedVersion: 2
+        x: 4266
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e4c70141aed06c0800000000000000
+      internalID: -4175423907605754356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_75
+      rect:
+        serializedVersion: 2
+        x: 4503
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31595bb01fec6c8f0800000000000000
+      internalID: -520501172235823853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_76
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd84185647e9bfe0800000000000000
+      internalID: -1172651938641834499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_77
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb776adce9c01ac20800000000000000
+      internalID: 3215865485113849790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_78
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b41077f5c656b20800000000000000
+      internalID: 3127024673552943957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_79
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 384
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5a73af76831d6d0800000000000000
+      internalID: -2967528660229708324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83457cfb90c988c20800000000000000
+      internalID: 3208986300187628600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_81
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b765ed351a8530800000000000000
+      internalID: 3857919386382217684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_82
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb803cd9df227c660800000000000000
+      internalID: 7405926584902944958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_83
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82981c66ee9cc5a20800000000000000
+      internalID: 3052536673213712680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_84
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ed5d82acd23f340800000000000000
+      internalID: 4896307566173609556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_85
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae60cfec5cbc7a70800000000000000
+      internalID: 8826136477084708519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_86
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6236c6de09616c90800000000000000
+      internalID: -7178340818598088083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_87
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc097cf09d276f80800000000000000
+      internalID: -8113466102950327116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_88
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf5af23bbd1f9cf0800000000000000
+      internalID: -243443165003358242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_89
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8d2be25ae39670800000000000000
+      internalID: 8544430559905811437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_90
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2141e7e00e3e800800000000000000
+      internalID: 640601924866151090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_91
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1f08eb75a87250800000000000000
+      internalID: 5942681659908235147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_92
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2ece793d6a33f0800000000000000
+      internalID: -920303080135840980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_93
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2600ae86f4ffa0800000000000000
+      internalID: -5767714130324214744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_94
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d013a615f0cb480800000000000000
+      internalID: -8882207522733093626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_95
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 192
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9af17a84f117560800000000000000
+      internalID: 7309658067101002235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f951b03b41566460800000000000000
+      internalID: 7234559234798606835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_97
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12566e9b2ac5cab30800000000000000
+      internalID: 4299913598205322529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_98
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0957cbab7c546e9d0800000000000000
+      internalID: -2745430198702017136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_99
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfcc4fa683ba4750800000000000000
+      internalID: 6290037220624355293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_100
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482279a29d7fb8e30800000000000000
+      internalID: 4506968364208824964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_101
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b11108faf344e0800000000000000
+      internalID: -1998477866545598048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_102
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaee2695a4e42430800000000000000
+      internalID: 3757379388974230266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_103
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec271b4ef6b37b70800000000000000
+      internalID: 8895654892284620001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_104
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06d32631834dbc90800000000000000
+      internalID: -7152486410956319220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_105
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0689fa32268ed0800000000000000
+      internalID: -2412202913720561944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_106
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefcc1902e181d770800000000000000
+      internalID: 8633824768461426666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_107
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b986d6c9ccf4c0800000000000000
+      internalID: -4252302092304535258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_108
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d425fb5f870040800000000000000
+      internalID: 4613813968381989062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_109
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0238247f144da80800000000000000
+      internalID: -8443050871184219967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Peasant_237x192_110
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 0
+        width: 237
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052974a888d38fd0800000000000000
+      internalID: -2340789299915971314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_Peasant_237x192_0: -3405269118894828208
+      Roman_Peasant_237x192_1: 9027730689193099739
+      Roman_Peasant_237x192_10: 2600048212719528870
+      Roman_Peasant_237x192_100: 4506968364208824964
+      Roman_Peasant_237x192_101: -1998477866545598048
+      Roman_Peasant_237x192_102: 3757379388974230266
+      Roman_Peasant_237x192_103: 8895654892284620001
+      Roman_Peasant_237x192_104: -7152486410956319220
+      Roman_Peasant_237x192_105: -2412202913720561944
+      Roman_Peasant_237x192_106: 8633824768461426666
+      Roman_Peasant_237x192_107: -4252302092304535258
+      Roman_Peasant_237x192_108: 4613813968381989062
+      Roman_Peasant_237x192_109: -8443050871184219967
+      Roman_Peasant_237x192_11: 159314032005399903
+      Roman_Peasant_237x192_110: -2340789299915971314
+      Roman_Peasant_237x192_12: 5163130736789020834
+      Roman_Peasant_237x192_13: -1394653639911620835
+      Roman_Peasant_237x192_14: 6966983237307425358
+      Roman_Peasant_237x192_15: 6510856464322382409
+      Roman_Peasant_237x192_16: 2966250494948900870
+      Roman_Peasant_237x192_17: -6194470972852029414
+      Roman_Peasant_237x192_18: -7930405094792981337
+      Roman_Peasant_237x192_19: -2493110360958329437
+      Roman_Peasant_237x192_2: 5086677784244900750
+      Roman_Peasant_237x192_20: 4057424869053949598
+      Roman_Peasant_237x192_21: 6965682602921819156
+      Roman_Peasant_237x192_22: -3064969914999197339
+      Roman_Peasant_237x192_23: -6696038491884625566
+      Roman_Peasant_237x192_24: 1111613514427355694
+      Roman_Peasant_237x192_25: -3743677493291272795
+      Roman_Peasant_237x192_26: 7764533473378535680
+      Roman_Peasant_237x192_27: 6044001138191948648
+      Roman_Peasant_237x192_28: 5085714669505587562
+      Roman_Peasant_237x192_29: 6174958323882410730
+      Roman_Peasant_237x192_3: 7820399617022443571
+      Roman_Peasant_237x192_30: 168022379811981461
+      Roman_Peasant_237x192_31: 5063989419656558039
+      Roman_Peasant_237x192_32: -589349580490644618
+      Roman_Peasant_237x192_33: 932289314525651306
+      Roman_Peasant_237x192_34: -2477878409810279379
+      Roman_Peasant_237x192_35: 2143122571183481068
+      Roman_Peasant_237x192_36: -4755000623190786644
+      Roman_Peasant_237x192_37: -882440590792203364
+      Roman_Peasant_237x192_38: -76857361130378038
+      Roman_Peasant_237x192_39: 4255981245056426185
+      Roman_Peasant_237x192_4: 8290923654793031306
+      Roman_Peasant_237x192_40: 2532685734722851016
+      Roman_Peasant_237x192_41: -5626693383274800983
+      Roman_Peasant_237x192_42: 1893589668301351866
+      Roman_Peasant_237x192_43: -1403308811689665077
+      Roman_Peasant_237x192_44: 7691378342237169773
+      Roman_Peasant_237x192_45: -5007221677305058016
+      Roman_Peasant_237x192_46: 2342929697886275809
+      Roman_Peasant_237x192_47: -2482803031036327535
+      Roman_Peasant_237x192_48: -7409006405927864747
+      Roman_Peasant_237x192_49: 4635225019859919666
+      Roman_Peasant_237x192_5: 4706377125144643810
+      Roman_Peasant_237x192_50: 2038782208595052523
+      Roman_Peasant_237x192_51: -7645043827439928091
+      Roman_Peasant_237x192_52: -5055949015634943586
+      Roman_Peasant_237x192_53: -1428249176296512643
+      Roman_Peasant_237x192_54: 8318516488101488683
+      Roman_Peasant_237x192_55: -2504599804252755833
+      Roman_Peasant_237x192_56: 3723720069511844209
+      Roman_Peasant_237x192_57: -3014119887698404340
+      Roman_Peasant_237x192_58: -4530169892734869641
+      Roman_Peasant_237x192_59: -2505977974875929700
+      Roman_Peasant_237x192_6: 3033729105259192933
+      Roman_Peasant_237x192_60: -8107013585798946554
+      Roman_Peasant_237x192_61: -1417640864411739085
+      Roman_Peasant_237x192_62: 7765858797855925805
+      Roman_Peasant_237x192_63: 5538850042981954207
+      Roman_Peasant_237x192_64: 646813316083750418
+      Roman_Peasant_237x192_65: -2010554790321644241
+      Roman_Peasant_237x192_66: -7714685522654380385
+      Roman_Peasant_237x192_67: 4743484202816123846
+      Roman_Peasant_237x192_68: 1949063930631662318
+      Roman_Peasant_237x192_69: -8679791651853346661
+      Roman_Peasant_237x192_7: 3678611244587930481
+      Roman_Peasant_237x192_70: -3850596487499058530
+      Roman_Peasant_237x192_71: 3735259791236650103
+      Roman_Peasant_237x192_72: -3631137529450488892
+      Roman_Peasant_237x192_73: 207247744035020427
+      Roman_Peasant_237x192_74: -4175423907605754356
+      Roman_Peasant_237x192_75: -520501172235823853
+      Roman_Peasant_237x192_76: -1172651938641834499
+      Roman_Peasant_237x192_77: 3215865485113849790
+      Roman_Peasant_237x192_78: 3127024673552943957
+      Roman_Peasant_237x192_79: -2967528660229708324
+      Roman_Peasant_237x192_8: 2155821459381713116
+      Roman_Peasant_237x192_80: 3208986300187628600
+      Roman_Peasant_237x192_81: 3857919386382217684
+      Roman_Peasant_237x192_82: 7405926584902944958
+      Roman_Peasant_237x192_83: 3052536673213712680
+      Roman_Peasant_237x192_84: 4896307566173609556
+      Roman_Peasant_237x192_85: 8826136477084708519
+      Roman_Peasant_237x192_86: -7178340818598088083
+      Roman_Peasant_237x192_87: -8113466102950327116
+      Roman_Peasant_237x192_88: -243443165003358242
+      Roman_Peasant_237x192_89: 8544430559905811437
+      Roman_Peasant_237x192_9: 4868532528628731276
+      Roman_Peasant_237x192_90: 640601924866151090
+      Roman_Peasant_237x192_91: 5942681659908235147
+      Roman_Peasant_237x192_92: -920303080135840980
+      Roman_Peasant_237x192_93: -5767714130324214744
+      Roman_Peasant_237x192_94: -8882207522733093626
+      Roman_Peasant_237x192_95: 7309658067101002235
+      Roman_Peasant_237x192_96: 7234559234798606835
+      Roman_Peasant_237x192_97: 4299913598205322529
+      Roman_Peasant_237x192_98: -2745430198702017136
+      Roman_Peasant_237x192_99: 6290037220624355293
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

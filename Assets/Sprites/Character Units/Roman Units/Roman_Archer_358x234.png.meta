@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: 45aea3962afda2448b981836d85fde35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1230481825485581615
+    second: Roman_Archer_358x234_0
+  - first:
+      213: -8819588079012556541
+    second: Roman_Archer_358x234_1
+  - first:
+      213: -4654141212815542559
+    second: Roman_Archer_358x234_2
+  - first:
+      213: -3337782732753631876
+    second: Roman_Archer_358x234_3
+  - first:
+      213: -3121015830402310395
+    second: Roman_Archer_358x234_4
+  - first:
+      213: 8997081285654657522
+    second: Roman_Archer_358x234_5
+  - first:
+      213: -4646434870021098304
+    second: Roman_Archer_358x234_6
+  - first:
+      213: 5590254334512504890
+    second: Roman_Archer_358x234_7
+  - first:
+      213: -1409195981504749042
+    second: Roman_Archer_358x234_8
+  - first:
+      213: -3287804156941219540
+    second: Roman_Archer_358x234_9
+  - first:
+      213: 6156988919843692680
+    second: Roman_Archer_358x234_10
+  - first:
+      213: -8508438253054247916
+    second: Roman_Archer_358x234_11
+  - first:
+      213: -7115053727966245619
+    second: Roman_Archer_358x234_12
+  - first:
+      213: 3740072327823047379
+    second: Roman_Archer_358x234_13
+  - first:
+      213: -6435928143025448005
+    second: Roman_Archer_358x234_14
+  - first:
+      213: 8465881579974634310
+    second: Roman_Archer_358x234_15
+  - first:
+      213: 6737859975738643979
+    second: Roman_Archer_358x234_16
+  - first:
+      213: 7870126246593523589
+    second: Roman_Archer_358x234_17
+  - first:
+      213: 990184083741457276
+    second: Roman_Archer_358x234_18
+  - first:
+      213: -6662807200576612761
+    second: Roman_Archer_358x234_19
+  - first:
+      213: -4816807805172413519
+    second: Roman_Archer_358x234_20
+  - first:
+      213: 5163132840595951405
+    second: Roman_Archer_358x234_21
+  - first:
+      213: 1253049823978535575
+    second: Roman_Archer_358x234_22
+  - first:
+      213: 5657926615217588515
+    second: Roman_Archer_358x234_23
+  - first:
+      213: 7747307514226138176
+    second: Roman_Archer_358x234_24
+  - first:
+      213: 1912232771114081817
+    second: Roman_Archer_358x234_25
+  - first:
+      213: -5059426980921123716
+    second: Roman_Archer_358x234_26
+  - first:
+      213: 7344444174549429102
+    second: Roman_Archer_358x234_27
+  - first:
+      213: 7048458332283932691
+    second: Roman_Archer_358x234_28
+  - first:
+      213: 1119930842501412086
+    second: Roman_Archer_358x234_29
+  - first:
+      213: 1815203864568232620
+    second: Roman_Archer_358x234_30
+  - first:
+      213: 1686917396695249676
+    second: Roman_Archer_358x234_31
+  - first:
+      213: -8094801818262926699
+    second: Roman_Archer_358x234_32
+  - first:
+      213: 3382305274690204944
+    second: Roman_Archer_358x234_33
+  - first:
+      213: 3576708752685077329
+    second: Roman_Archer_358x234_34
+  - first:
+      213: -6074047544311863097
+    second: Roman_Archer_358x234_35
+  - first:
+      213: -2900413982489530959
+    second: Roman_Archer_358x234_36
+  - first:
+      213: 4263097397955148651
+    second: Roman_Archer_358x234_37
+  - first:
+      213: -8347524306213308957
+    second: Roman_Archer_358x234_38
+  - first:
+      213: -6294269011828300645
+    second: Roman_Archer_358x234_39
+  - first:
+      213: -4583832975674762033
+    second: Roman_Archer_358x234_40
+  - first:
+      213: 986889749310873446
+    second: Roman_Archer_358x234_41
+  - first:
+      213: -4679207446955756310
+    second: Roman_Archer_358x234_42
+  - first:
+      213: -36999335668084521
+    second: Roman_Archer_358x234_43
+  - first:
+      213: 1427789631575561016
+    second: Roman_Archer_358x234_44
+  - first:
+      213: 5249731382651274220
+    second: Roman_Archer_358x234_45
+  - first:
+      213: -1211302970818705635
+    second: Roman_Archer_358x234_46
+  - first:
+      213: 3657219288758902123
+    second: Roman_Archer_358x234_47
+  - first:
+      213: -338218500485857052
+    second: Roman_Archer_358x234_48
+  - first:
+      213: -7144293939166713842
+    second: Roman_Archer_358x234_49
+  - first:
+      213: -1041107336390528020
+    second: Roman_Archer_358x234_50
+  - first:
+      213: 6324469821720604788
+    second: Roman_Archer_358x234_51
+  - first:
+      213: 3652331367834233755
+    second: Roman_Archer_358x234_52
+  - first:
+      213: 9008113834656601115
+    second: Roman_Archer_358x234_53
+  - first:
+      213: 1499182709345821530
+    second: Roman_Archer_358x234_54
+  - first:
+      213: 4187043093073217139
+    second: Roman_Archer_358x234_55
+  - first:
+      213: 6350177774243737558
+    second: Roman_Archer_358x234_56
+  - first:
+      213: -5385723456534308369
+    second: Roman_Archer_358x234_57
+  - first:
+      213: 612873547172732827
+    second: Roman_Archer_358x234_58
+  - first:
+      213: 6053914080058924387
+    second: Roman_Archer_358x234_59
+  - first:
+      213: -4011078822718734057
+    second: Roman_Archer_358x234_60
+  - first:
+      213: -8316808618603727773
+    second: Roman_Archer_358x234_61
+  - first:
+      213: 2245585263674058693
+    second: Roman_Archer_358x234_62
+  - first:
+      213: -4840334745513064869
+    second: Roman_Archer_358x234_63
+  - first:
+      213: 2622160977276091103
+    second: Roman_Archer_358x234_64
+  - first:
+      213: -7638851128349611443
+    second: Roman_Archer_358x234_65
+  - first:
+      213: 7185438507399268071
+    second: Roman_Archer_358x234_66
+  - first:
+      213: 4581047023206967606
+    second: Roman_Archer_358x234_67
+  - first:
+      213: 6193884916733023402
+    second: Roman_Archer_358x234_68
+  - first:
+      213: -3480253112465684977
+    second: Roman_Archer_358x234_69
+  - first:
+      213: -4876554932852462951
+    second: Roman_Archer_358x234_70
+  - first:
+      213: 8766226047538766366
+    second: Roman_Archer_358x234_71
+  - first:
+      213: 6822809493503895585
+    second: Roman_Archer_358x234_72
+  - first:
+      213: 3359027100583417620
+    second: Roman_Archer_358x234_73
+  - first:
+      213: 2305182490936046733
+    second: Roman_Archer_358x234_74
+  - first:
+      213: -6533412924937004865
+    second: Roman_Archer_358x234_75
+  - first:
+      213: -2007523326261108180
+    second: Roman_Archer_358x234_76
+  - first:
+      213: 932745927311063831
+    second: Roman_Archer_358x234_77
+  - first:
+      213: -4193727107778946464
+    second: Roman_Archer_358x234_78
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d64ae63bc831110800000000000000
+      internalID: 1230481825485581615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301df2dce578a9580800000000000000
+      internalID: -8819588079012556541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6bf93c93b296fb0800000000000000
+      internalID: -4654141212815542559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_3
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7589c4f940dda1d0800000000000000
+      internalID: -3337782732753631876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_4
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fdf7a53acefa4d0800000000000000
+      internalID: -3121015830402310395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9b2ceb2cd0cdc70800000000000000
+      internalID: 8997081285654657522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c477648a1c848fb0800000000000000
+      internalID: -4646434870021098304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_7
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30a4b4e2b2949d40800000000000000
+      internalID: 5590254334512504890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_8
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02608798b7817ce0800000000000000
+      internalID: -1409195981504749042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29477ee98f5f52d0800000000000000
+      internalID: -3287804156941219540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_10
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ac4d2dc4027550800000000000000
+      internalID: 6156988919843692680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_11
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3b5d0d74fbe980800000000000000
+      internalID: -8508438253054247916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_12
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc0c2e450424d90800000000000000
+      internalID: -7115053727966245619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_13
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da392667f767e330800000000000000
+      internalID: 3740072327823047379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_14
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5703f37dfea6a0800000000000000
+      internalID: -6435928143025448005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_15
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b29ec517adc7570800000000000000
+      internalID: 8465881579974634310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_16
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06593003ffa18d50800000000000000
+      internalID: 6737859975738643979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_17
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f6fa1af1e483d60800000000000000
+      internalID: 7870126246593523589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_18
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb7ad8d27ddbd00800000000000000
+      internalID: 990184083741457276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_19
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76657b2f624f883a0800000000000000
+      internalID: -6662807200576612761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_20
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb8e5d52d2472db0800000000000000
+      internalID: -4816807805172413519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_21
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f00eb86f127a740800000000000000
+      internalID: 5163132840595951405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_22
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a3b1c0d2ab36110800000000000000
+      internalID: 1253049823978535575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_23
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 702
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329c541974ef48e40800000000000000
+      internalID: 5657926615217588515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cd92f1327f38b60800000000000000
+      internalID: 7747307514226138176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9d1ae29d998a10800000000000000
+      internalID: 1912232771114081817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_26
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5b2387fd49c9b0800000000000000
+      internalID: -5059426980921123716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_27
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ba4b07015bce560800000000000000
+      internalID: 7344444174549429102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_28
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101de5428721d160800000000000000
+      internalID: 7048458332283932691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_29
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4fc48ea2bca8f00800000000000000
+      internalID: 1119930842501412086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_30
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa71862c46e03910800000000000000
+      internalID: 1815203864568232620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_31
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0372734f62296710800000000000000
+      internalID: 1686917396695249676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_32
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a804762ac79af80800000000000000
+      internalID: -8094801818262926699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_33
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f6d32abc50fe20800000000000000
+      internalID: 3382305274690204944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_34
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15313dc09a503a130800000000000000
+      internalID: 3576708752685077329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_35
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8257ca0f5a4bba0800000000000000
+      internalID: -6074047544311863097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_36
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bda22899d8afb7d0800000000000000
+      internalID: -2900413982489530959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_37
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b32002f70992b30800000000000000
+      internalID: 4263097397955148651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_38
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5773eded2a72c80800000000000000
+      internalID: -8347524306213308957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_39
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 468
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94a935aea346a8a0800000000000000
+      internalID: -6294269011828300645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1f2fd134f260c0800000000000000
+      internalID: -4583832975674762033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f162c8ff222bd00800000000000000
+      internalID: 986889749310873446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_42
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f6d55e9d101fb0800000000000000
+      internalID: -4679207446955756310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_43
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0149cdc4d8c7ff0800000000000000
+      internalID: -36999335668084521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_44
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8331c0cea1780d310800000000000000
+      internalID: 1427789631575561016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_45
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce34625d0eacad840800000000000000
+      internalID: 5249731382651274220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_46
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c9f4ad56903fe0800000000000000
+      internalID: -1211302970818705635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_47
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5e2cf09d01c230800000000000000
+      internalID: 3657219288758902123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_48
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04316d0186e4bf0800000000000000
+      internalID: -338218500485857052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_49
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08edf0b38e5adc90800000000000000
+      internalID: -7144293939166713842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_50
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3b361c46e3d81f0800000000000000
+      internalID: -1041107336390528020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_51
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b55c5bc705c750800000000000000
+      internalID: 6324469821720604788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_52
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba6c53700bfa230800000000000000
+      internalID: 3652331367834233755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_53
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b141dfa3ecf330d70800000000000000
+      internalID: 9008113834656601115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_54
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5327fb2bba2ec410800000000000000
+      internalID: 1499182709345821530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_55
+      rect:
+        serializedVersion: 2
+        x: 5370
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c1ed528d5b1a30800000000000000
+      internalID: 4187043093073217139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_56
+      rect:
+        serializedVersion: 2
+        x: 5728
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe06e7a0d502850800000000000000
+      internalID: 6350177774243737558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_57
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe998c21d011245b0800000000000000
+      internalID: -5385723456534308369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_58
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd6777e3d518800800000000000000
+      internalID: 612873547172732827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_59
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd5a2e7c2d30450800000000000000
+      internalID: 6053914080058924387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_60
+      rect:
+        serializedVersion: 2
+        x: 7160
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71102c5ff09c558c0800000000000000
+      internalID: -4011078822718734057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_61
+      rect:
+        serializedVersion: 2
+        x: 7518
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364b73f20a2c49c80800000000000000
+      internalID: -8316808618603727773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_62
+      rect:
+        serializedVersion: 2
+        x: 7876
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e42256ebe92f10800000000000000
+      internalID: 2245585263674058693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_63
+      rect:
+        serializedVersion: 2
+        x: 8234
+        y: 234
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5686b3b13da3dcb0800000000000000
+      internalID: -4840334745513064869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdabe6a1489c36420800000000000000
+      internalID: 2622160977276091103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_65
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a21a20f595df590800000000000000
+      internalID: -7638851128349611443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_66
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e642fc904ec7b360800000000000000
+      internalID: 7185438507399268071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_67
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ac950ff5239f30800000000000000
+      internalID: 4581047023206967606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_68
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa49581e38915f550800000000000000
+      internalID: 6193884916733023402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_69
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06090fbb38a3bfc0800000000000000
+      internalID: -3480253112465684977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_70
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a66ab202ff25cb0800000000000000
+      internalID: -4876554932852462951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_71
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1223501524e7a970800000000000000
+      internalID: 8766226047538766366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_72
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286676e51d7fae50800000000000000
+      internalID: 6822809493503895585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_73
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4175f21e959ad9e20800000000000000
+      internalID: 3359027100583417620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_74
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8471ba1347adff10800000000000000
+      internalID: 2305182490936046733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_75
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81f2e6f87a455a0800000000000000
+      internalID: -6533412924937004865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_76
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2265ebcb28d324e0800000000000000
+      internalID: -2007523326261108180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_77
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b711f9a77c1fc00800000000000000
+      internalID: 932745927311063831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roman_Archer_358x234_78
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad8ef2a63ecc5c0800000000000000
+      internalID: -4193727107778946464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Roman_Archer_358x234_0: 1230481825485581615
+      Roman_Archer_358x234_1: -8819588079012556541
+      Roman_Archer_358x234_10: 6156988919843692680
+      Roman_Archer_358x234_11: -8508438253054247916
+      Roman_Archer_358x234_12: -7115053727966245619
+      Roman_Archer_358x234_13: 3740072327823047379
+      Roman_Archer_358x234_14: -6435928143025448005
+      Roman_Archer_358x234_15: 8465881579974634310
+      Roman_Archer_358x234_16: 6737859975738643979
+      Roman_Archer_358x234_17: 7870126246593523589
+      Roman_Archer_358x234_18: 990184083741457276
+      Roman_Archer_358x234_19: -6662807200576612761
+      Roman_Archer_358x234_2: -4654141212815542559
+      Roman_Archer_358x234_20: -4816807805172413519
+      Roman_Archer_358x234_21: 5163132840595951405
+      Roman_Archer_358x234_22: 1253049823978535575
+      Roman_Archer_358x234_23: 5657926615217588515
+      Roman_Archer_358x234_24: 7747307514226138176
+      Roman_Archer_358x234_25: 1912232771114081817
+      Roman_Archer_358x234_26: -5059426980921123716
+      Roman_Archer_358x234_27: 7344444174549429102
+      Roman_Archer_358x234_28: 7048458332283932691
+      Roman_Archer_358x234_29: 1119930842501412086
+      Roman_Archer_358x234_3: -3337782732753631876
+      Roman_Archer_358x234_30: 1815203864568232620
+      Roman_Archer_358x234_31: 1686917396695249676
+      Roman_Archer_358x234_32: -8094801818262926699
+      Roman_Archer_358x234_33: 3382305274690204944
+      Roman_Archer_358x234_34: 3576708752685077329
+      Roman_Archer_358x234_35: -6074047544311863097
+      Roman_Archer_358x234_36: -2900413982489530959
+      Roman_Archer_358x234_37: 4263097397955148651
+      Roman_Archer_358x234_38: -8347524306213308957
+      Roman_Archer_358x234_39: -6294269011828300645
+      Roman_Archer_358x234_4: -3121015830402310395
+      Roman_Archer_358x234_40: -4583832975674762033
+      Roman_Archer_358x234_41: 986889749310873446
+      Roman_Archer_358x234_42: -4679207446955756310
+      Roman_Archer_358x234_43: -36999335668084521
+      Roman_Archer_358x234_44: 1427789631575561016
+      Roman_Archer_358x234_45: 5249731382651274220
+      Roman_Archer_358x234_46: -1211302970818705635
+      Roman_Archer_358x234_47: 3657219288758902123
+      Roman_Archer_358x234_48: -338218500485857052
+      Roman_Archer_358x234_49: -7144293939166713842
+      Roman_Archer_358x234_5: 8997081285654657522
+      Roman_Archer_358x234_50: -1041107336390528020
+      Roman_Archer_358x234_51: 6324469821720604788
+      Roman_Archer_358x234_52: 3652331367834233755
+      Roman_Archer_358x234_53: 9008113834656601115
+      Roman_Archer_358x234_54: 1499182709345821530
+      Roman_Archer_358x234_55: 4187043093073217139
+      Roman_Archer_358x234_56: 6350177774243737558
+      Roman_Archer_358x234_57: -5385723456534308369
+      Roman_Archer_358x234_58: 612873547172732827
+      Roman_Archer_358x234_59: 6053914080058924387
+      Roman_Archer_358x234_6: -4646434870021098304
+      Roman_Archer_358x234_60: -4011078822718734057
+      Roman_Archer_358x234_61: -8316808618603727773
+      Roman_Archer_358x234_62: 2245585263674058693
+      Roman_Archer_358x234_63: -4840334745513064869
+      Roman_Archer_358x234_64: 2622160977276091103
+      Roman_Archer_358x234_65: -7638851128349611443
+      Roman_Archer_358x234_66: 7185438507399268071
+      Roman_Archer_358x234_67: 4581047023206967606
+      Roman_Archer_358x234_68: 6193884916733023402
+      Roman_Archer_358x234_69: -3480253112465684977
+      Roman_Archer_358x234_7: 5590254334512504890
+      Roman_Archer_358x234_70: -4876554932852462951
+      Roman_Archer_358x234_71: 8766226047538766366
+      Roman_Archer_358x234_72: 6822809493503895585
+      Roman_Archer_358x234_73: 3359027100583417620
+      Roman_Archer_358x234_74: 2305182490936046733
+      Roman_Archer_358x234_75: -6533412924937004865
+      Roman_Archer_358x234_76: -2007523326261108180
+      Roman_Archer_358x234_77: 932745927311063831
+      Roman_Archer_358x234_78: -4193727107778946464
+      Roman_Archer_358x234_8: -1409195981504749042
+      Roman_Archer_358x234_9: -3287804156941219540
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

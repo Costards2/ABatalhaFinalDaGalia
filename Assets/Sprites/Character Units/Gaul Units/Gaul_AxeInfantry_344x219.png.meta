@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: 41b19f8485ff950488a1b6a9f906226f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2852092757122076326
+    second: Gaul_AxeInfantry_344x219_0
+  - first:
+      213: 6756862712235229141
+    second: Gaul_AxeInfantry_344x219_1
+  - first:
+      213: 3650721995567378308
+    second: Gaul_AxeInfantry_344x219_2
+  - first:
+      213: -5640661472461016855
+    second: Gaul_AxeInfantry_344x219_3
+  - first:
+      213: 2911085165740979003
+    second: Gaul_AxeInfantry_344x219_4
+  - first:
+      213: -6776122820354491422
+    second: Gaul_AxeInfantry_344x219_5
+  - first:
+      213: -6148384544317949391
+    second: Gaul_AxeInfantry_344x219_6
+  - first:
+      213: -7015776511910141639
+    second: Gaul_AxeInfantry_344x219_7
+  - first:
+      213: -7044037788678882812
+    second: Gaul_AxeInfantry_344x219_8
+  - first:
+      213: -9189370595462593364
+    second: Gaul_AxeInfantry_344x219_9
+  - first:
+      213: 9082878187083898009
+    second: Gaul_AxeInfantry_344x219_10
+  - first:
+      213: 778076023794255077
+    second: Gaul_AxeInfantry_344x219_11
+  - first:
+      213: -4833327665822620165
+    second: Gaul_AxeInfantry_344x219_12
+  - first:
+      213: -759835991726850889
+    second: Gaul_AxeInfantry_344x219_13
+  - first:
+      213: 4724771608201239403
+    second: Gaul_AxeInfantry_344x219_14
+  - first:
+      213: 3665669085368219387
+    second: Gaul_AxeInfantry_344x219_15
+  - first:
+      213: 1503422827727654391
+    second: Gaul_AxeInfantry_344x219_16
+  - first:
+      213: -3268317611463045291
+    second: Gaul_AxeInfantry_344x219_17
+  - first:
+      213: -3098453228477508261
+    second: Gaul_AxeInfantry_344x219_18
+  - first:
+      213: 8602844439686320632
+    second: Gaul_AxeInfantry_344x219_19
+  - first:
+      213: -6500246378928482801
+    second: Gaul_AxeInfantry_344x219_20
+  - first:
+      213: 8904682592915568353
+    second: Gaul_AxeInfantry_344x219_21
+  - first:
+      213: -8801128339711323672
+    second: Gaul_AxeInfantry_344x219_22
+  - first:
+      213: -1971103570815993295
+    second: Gaul_AxeInfantry_344x219_23
+  - first:
+      213: -417755336624081128
+    second: Gaul_AxeInfantry_344x219_24
+  - first:
+      213: 582960880047793212
+    second: Gaul_AxeInfantry_344x219_25
+  - first:
+      213: -1501311867388596591
+    second: Gaul_AxeInfantry_344x219_26
+  - first:
+      213: 659488261705572405
+    second: Gaul_AxeInfantry_344x219_27
+  - first:
+      213: 8080437371681295990
+    second: Gaul_AxeInfantry_344x219_28
+  - first:
+      213: -4827572531770459266
+    second: Gaul_AxeInfantry_344x219_29
+  - first:
+      213: 5239379517114393653
+    second: Gaul_AxeInfantry_344x219_30
+  - first:
+      213: 1985721355325109527
+    second: Gaul_AxeInfantry_344x219_31
+  - first:
+      213: 5072104776223356598
+    second: Gaul_AxeInfantry_344x219_32
+  - first:
+      213: -4483555508698165348
+    second: Gaul_AxeInfantry_344x219_33
+  - first:
+      213: -5447067337694018063
+    second: Gaul_AxeInfantry_344x219_34
+  - first:
+      213: -1858410196568112969
+    second: Gaul_AxeInfantry_344x219_35
+  - first:
+      213: -1359320935033946845
+    second: Gaul_AxeInfantry_344x219_36
+  - first:
+      213: -1951513951855930564
+    second: Gaul_AxeInfantry_344x219_37
+  - first:
+      213: 143372340302721270
+    second: Gaul_AxeInfantry_344x219_38
+  - first:
+      213: 7237158180320777222
+    second: Gaul_AxeInfantry_344x219_39
+  - first:
+      213: -6554520224829201336
+    second: Gaul_AxeInfantry_344x219_40
+  - first:
+      213: 2090265560870461266
+    second: Gaul_AxeInfantry_344x219_41
+  - first:
+      213: -3864735526148891078
+    second: Gaul_AxeInfantry_344x219_42
+  - first:
+      213: -174144768547525146
+    second: Gaul_AxeInfantry_344x219_43
+  - first:
+      213: 4720315886907393817
+    second: Gaul_AxeInfantry_344x219_44
+  - first:
+      213: -254719820979635245
+    second: Gaul_AxeInfantry_344x219_45
+  - first:
+      213: 7272470562422760920
+    second: Gaul_AxeInfantry_344x219_46
+  - first:
+      213: -8310059631761598802
+    second: Gaul_AxeInfantry_344x219_47
+  - first:
+      213: 2793121473776194627
+    second: Gaul_AxeInfantry_344x219_48
+  - first:
+      213: 770477296288456877
+    second: Gaul_AxeInfantry_344x219_49
+  - first:
+      213: 4370962100865075360
+    second: Gaul_AxeInfantry_344x219_50
+  - first:
+      213: 2478162953366177411
+    second: Gaul_AxeInfantry_344x219_51
+  - first:
+      213: 3352040457566412322
+    second: Gaul_AxeInfantry_344x219_52
+  - first:
+      213: -1335561659943950284
+    second: Gaul_AxeInfantry_344x219_53
+  - first:
+      213: 8546704633097679508
+    second: Gaul_AxeInfantry_344x219_54
+  - first:
+      213: -3169825704934071098
+    second: Gaul_AxeInfantry_344x219_55
+  - first:
+      213: -4449642658648571875
+    second: Gaul_AxeInfantry_344x219_56
+  - first:
+      213: 9158824663232384386
+    second: Gaul_AxeInfantry_344x219_57
+  - first:
+      213: -5457466835785359571
+    second: Gaul_AxeInfantry_344x219_58
+  - first:
+      213: -4196126542291237118
+    second: Gaul_AxeInfantry_344x219_59
+  - first:
+      213: 7711888845440737734
+    second: Gaul_AxeInfantry_344x219_60
+  - first:
+      213: 5315261028629091157
+    second: Gaul_AxeInfantry_344x219_61
+  - first:
+      213: -6444301540198833163
+    second: Gaul_AxeInfantry_344x219_62
+  - first:
+      213: 6119811077126204639
+    second: Gaul_AxeInfantry_344x219_63
+  - first:
+      213: -5589473851691765150
+    second: Gaul_AxeInfantry_344x219_64
+  - first:
+      213: 4706694722945594141
+    second: Gaul_AxeInfantry_344x219_65
+  - first:
+      213: 5461432963387324390
+    second: Gaul_AxeInfantry_344x219_66
+  - first:
+      213: -8151761128372113055
+    second: Gaul_AxeInfantry_344x219_67
+  - first:
+      213: 7471194235812291308
+    second: Gaul_AxeInfantry_344x219_68
+  - first:
+      213: 4707606264748942923
+    second: Gaul_AxeInfantry_344x219_69
+  - first:
+      213: 8449579162488423092
+    second: Gaul_AxeInfantry_344x219_70
+  - first:
+      213: -7177455306238130191
+    second: Gaul_AxeInfantry_344x219_71
+  - first:
+      213: -1158473751561426893
+    second: Gaul_AxeInfantry_344x219_72
+  - first:
+      213: 8988918499786875772
+    second: Gaul_AxeInfantry_344x219_73
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aec9b6604ba49720800000000000000
+      internalID: 2852092757122076326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dffcde56d235cd50800000000000000
+      internalID: 6756862712235229141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_2
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48faf770058f9a230800000000000000
+      internalID: 3650721995567378308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0babbb64858b1b0800000000000000
+      internalID: -5640661472461016855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3376eed880466820800000000000000
+      internalID: 2911085165740979003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_5
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb3a52423066f1a0800000000000000
+      internalID: -6776122820354491422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_6
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3d6d15dc8caaa0800000000000000
+      internalID: -6148384544317949391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_7
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93121100f64f2ae90800000000000000
+      internalID: -7015776511910141639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_8
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40afd5db3fc8e3e90800000000000000
+      internalID: -7044037788678882812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_9
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4480c712cc87080800000000000000
+      internalID: -9189370595462593364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_10
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9747869ddc0e70800000000000000
+      internalID: 9082878187083898009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_11
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4418e65084cca00800000000000000
+      internalID: 778076023794255077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_12
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5239398129cecb0800000000000000
+      internalID: -4833327665822620165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_13
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc7099f0358475f0800000000000000
+      internalID: -759835991726850889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_14
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b9fa7aeb2c19140800000000000000
+      internalID: 4724771608201239403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_15
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f0819c921fd230800000000000000
+      internalID: 3665669085368219387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_16
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd8be9a81b3dd410800000000000000
+      internalID: 1503422827727654391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_17
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f879bd27a94a2d0800000000000000
+      internalID: -3268317611463045291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_18
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 657
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b559f6b74351005d0800000000000000
+      internalID: -3098453228477508261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f192752071736770800000000000000
+      internalID: 8602844439686320632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d27fab5c7ac5a0800000000000000
+      internalID: -6500246378928482801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e63654a3a9c39b70800000000000000
+      internalID: 8904682592915568353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e112e8c76c1cd580800000000000000
+      internalID: -8801128339711323672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_23
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3206eebb35a4e0800000000000000
+      internalID: -1971103570815993295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_24
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8177f751cb5d33af0800000000000000
+      internalID: -417755336624081128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_25
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34a23de4d7171800800000000000000
+      internalID: 582960880047793212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_26
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e69379fc44a2be0800000000000000
+      internalID: -1501311867388596591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_27
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53020847419f62900800000000000000
+      internalID: 659488261705572405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_28
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ecad04afa732070800000000000000
+      internalID: 8080437371681295990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_29
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b73642c54010db0800000000000000
+      internalID: -4827572531770459266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_30
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534af0159e306b840800000000000000
+      internalID: 5239379517114393653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_31
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7157f074d03be8b10800000000000000
+      internalID: 1985721355325109527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_32
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6fa5abb6cb36640800000000000000
+      internalID: 5072104776223356598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_33
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fcc4d050637c1c0800000000000000
+      internalID: -4483555508698165348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_34
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 438
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f58d1dbd112864b0800000000000000
+      internalID: -5447067337694018063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b00892c5c99536e0800000000000000
+      internalID: -1858410196568112969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbc83cfc8b22de0800000000000000
+      internalID: -1359320935033946845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_37
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33986d7664dae4e0800000000000000
+      internalID: -1951513951855930564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_38
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f03c56426c5df100800000000000000
+      internalID: 143372340302721270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_39
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6041559550d8f6460800000000000000
+      internalID: 7237158180320777222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_40
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84421f5359aa905a0800000000000000
+      internalID: -6554520224829201336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_41
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f9ae1f37d120d10800000000000000
+      internalID: 2090265560870461266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_42
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e1015e383bd5ac0800000000000000
+      internalID: -3864735526148891078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed6b337140559df0800000000000000
+      internalID: -174144768547525146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_44
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9178fb23a4ee18140800000000000000
+      internalID: 4720315886907393817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_45
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf1412cad077cf0800000000000000
+      internalID: -254719820979635245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_46
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a1b002710de460800000000000000
+      internalID: 7272470562422760920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_47
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea659822bccbcac80800000000000000
+      internalID: -8310059631761598802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_48
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34412fa8e2923c620800000000000000
+      internalID: 2793121473776194627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_49
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0e6c0d40941ba00800000000000000
+      internalID: 770477296288456877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_50
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a802c45fd6c8ac30800000000000000
+      internalID: 4370962100865075360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_51
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868ce28314346220800000000000000
+      internalID: 2478162953366177411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_52
+      rect:
+        serializedVersion: 2
+        x: 5848
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22edbf94907d48e20800000000000000
+      internalID: 3352040457566412322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_53
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438e8631fb1277de0800000000000000
+      internalID: -1335561659943950284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_54
+      rect:
+        serializedVersion: 2
+        x: 6536
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f8f7d49efb9670800000000000000
+      internalID: 8546704633097679508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_55
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4a089d0548204d0800000000000000
+      internalID: -3169825704934071098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_56
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10c3d1c391bf32c0800000000000000
+      internalID: -4449642658648571875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_57
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d8d04718eaa1f70800000000000000
+      internalID: 9158824663232384386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_58
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 219
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fd987e3de2344b0800000000000000
+      internalID: -5457466835785359571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207842e442d54c5c0800000000000000
+      internalID: -4196126542291237118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1eacbab02260b60800000000000000
+      internalID: 7711888845440737734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_61
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5531aeb7eb993c940800000000000000
+      internalID: 5315261028629091157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_62
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f322fe74ed3196a0800000000000000
+      internalID: -6444301540198833163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_63
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcab9020cfede450800000000000000
+      internalID: 6119811077126204639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_64
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f39c65233e62b0800000000000000
+      internalID: -5589473851691765150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_65
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b063d9e9815140800000000000000
+      internalID: 4706694722945594141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_66
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e77f432858eacb40800000000000000
+      internalID: 5461432963387324390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_67
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161fa8191702fde80800000000000000
+      internalID: -8151761128372113055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_68
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2a989c2930fa760800000000000000
+      internalID: 7471194235812291308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_69
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a3c0b4f6c45140800000000000000
+      internalID: 4707606264748942923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_70
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24aa10b7fe24570800000000000000
+      internalID: 8449579162488423092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_71
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70f604d6e846c90800000000000000
+      internalID: -7177455306238130191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_72
+      rect:
+        serializedVersion: 2
+        x: 4472
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382194c2464cefe0800000000000000
+      internalID: -1158473751561426893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gaul_AxeInfantry_344x219_73
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 0
+        width: 344
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ebbe00cd0fbc70800000000000000
+      internalID: 8988918499786875772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gaul_AxeInfantry_344x219_0: 2852092757122076326
+      Gaul_AxeInfantry_344x219_1: 6756862712235229141
+      Gaul_AxeInfantry_344x219_10: 9082878187083898009
+      Gaul_AxeInfantry_344x219_11: 778076023794255077
+      Gaul_AxeInfantry_344x219_12: -4833327665822620165
+      Gaul_AxeInfantry_344x219_13: -759835991726850889
+      Gaul_AxeInfantry_344x219_14: 4724771608201239403
+      Gaul_AxeInfantry_344x219_15: 3665669085368219387
+      Gaul_AxeInfantry_344x219_16: 1503422827727654391
+      Gaul_AxeInfantry_344x219_17: -3268317611463045291
+      Gaul_AxeInfantry_344x219_18: -3098453228477508261
+      Gaul_AxeInfantry_344x219_19: 8602844439686320632
+      Gaul_AxeInfantry_344x219_2: 3650721995567378308
+      Gaul_AxeInfantry_344x219_20: -6500246378928482801
+      Gaul_AxeInfantry_344x219_21: 8904682592915568353
+      Gaul_AxeInfantry_344x219_22: -8801128339711323672
+      Gaul_AxeInfantry_344x219_23: -1971103570815993295
+      Gaul_AxeInfantry_344x219_24: -417755336624081128
+      Gaul_AxeInfantry_344x219_25: 582960880047793212
+      Gaul_AxeInfantry_344x219_26: -1501311867388596591
+      Gaul_AxeInfantry_344x219_27: 659488261705572405
+      Gaul_AxeInfantry_344x219_28: 8080437371681295990
+      Gaul_AxeInfantry_344x219_29: -4827572531770459266
+      Gaul_AxeInfantry_344x219_3: -5640661472461016855
+      Gaul_AxeInfantry_344x219_30: 5239379517114393653
+      Gaul_AxeInfantry_344x219_31: 1985721355325109527
+      Gaul_AxeInfantry_344x219_32: 5072104776223356598
+      Gaul_AxeInfantry_344x219_33: -4483555508698165348
+      Gaul_AxeInfantry_344x219_34: -5447067337694018063
+      Gaul_AxeInfantry_344x219_35: -1858410196568112969
+      Gaul_AxeInfantry_344x219_36: -1359320935033946845
+      Gaul_AxeInfantry_344x219_37: -1951513951855930564
+      Gaul_AxeInfantry_344x219_38: 143372340302721270
+      Gaul_AxeInfantry_344x219_39: 7237158180320777222
+      Gaul_AxeInfantry_344x219_4: 2911085165740979003
+      Gaul_AxeInfantry_344x219_40: -6554520224829201336
+      Gaul_AxeInfantry_344x219_41: 2090265560870461266
+      Gaul_AxeInfantry_344x219_42: -3864735526148891078
+      Gaul_AxeInfantry_344x219_43: -174144768547525146
+      Gaul_AxeInfantry_344x219_44: 4720315886907393817
+      Gaul_AxeInfantry_344x219_45: -254719820979635245
+      Gaul_AxeInfantry_344x219_46: 7272470562422760920
+      Gaul_AxeInfantry_344x219_47: -8310059631761598802
+      Gaul_AxeInfantry_344x219_48: 2793121473776194627
+      Gaul_AxeInfantry_344x219_49: 770477296288456877
+      Gaul_AxeInfantry_344x219_5: -6776122820354491422
+      Gaul_AxeInfantry_344x219_50: 4370962100865075360
+      Gaul_AxeInfantry_344x219_51: 2478162953366177411
+      Gaul_AxeInfantry_344x219_52: 3352040457566412322
+      Gaul_AxeInfantry_344x219_53: -1335561659943950284
+      Gaul_AxeInfantry_344x219_54: 8546704633097679508
+      Gaul_AxeInfantry_344x219_55: -3169825704934071098
+      Gaul_AxeInfantry_344x219_56: -4449642658648571875
+      Gaul_AxeInfantry_344x219_57: 9158824663232384386
+      Gaul_AxeInfantry_344x219_58: -5457466835785359571
+      Gaul_AxeInfantry_344x219_59: -4196126542291237118
+      Gaul_AxeInfantry_344x219_6: -6148384544317949391
+      Gaul_AxeInfantry_344x219_60: 7711888845440737734
+      Gaul_AxeInfantry_344x219_61: 5315261028629091157
+      Gaul_AxeInfantry_344x219_62: -6444301540198833163
+      Gaul_AxeInfantry_344x219_63: 6119811077126204639
+      Gaul_AxeInfantry_344x219_64: -5589473851691765150
+      Gaul_AxeInfantry_344x219_65: 4706694722945594141
+      Gaul_AxeInfantry_344x219_66: 5461432963387324390
+      Gaul_AxeInfantry_344x219_67: -8151761128372113055
+      Gaul_AxeInfantry_344x219_68: 7471194235812291308
+      Gaul_AxeInfantry_344x219_69: 4707606264748942923
+      Gaul_AxeInfantry_344x219_7: -7015776511910141639
+      Gaul_AxeInfantry_344x219_70: 8449579162488423092
+      Gaul_AxeInfantry_344x219_71: -7177455306238130191
+      Gaul_AxeInfantry_344x219_72: -1158473751561426893
+      Gaul_AxeInfantry_344x219_73: 8988918499786875772
+      Gaul_AxeInfantry_344x219_8: -7044037788678882812
+      Gaul_AxeInfantry_344x219_9: -9189370595462593364
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
