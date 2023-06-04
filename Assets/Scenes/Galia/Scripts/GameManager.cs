@@ -7,12 +7,15 @@ public class GameManager : MonoBehaviour
 {
     //[SerializeField] private GameObject
     public GameObject player;
-    public bool dead; 
+    //public GameObject derrota;
+    public bool dead;
+    public GameObject hist; 
 
     private void Start()
     {
         Cursor.visible = false;
         //dead = player.GetComponent<Life>().dead;
+        //Time.timeScale = 0f;
     }
 
     private void Update()
@@ -23,6 +26,7 @@ public class GameManager : MonoBehaviour
             Debug.LogError("Jogador esta morto!");
             //Time.timeScale = 0f;
             //painelMenuInicial.SetActive(false);
+            //derrota.SetActive(true);
             
         }
 
@@ -30,5 +34,12 @@ public class GameManager : MonoBehaviour
         {
             Cursor.visible = true;
         }
+    }
+
+    public void Play()
+    {
+        //Time.timeScale = 1f;
+        //hist.SetActive(false);
+        //Cursor.visible = false;
     }
 }

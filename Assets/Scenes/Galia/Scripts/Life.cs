@@ -10,6 +10,7 @@ public class Life : MonoBehaviour
     private bool isDying = false;
     //private bool pronto = false;
     public GameObject scriptmove;
+    public GameObject derrota;
 
 
     void Start()
@@ -38,9 +39,12 @@ public class Life : MonoBehaviour
 
         animator.SetTrigger("Death");
 
+
         yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
         scriptmove = GameObject.Find("GaulCavalryArcher");
         scriptmove.GetComponent<MovePlayer>().enabled = false;
+
+        derrota.SetActive(true);
 
         isDying = false;
         //dead = true;

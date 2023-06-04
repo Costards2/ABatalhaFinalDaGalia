@@ -67,6 +67,11 @@ public class Enemy : MonoBehaviour
             animator.SetBool("Atacando", true);
             Debug.Log("Inimigo atingiu o jogador!"); 
         }
+
+        if (collision.gameObject.CompareTag("Flecha"))
+        {
+            StartCoroutine(Die());
+        }
     }
 
     void OnCollisionExit2D(Collision2D collision)
@@ -78,5 +83,13 @@ public class Enemy : MonoBehaviour
             chaseSpeed = 3f;
             animator.SetBool("Atacando", false);
         }
+    }
+
+    IEnumerator Die()
+    {
+        animator.SetBool("Die", true);
+        yield return new WaitForSeconds(0.3f);
+        Destroy(gameObject);
+
     }
 }

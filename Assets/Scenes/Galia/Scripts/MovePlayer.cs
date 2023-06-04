@@ -7,6 +7,11 @@ public class MovePlayer : MonoBehaviour
     private Rigidbody2D rb;
     private Vector3 direita;
     private Vector3 esquerda;
+    public GameObject bulletPrefab;
+    public Transform shootingPoint;
+    private bool m_FacingRight = true;
+    public float fireRate;
+    float nextFire; 
 
     void Start()
     {
@@ -14,6 +19,7 @@ public class MovePlayer : MonoBehaviour
         direita = transform.localScale;
         esquerda = transform.localScale;
         esquerda.x = esquerda.x * -1;
+
     }
 
     void Update()
@@ -24,16 +30,19 @@ public class MovePlayer : MonoBehaviour
         float horizontal = Input.GetAxis("Horizontal");
         transform.position += new Vector3(horizontal, 0, 0) * Time.deltaTime * speed;
 
-        if (horizontal > 0)
+        if (horizontal > 0 && !m_FacingRight)
         {
-            transform.localScale = direita;
+          
+            Flip();
         }
-        if (horizontal < 0)
+        
+        else if (horizontal < 0 && m_FacingRight)
         {
-            transform.localScale = esquerda;
+            
+            Flip();
         }
 
-        if(Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
         {
         
             animator.SetBool("IsRunning", true);
@@ -48,7 +57,7 @@ public class MovePlayer : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
         {
 
-            animator.SetBool("Atack", true);
+            Shoot();
 
         }
 
@@ -69,7 +78,21 @@ public class MovePlayer : MonoBehaviour
             animator.SetBool("Atack&Run", false);
         }
 
+        void Shoot()
+        {
+            if(Time.time > nextFire)
+            {
+                nextFire = Time.time + fireRate; 
+                shootingPoint.rotation = gameObject.transform.rotation;
+                Instantiate(bulletPrefab, shootingPoint.transform.position, shootingPoint.rotation);
+            }
+        }
 
+        void Flip()
+        {
+            m_FacingRight = !m_FacingRight;
 
+            transform.Rotate(0f, 180f, 0f);
+        }
     }
 }
