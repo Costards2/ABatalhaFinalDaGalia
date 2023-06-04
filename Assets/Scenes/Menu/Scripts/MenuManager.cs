@@ -7,6 +7,9 @@ using UnityEngine.SceneManagement;
 public class MenuManager : MonoBehaviour
 {
     [SerializeField] private GameObject painelMenuInicial;
+    [SerializeField] private GameObject painelPlay;
+    [SerializeField] private GameObject painelControles; 
+
 
     public void MainMenu()
     {
@@ -26,7 +29,13 @@ public class MenuManager : MonoBehaviour
     public void Jogar()
     {
         //painelMenuInicial.SetActive(false);
-        //painelMenuSecundario.SetActive(true);
+        painelPlay.SetActive(true);
+    }
+
+    public void Controles()
+    {
+        //painelMenuInicial.SetActive(false);
+        painelControles.SetActive(true);
     }
 
     public void Sair()

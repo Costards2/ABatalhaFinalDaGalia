@@ -44,8 +44,32 @@ public class MovePlayer : MonoBehaviour
         {
             animator.SetBool("IsRunning", false);
         }
-           
-        
+
+        if (Input.GetMouseButtonDown(0))
+        {
+
+            animator.SetBool("Atack", true);
+
+        }
+
+        else
+        {
+            animator.SetBool("Atack", false);
+        }
+
+        if (Input.GetMouseButtonDown(0) && (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D)))
+        {
+
+            animator.SetBool("Atack&Run", true);
+
+        }
+
+        else
+        {
+            animator.SetBool("Atack&Run", false);
+        }
+
+
 
     }
 }
