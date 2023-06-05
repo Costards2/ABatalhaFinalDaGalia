@@ -71,6 +71,7 @@ public class Enemy : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Flecha"))
         {
+            PontControl.Pontuacao++;
             StartCoroutine(Die());
         }
     }

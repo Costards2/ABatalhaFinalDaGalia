@@ -11,7 +11,9 @@ public class MovePlayer : MonoBehaviour
     public Transform shootingPoint;
     private bool m_FacingRight = true;
     public float fireRate;
-    float nextFire; 
+    float nextFire;
+    public int pontos;
+    public GameObject vitoria; 
 
     void Start()
     {
@@ -19,7 +21,8 @@ public class MovePlayer : MonoBehaviour
         direita = transform.localScale;
         esquerda = transform.localScale;
         esquerda.x = esquerda.x * -1;
-
+        PontControl.Pontuacao = 0;
+        pontos = 0;
     }
 
     void Update()
@@ -86,6 +89,14 @@ public class MovePlayer : MonoBehaviour
                 shootingPoint.rotation = gameObject.transform.rotation;
                 Instantiate(bulletPrefab, shootingPoint.transform.position, shootingPoint.rotation);
             }
+        }
+
+        pontos = PontControl.Pontuacao;
+        
+        if (pontos == 28)
+        {
+            vitoria.SetActive(true);
+            Time.timeScale = 0; 
         }
 
         void Flip()
