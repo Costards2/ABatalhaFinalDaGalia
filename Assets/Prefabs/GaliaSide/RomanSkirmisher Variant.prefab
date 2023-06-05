@@ -13,11 +13,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1234188494647439933, guid: bfc1bda91c1110c4ea4aa97ed67290bc, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.6265315
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 1234188494647439933, guid: bfc1bda91c1110c4ea4aa97ed67290bc, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.6425964
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1234188494647439933, guid: bfc1bda91c1110c4ea4aa97ed67290bc, type: 3}
       propertyPath: m_LocalScale.z
@@ -65,7 +65,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1253005229517509486, guid: bfc1bda91c1110c4ea4aa97ed67290bc, type: 3}
       propertyPath: m_Name
-      value: RomanSkirmisher
+      value: RomanSkirmisher Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1253005229517509486, guid: bfc1bda91c1110c4ea4aa97ed67290bc, type: 3}
       propertyPath: m_IsActive
@@ -206,3 +206,4 @@ MonoBehaviour:
   chaseSpeed: 3
   chaseDistance: 10
   animator: {fileID: 1380227449460334760}
+  scriptEnemy: {fileID: 0}

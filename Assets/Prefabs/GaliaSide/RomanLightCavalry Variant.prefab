@@ -13,11 +13,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3562463468336123157, guid: 6b120039f25c5254c94969776b064da7, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.6499062
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 3562463468336123157, guid: 6b120039f25c5254c94969776b064da7, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.64990616
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3562463468336123157, guid: 6b120039f25c5254c94969776b064da7, type: 3}
       propertyPath: m_LocalScale.z
@@ -262,3 +262,4 @@ MonoBehaviour:
   chaseSpeed: 4
   chaseDistance: 10
   animator: {fileID: 4114119514661627742}
+  scriptEnemy: {fileID: 0}

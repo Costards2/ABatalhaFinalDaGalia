@@ -44,7 +44,7 @@ PrefabInstance:
       objectReference: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
     - target: {fileID: 1050884704688784316, guid: 32758c9ee51d1d64ab360e9dbaa43741, type: 3}
       propertyPath: m_Name
-      value: GaulCavalryArcher
+      value: GaulCavalryArcher Variant
       objectReference: {fileID: 0}
     - target: {fileID: 1050884704688784316, guid: 32758c9ee51d1d64ab360e9dbaa43741, type: 3}
       propertyPath: m_TagString

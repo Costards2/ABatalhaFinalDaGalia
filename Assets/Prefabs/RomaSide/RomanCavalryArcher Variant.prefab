@@ -92,7 +92,7 @@ PrefabInstance:
       objectReference: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
     - target: {fileID: 8894178432567031694, guid: 02a7ebd76177cad4ca50380be5df53f0, type: 3}
       propertyPath: m_Name
-      value: RomanCavalryArcher
+      value: RomanCavalryArcher Variant
       objectReference: {fileID: 0}
     - target: {fileID: 8894178432567031694, guid: 02a7ebd76177cad4ca50380be5df53f0, type: 3}
       propertyPath: m_TagString
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 5647575690086475019}
-  speed: 5
+  speed: 6
   bulletPrefab: {fileID: 713372807060381313, guid: 9883e923857ecc2459d1117c0a85185d, type: 3}
   shootingPoint: {fileID: 1900515317}
   fireRate: 1

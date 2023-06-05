@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 179043232950918850, guid: 6789f3c35b0cf5140978678342c57ea9, type: 3}
       propertyPath: m_Name
-      value: RomanSword
+      value: RomanSword Variant
       objectReference: {fileID: 0}
     - target: {fileID: 179043232950918850, guid: 6789f3c35b0cf5140978678342c57ea9, type: 3}
       propertyPath: m_TagString
@@ -21,11 +21,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4023922860256570067, guid: 6789f3c35b0cf5140978678342c57ea9, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.6509206
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 4023922860256570067, guid: 6789f3c35b0cf5140978678342c57ea9, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.65092057
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4023922860256570067, guid: 6789f3c35b0cf5140978678342c57ea9, type: 3}
       propertyPath: m_LocalScale.z
@@ -180,6 +180,7 @@ MonoBehaviour:
   chaseSpeed: 3
   chaseDistance: 10
   animator: {fileID: 4116200837167180395}
+  scriptEnemy: {fileID: 0}
 --- !u!114 &741074351
 MonoBehaviour:
   m_ObjectHideFlags: 0

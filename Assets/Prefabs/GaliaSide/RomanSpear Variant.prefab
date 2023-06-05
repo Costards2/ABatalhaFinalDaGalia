@@ -13,11 +13,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5950967280019649681, guid: ff53e81713c5c06458ffd1cdef0b5aef, type: 3}
       propertyPath: m_LocalScale.x
-      value: -0.61109
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 5950967280019649681, guid: ff53e81713c5c06458ffd1cdef0b5aef, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.61109
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5950967280019649681, guid: ff53e81713c5c06458ffd1cdef0b5aef, type: 3}
       propertyPath: m_LocalScale.z
@@ -65,7 +65,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7299787016455510757, guid: ff53e81713c5c06458ffd1cdef0b5aef, type: 3}
       propertyPath: m_Name
-      value: RomanSpear
+      value: RomanSpear Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7299787016455510757, guid: ff53e81713c5c06458ffd1cdef0b5aef, type: 3}
       propertyPath: m_IsActive
@@ -208,6 +208,7 @@ MonoBehaviour:
   chaseSpeed: 2
   chaseDistance: 10
   animator: {fileID: 8634797254742712180}
+  scriptEnemy: {fileID: 0}
 --- !u!95 &8634797254742712180 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 8774590663772080045, guid: ff53e81713c5c06458ffd1cdef0b5aef, type: 3}
