@@ -25,30 +25,42 @@ public class Life : MonoBehaviour
             //animator.SetBool("Dead", true);
             //gameObject.SetActive(false);
             //dead = true;
-            isDying = true; 
+            //isDying = true;
+            scriptmove = GameObject.FindWithTag("Player");
+            scriptmove.GetComponent<MovePlayer>().enabled = false;
+
+            Destroy(gameObject);
+            derrota.SetActive(true);
+            Cursor.visible = true;
+            Time.timeScale = 0f;
+
+            isDying = false;
 
         }
-        if (isDying == true)
-        {
-            StartCoroutine(DeathCoroutine());
-        }
+        //if (isDying == true)
+        //{
+            //StartCoroutine(DeathCoroutine());
+        //}
     }
-    private IEnumerator DeathCoroutine()
-    {
-        isDying = true;
+    //private IEnumerator DeathCoroutine()
+    //{
+        //isDying = true;
 
-        animator.SetTrigger("Death");
+        //animator.SetTrigger("Death");
 
 
-        yield return new WaitForSeconds(animator.GetCurrentAnimatorStateInfo(0).length);
-        scriptmove = GameObject.Find("GaulCavalryArcher");
-        scriptmove.GetComponent<MovePlayer>().enabled = false;
+        //yield return new WaitForSeconds((0));
+        //scriptmove = GameObject.FindWithTag("Player");
+        //scriptmove.GetComponent<MovePlayer>().enabled = false;
 
-        derrota.SetActive(true);
+        //Destroy(gameObject);
+        //derrota.SetActive(true);
+        //Cursor.visible = true;
+        //Time.timeScale = 0f;
 
-        isDying = false;
+        //isDying = false;
         //dead = true;
-    }
+    //}
 
     private void OnCollisionExit2D(Collision2D collision)
     {

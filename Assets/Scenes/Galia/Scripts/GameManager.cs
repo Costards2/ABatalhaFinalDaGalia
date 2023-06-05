@@ -7,9 +7,14 @@ public class GameManager : MonoBehaviour
 {
     //[SerializeField] private GameObject
     public GameObject player;
-    //public GameObject derrota;
+    public GameObject pause;
     public bool dead;
-    public GameObject hist; 
+    public GameObject hist;
+
+    private void Awake()
+    {
+        Time.timeScale = 1f;
+    }
 
     private void Start()
     {
@@ -32,7 +37,9 @@ public class GameManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            pause.SetActive(true);
             Cursor.visible = true;
+            Time.timeScale = 0f;
         }
     }
 

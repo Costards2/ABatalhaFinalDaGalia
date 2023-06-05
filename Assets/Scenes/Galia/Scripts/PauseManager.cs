@@ -21,22 +21,28 @@ public class PauseManager : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) && isPaused == false)
         {
-            PauseGame();
+           // PauseGame();
+        }
+
+        if (Input.GetKeyDown(KeyCode.Escape) && isPaused == true)
+        {
+            //ResumeGame();
         }
     }
 
-    private void PauseGame()
+    /*private void PauseGame()
     {
         Time.timeScale = 0f; 
         isPaused = true;
-    }
+    }*/
 
-    private void ResumeGame()
+    public void ResumeGame()
     {
         Time.timeScale = 1f; 
         isPaused = false;
+        Cursor.visible = false;
     }
 }
 

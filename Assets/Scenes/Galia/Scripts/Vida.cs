@@ -18,7 +18,7 @@ public class Vida : MonoBehaviour
 
     void Update()
     {
-        life = GameObject.Find("GaulCavalryArcher").GetComponent<Life>().life;
+        life = GameObject.FindWithTag("Player").GetComponent<Life>().life;
 
         if (life < 10)
         {

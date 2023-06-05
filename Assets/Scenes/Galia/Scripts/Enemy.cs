@@ -10,6 +10,7 @@ public class Enemy : MonoBehaviour
     public Animator animator;
     private Vector3 direita;
     private Vector3 esquerda;
+    public GameObject scriptEnemy;
 
     void Start()
     {
@@ -89,7 +90,13 @@ public class Enemy : MonoBehaviour
     {
         animator.SetBool("Die", true);
         yield return new WaitForSeconds(0.3f);
-        Destroy(gameObject);
+        GetComponent<Enemy>().enabled = false;
+        GetComponent<Collider2D>().enabled = false;
+        GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+        animator.SetBool("Die", false);
+
+
+
 
     }
 }
